@@ -1,0 +1,8 @@
+[program:label-studio]
+command=label-studio start --port 8585
+autostart=true
+autorestart=true
+stderr_logfile=/var/log/label-studio.err.log
+stdout_logfile=/var/log/label-studio.out.log
+user=root
+
