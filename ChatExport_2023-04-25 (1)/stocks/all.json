@@ -1,0 +1,6399 @@
+{
+    "گروه های صنعت": [
+        {
+            "sym_id": "کد نماد",
+            "sym": "نماد",
+            "sym_name_latin": "نام لاتین",
+            "sym_name": "نماد",
+            "name": "نام"
+        }
+    ],
+    "خودرو و ساخت قطعات": [
+        {
+            "sym_id": "IRB5IKCO8751",
+            "sym": "IKCQ1",
+            "sym_name_latin": "Iran Khodro-D",
+            "sym_name": "18719101",
+            "name": "اوراق مشاركت ايران‌ خودرو"
+        },
+        {
+            "sym_id": "IRO1AZIN0001",
+            "sym": "AZIN1",
+            "sym_name_latin": "Saipa Azin",
+            "sym_name": "خاذين",
+            "name": "سايپاآذين‌"
+        },
+        {
+            "sym_id": "IRR1AZIN0101",
+            "sym": "AZIX1",
+            "sym_name_latin": "Saipa Azin-R",
+            "sym_name": "خاذينح",
+            "name": "ح . سايپاآذين‌"
+        },
+        {
+            "sym_id": "IRO1ATIR0001",
+            "sym": "ATIR1",
+            "sym_name_latin": "Iran Tractor F.",
+            "sym_name": "خاهن",
+            "name": "آهنگري‌ تراكتورسازي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1ATIR0101",
+            "sym": "ATIX1",
+            "sym_name_latin": "Iran Tractor F.-R",
+            "sym_name": "خاهنح",
+            "name": "ح . آهنگري تراكتورسازي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1KAVR0001",
+            "sym": "KAVR1",
+            "sym_name_latin": "Iran Khodro D.",
+            "sym_name": "خاور",
+            "name": "ايران‌ خودروديزل‌"
+        },
+        {
+            "sym_id": "IRR1KAVR0101",
+            "sym": "KAVX1",
+            "sym_name_latin": "Iran Khodro D.-R",
+            "sym_name": "خاورح",
+            "name": "ح . ايران‌ خودروديزل‌"
+        },
+        {
+            "sym_id": "IRO1BHMN0001",
+            "sym": "BHMN1",
+            "sym_name_latin": "Bahman Group",
+            "sym_name": "خبهمن",
+            "name": "گروه‌بهمن‌"
+        },
+        {
+            "sym_id": "IRR1BHMN0101",
+            "sym": "BHMX1",
+            "sym_name_latin": "Bahman Group-R",
+            "sym_name": "خبهمنح",
+            "name": "ح . گروه‌بهمن‌"
+        },
+        {
+            "sym_id": "IRO1PKOD0001",
+            "sym": "PKOD1",
+            "sym_name_latin": "S*Pars Khodro",
+            "sym_name": "خپارس",
+            "name": "پارس‌ خودرو"
+        },
+        {
+            "sym_id": "IRR1PKOD0101",
+            "sym": "PKOX1",
+            "sym_name_latin": "Pars Khodro-R",
+            "sym_name": "خپارسح",
+            "name": "ح . پارس‌ خودرو"
+        },
+        {
+            "sym_id": "IRO1SZPO0001",
+            "sym": "SZPO1",
+            "sym_name_latin": "Sazeh Pouyesh",
+            "sym_name": "خپويش",
+            "name": "سازه‌ پويش‌"
+        },
+        {
+            "sym_id": "IRR1SZPO0101",
+            "sym": "SZPX1",
+            "sym_name_latin": "Sazeh Pouyesh-R",
+            "sym_name": "خپويشح",
+            "name": "ح . سازه‌ پويش‌"
+        },
+        {
+            "sym_id": "IRO1RTIR0001",
+            "sym": "RTIR1",
+            "sym_name_latin": "I. T. Foundry",
+            "sym_name": "ختراك",
+            "name": "ريخته‌گري‌ تراكتورسازي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1RTIR0101",
+            "sym": "RTIX1",
+            "sym_name_latin": "I. T. Foundry-R",
+            "sym_name": "ختراكح",
+            "name": "ح . ريخته‌گري‌ تراكتورسازي‌"
+        },
+        {
+            "sym_id": "IRO1RADI0001",
+            "sym": "RADI1",
+            "sym_name_latin": "Iran Radiator",
+            "sym_name": "ختور",
+            "name": "رادياتور ايران‌"
+        },
+        {
+            "sym_id": "IRR1RADI0101",
+            "sym": "RADX1",
+            "sym_name_latin": "Iran Radiator-R",
+            "sym_name": "ختورح",
+            "name": "ح . رادياتور ايران‌"
+        },
+        {
+            "sym_id": "IRO1GHAT0001",
+            "sym": "GHAT1",
+            "sym_name_latin": "Iran Auto-Parts",
+            "sym_name": "ختوقا",
+            "name": "قطعات‌ اتومبيل‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1GHAT0101",
+            "sym": "GHAX1",
+            "sym_name_latin": "Iran Auto-Parts-R",
+            "sym_name": "ختوقاح",
+            "name": "ح . قطعات‌ اتومبيل‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1CHAR0001",
+            "sym": "CHAR1",
+            "sym_name_latin": "Charkheshgar",
+            "sym_name": "خچرخش",
+            "name": "چرخشگر"
+        },
+        {
+            "sym_id": "IRR1CHAR0101",
+            "sym": "CHAX1",
+            "sym_name_latin": "Charkheshgar-R",
+            "sym_name": "خچرخشح",
+            "name": "ح . چرخشگر"
+        },
+        {
+            "sym_id": "IRO1RIIR0001",
+            "sym": "RIIR1",
+            "sym_name_latin": "Iran Casting",
+            "sym_name": "خريخت",
+            "name": "صنايع‌ريخته‌گري‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1RIIR0101",
+            "sym": "RIIX1",
+            "sym_name_latin": "Iran Casting-R",
+            "sym_name": "خريختح",
+            "name": "ح . صنايع‌ريخته‌گري‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1RINM0001",
+            "sym": "RINM1",
+            "sym_name_latin": "Mashad Wheel",
+            "sym_name": "خرينگ",
+            "name": "رينگ‌سازي‌مشهد"
+        },
+        {
+            "sym_id": "IRR1RINM0101",
+            "sym": "RINX1",
+            "sym_name_latin": "Mashad Wheel-R",
+            "sym_name": "خرينگح",
+            "name": "ح . رينگ‌سازي‌مشهد"
+        },
+        {
+            "sym_id": "IRO1ZMYD0001",
+            "sym": "ZMYD1",
+            "sym_name_latin": "Zamyad",
+            "sym_name": "خزاميا",
+            "name": "زامياد"
+        },
+        {
+            "sym_id": "IRR1ZMYD0101",
+            "sym": "ZMYX1",
+            "sym_name_latin": "Zamyad-R",
+            "sym_name": "خزامياح",
+            "name": "ح . زامياد"
+        },
+        {
+            "sym_id": "IRO1FNAR0001",
+            "sym": "FNAR1",
+            "sym_name_latin": "Zar Spring",
+            "sym_name": "خزر",
+            "name": "فنرسازي‌زر"
+        },
+        {
+            "sym_id": "IRR1FNAR0101",
+            "sym": "FNAX1",
+            "sym_name_latin": "Zar Spring-R",
+            "sym_name": "خزرح",
+            "name": "ح . فنرسازي‌زر"
+        },
+        {
+            "sym_id": "IRO1SIPA0001",
+            "sym": "SIPA1",
+            "sym_name_latin": "S*Saipa",
+            "sym_name": "خساپا",
+            "name": "سايپا"
+        },
+        {
+            "sym_id": "IRR1SIPA0101",
+            "sym": "SIPX1",
+            "sym_name_latin": "Saipa-R",
+            "sym_name": "خساپاح",
+            "name": "ح . سايپا"
+        },
+        {
+            "sym_id": "IRO1KHSH0001",
+            "sym": "KHSH1",
+            "sym_name_latin": "E. Kh. Shargh",
+            "sym_name": "خشرق",
+            "name": "الكتريك‌ خودرو شرق‌"
+        },
+        {
+            "sym_id": "IRR1KHSH0101",
+            "sym": "KHSX1",
+            "sym_name_latin": "E. Kh. Shargh-R",
+            "sym_name": "خشرقح",
+            "name": "ح . الكتريك‌ خودرو شرق‌"
+        },
+        {
+            "sym_id": "IRO1KFAN0001",
+            "sym": "KFAN1",
+            "sym_name_latin": "Khavar Spring",
+            "sym_name": "خفنر",
+            "name": "فنرسازي‌خاور"
+        },
+        {
+            "sym_id": "IRR1KFAN0101",
+            "sym": "KFAX1",
+            "sym_name_latin": "Khavar Spring-R",
+            "sym_name": "خفنرح",
+            "name": "ح . فنرسازي‌خاور"
+        },
+        {
+            "sym_id": "IRO1KRIR0001",
+            "sym": "KRIR1",
+            "sym_name_latin": "Irka Part",
+            "sym_name": "خكار",
+            "name": "ايركا پارت صنعت"
+        },
+        {
+            "sym_id": "IRR1KRIR0101",
+            "sym": "KRIX1",
+            "sym_name_latin": "Irka Part -R",
+            "sym_name": "خكارح",
+            "name": "ح.ايركا پارت صنعت"
+        },
+        {
+            "sym_id": "IRO1SPDZ0001",
+            "sym": "SPDZ1",
+            "sym_name_latin": "Saipa Diesel",
+            "sym_name": "خكاوه",
+            "name": "سايپا ديزل‌"
+        },
+        {
+            "sym_id": "IRR1SPDZ0101",
+            "sym": "SPDX1",
+            "sym_name_latin": "Saipa Diesel-R",
+            "sym_name": "خكاوهح",
+            "name": "ح . سايپا ديزل‌"
+        },
+        {
+            "sym_id": "IRO1INDM0001",
+            "sym": "INDM1",
+            "sym_name_latin": "Indamin",
+            "sym_name": "خكمك",
+            "name": "كمك‌فنرايندامين‌"
+        },
+        {
+            "sym_id": "IRR1INDM0101",
+            "sym": "INDX1",
+            "sym_name_latin": "Indamin-R",
+            "sym_name": "خكمكح",
+            "name": "ح . كمك‌فنرايندامين‌"
+        },
+        {
+            "sym_id": "IRO1GOST0001",
+            "sym": "GOST1",
+            "sym_name_latin": "Iran Kh. Inv.",
+            "sym_name": "خگستر",
+            "name": "گسترش‌سرمايه‌گذاري‌ايران‌خودرو"
+        },
+        {
+            "sym_id": "IRR1GOST0101",
+            "sym": "GOSX1",
+            "sym_name_latin": "Iran Kh. Inv.-R",
+            "sym_name": "خگسترح",
+            "name": "ح . سرمايه‌گذاري‌ايران‌خودرو"
+        },
+        {
+            "sym_id": "IRO1LENT0001",
+            "sym": "LENT1",
+            "sym_name_latin": "Iran Brake L.",
+            "sym_name": "خلنت",
+            "name": "لنت‌ ترمزايران‌"
+        },
+        {
+            "sym_id": "IRR1LENT0101",
+            "sym": "LENX1",
+            "sym_name_latin": "Iran Brake L.-R",
+            "sym_name": "خلنتح",
+            "name": "ح . لنت‌ ترمزايران‌"
+        },
+        {
+            "sym_id": "IRO1NMOH0001",
+            "sym": "NMOH1",
+            "sym_name_latin": "Nirou Moharreke",
+            "sym_name": "خمحركه",
+            "name": "نيرو محركه‌"
+        },
+        {
+            "sym_id": "IRR1NMOH0101",
+            "sym": "NMOX1",
+            "sym_name_latin": "Nirou Moharreke-R",
+            "sym_name": "خمحركهح",
+            "name": "ح . نيرو محركه‌"
+        },
+        {
+            "sym_id": "IRO1TMKH0001",
+            "sym": "TMKH1",
+            "sym_name_latin": "VAMCO",
+            "sym_name": "خمحور",
+            "name": "توليدمحورخودرو"
+        },
+        {
+            "sym_id": "IRR1TMKH0101",
+            "sym": "TMKX1",
+            "sym_name_latin": "VAMCO-R",
+            "sym_name": "خمحورح",
+            "name": "ح . توليدمحورخودرو"
+        },
+        {
+            "sym_id": "IRO1MHKM0001",
+            "sym": "MHKM1",
+            "sym_name_latin": "Mehrcam Pars",
+            "sym_name": "خمهر",
+            "name": "مهركام‌پارس‌"
+        },
+        {
+            "sym_id": "IRR1MHKM0101",
+            "sym": "MHKX1",
+            "sym_name_latin": "Mehrcam Pars-R",
+            "sym_name": "خمهرح",
+            "name": "ح . مهركام‌پارس‌"
+        },
+        {
+            "sym_id": "IRO1MSTI0001",
+            "sym": "MSTI1",
+            "sym_name_latin": "Motorsazan",
+            "sym_name": "خموتور",
+            "name": "موتورسازان‌تراكتورسازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1MSTI0101",
+            "sym": "MSTX1",
+            "sym_name_latin": "Motorsazan-R",
+            "sym_name": "خموتورح",
+            "name": "ح . موتورسازان‌تراكتورسازي‌"
+        },
+        {
+            "sym_id": "IRO1MNSR0001",
+            "sym": "MNSR1",
+            "sym_name_latin": "Nasir Machine",
+            "sym_name": "خنصير",
+            "name": "مهندسي‌نصيرماشين‌"
+        },
+        {
+            "sym_id": "IRR1MNSR0101",
+            "sym": "MNSX1",
+            "sym_name_latin": "Nasir Machine-R",
+            "sym_name": "خنصيرح",
+            "name": "ح . مهندسي‌نصيرماشين‌"
+        },
+        {
+            "sym_id": "IRO1IKCO0001",
+            "sym": "IKCO1",
+            "sym_name_latin": "Iran Khodro",
+            "sym_name": "خودرو",
+            "name": "ايران‌ خودرو"
+        },
+        {
+            "sym_id": "IRR1IKCO0101",
+            "sym": "IKCX1",
+            "sym_name_latin": "Iran Khodro-R",
+            "sym_name": "خودروح",
+            "name": "ح . ايران‌ خودرو"
+        },
+        {
+            "sym_id": "IRO1MESI0001",
+            "sym": "MESI1",
+            "sym_name_latin": "Iran Kh. A. M.",
+            "sym_name": "خوساز",
+            "name": "محورسازان‌ايران‌خودرو"
+        },
+        {
+            "sym_id": "IRR1MESI0101",
+            "sym": "MESX1",
+            "sym_name_latin": "Iran Kh. A. M.-R",
+            "sym_name": "خوسازح",
+            "name": "ح . محورسازان‌ايران‌خودرو"
+        },
+        {
+            "sym_id": "IRO1RENA0001",
+            "sym": "RENA1",
+            "sym_name_latin": "Rena Investment",
+            "sym_name": "ورنا",
+            "name": "سرمايه‌گذاري‌ رنا(هلدينگ‌"
+        },
+        {
+            "sym_id": "IRR1RENA0101",
+            "sym": "RENX1",
+            "sym_name_latin": "Rena Investment-R",
+            "sym_name": "ورناح",
+            "name": "ح . سرمايه‌گذاري‌ رنا(هلدينگ‌"
+        }
+    ],
+    "هتل و رستوران": [
+        {
+            "sym_id": "IRO1ABAD0001",
+            "sym": "ABAD1",
+            "sym_name_latin": "Abadgaran",
+            "sym_name": "آباد",
+            "name": "توريستي ورفاهي آبادگران ايران"
+        },
+        {
+            "sym_id": "IRR1ABAD0101",
+            "sym": "ABAX1",
+            "sym_name_latin": "Abadgaran-R",
+            "sym_name": "آبادح",
+            "name": "ح . ‌توريستي‌ورفاهي‌آبادگران‌"
+        }
+    ],
+    "عرضه برق، گاز، بخاروآب گرم": [
+        {
+            "sym_id": "IRO1NBAB0001",
+            "sym": "NBAB1",
+            "sym_name_latin": "Abadan PG",
+            "sym_name": "آبادا",
+            "name": "توليد نيروي برق آبادان"
+        },
+        {
+            "sym_id": "IRO1JHRM0001",
+            "sym": "JHRM1",
+            "sym_name_latin": "Power Gen. Jarom",
+            "sym_name": "بجهرم",
+            "name": "توسعه مولد نيروگاهي جهرم"
+        },
+        {
+            "sym_id": "IRO1BFJR0001",
+            "sym": "BFJR1",
+            "sym_name_latin": "Fajr E.Persia Gulf",
+            "sym_name": "بفجر",
+            "name": "فجر انرژي خليج فارس"
+        },
+        {
+            "sym_id": "IRR1BFJR0101",
+            "sym": "BFJX1",
+            "sym_name_latin": "Fajr EPersiaGulf-R",
+            "sym_name": "بفجرح",
+            "name": "ح . فجر انرژي خليج فارس"
+        },
+        {
+            "sym_id": "IRO1MOBN0001",
+            "sym": "MOBN1",
+            "sym_name_latin": "Mobin Petr.",
+            "sym_name": "مبين",
+            "name": "مبين انرژي خليج فارس"
+        },
+        {
+            "sym_id": "IRO1SNRO0001",
+            "sym": "SNRO1",
+            "sym_name_latin": "Nirou Inv.",
+            "sym_name": "ونيرو",
+            "name": "سرمايه‌گذاري‌نيرو"
+        },
+        {
+            "sym_id": "IRR1SNRO0101",
+            "sym": "SNRX1",
+            "sym_name_latin": "Nirou Inv.-R",
+            "sym_name": "ونيروح",
+            "name": "ح . سرمايه‌گذاري‌نيرو"
+        }
+    ],
+    "رايانه و فعاليت‌هاي وابسته به آن": [
+        {
+            "sym_id": "IRO1APPE0001",
+            "sym": "APPE1",
+            "sym_name_latin": "Asan Pardakht Pers",
+            "sym_name": "آپ",
+            "name": "آسان پرداخت پرشين"
+        },
+        {
+            "sym_id": "IRO1PRKT0001",
+            "sym": "PRKT1",
+            "sym_name_latin": "Behpardakht Mellat",
+            "sym_name": "پرداخت",
+            "name": "به پرداخت ملت"
+        },
+        {
+            "sym_id": "IRR1PRKT0101",
+            "sym": "PRKX1",
+            "sym_name_latin": "Behpardakht-R",
+            "sym_name": "پرداختح",
+            "name": "ح . به پرداخت ملت"
+        },
+        {
+            "sym_id": "IRO1INFO0001",
+            "sym": "INFO1",
+            "sym_name_latin": "Inf. Services",
+            "sym_name": "رانفور",
+            "name": "خدمات‌انفورماتيك‌"
+        },
+        {
+            "sym_id": "IRR1INFO0101",
+            "sym": "INFX1",
+            "sym_name_latin": "Inf. Services-R",
+            "sym_name": "رانفورح",
+            "name": "ح . خدمات‌انفورماتيك‌"
+        },
+        {
+            "sym_id": "IRO1EPRS0001",
+            "sym": "EPRS1",
+            "sym_name_latin": "Parsian Ecommerc",
+            "sym_name": "رتاپ",
+            "name": "تجارت الكترونيك  پارسيان"
+        },
+        {
+            "sym_id": "IRR1EPRS0101",
+            "sym": "EPRX1",
+            "sym_name_latin": "Parsian Ecommerc-R",
+            "sym_name": "رتاپح",
+            "name": "ح.تجارت الكترونيك پارسيان"
+        },
+        {
+            "sym_id": "IRO1RKSH0001",
+            "sym": "RKSH1",
+            "sym_name_latin": "Etebari Iran Co",
+            "sym_name": "ركيش",
+            "name": "كارت اعتباري ايران كيش"
+        },
+        {
+            "sym_id": "IRR1RKSH0101",
+            "sym": "RKSX1",
+            "sym_name_latin": "Etebari Iran Co-R",
+            "sym_name": "ركيشح",
+            "name": "ح. كارت اعتباري ايران كيش"
+        },
+        {
+            "sym_id": "IRO1SEPK0001",
+            "sym": "SEPK1",
+            "sym_name_latin": "Saman-E-Kish",
+            "sym_name": "سپ",
+            "name": "پرداخت الكترونيك سامان كيش"
+        },
+        {
+            "sym_id": "IRR1SEPK0101",
+            "sym": "SKPX1",
+            "sym_name_latin": "Saman-E-Kish-R",
+            "sym_name": "سپح",
+            "name": "ح . پرداخت الكترونيك سامان كيش"
+        },
+        {
+            "sym_id": "IRO1SYSM0001",
+            "sym": "SYSM1",
+            "sym_name_latin": "Hamkaran System Co",
+            "sym_name": "سيستم",
+            "name": "همكاران سيستم"
+        },
+        {
+            "sym_id": "IRO1DADE0001",
+            "sym": "DADE1",
+            "sym_name_latin": "DPI",
+            "sym_name": "مداران",
+            "name": "داده‌پردازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1DADE0101",
+            "sym": "DADX1",
+            "sym_name_latin": "DPI-R",
+            "sym_name": "مدارانح",
+            "name": "ح . داده‌پردازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1IAGM0001",
+            "sym": "IAGM1",
+            "sym_name_latin": "Iran Argham",
+            "sym_name": "مرقام",
+            "name": "ايران‌ارقام‌"
+        },
+        {
+            "sym_id": "IRR1IAGM0101",
+            "sym": "IAGX1",
+            "sym_name_latin": "Iran Argham-R",
+            "sym_name": "مرقامح",
+            "name": "ح . ايران‌ارقام‌"
+        }
+    ],
+    "بيمه وصندوق بازنشستگي به جزتامين اجتماعي": [
+        {
+            "sym_id": "IRO1ASIA0001",
+            "sym": "ASIA1",
+            "sym_name_latin": "Asia Bime",
+            "sym_name": "آسيا",
+            "name": "بيمه آسيا"
+        },
+        {
+            "sym_id": "IRO1ETKA0001",
+            "sym": "ETKA1",
+            "sym_name_latin": "Amin Company",
+            "sym_name": "اتكام",
+            "name": "بيمه اتكايي امين"
+        },
+        {
+            "sym_id": "IRR1ETKA0101",
+            "sym": "ETKX1",
+            "sym_name_latin": "Amin Company-R",
+            "sym_name": "اتكامح",
+            "name": "ح . بيمه اتكايي امين"
+        },
+        {
+            "sym_id": "IRO1BALB0001",
+            "sym": "BALB1",
+            "sym_name_latin": "S*Alborz Bimeh",
+            "sym_name": "البرز",
+            "name": "بيمه البرز"
+        },
+        {
+            "sym_id": "IRR1BALB0101",
+            "sym": "BABX1",
+            "sym_name_latin": "Alborz Bimeh-R",
+            "sym_name": "البرزح",
+            "name": "ح.بيمه البرز"
+        },
+        {
+            "sym_id": "IRO1IPAR0001",
+            "sym": "IPAR1",
+            "sym_name_latin": "Parsian",
+            "sym_name": "پارسيان",
+            "name": "بيمه پارسيان"
+        },
+        {
+            "sym_id": "IRR1IPAR0101",
+            "sym": "IPAX1",
+            "sym_name_latin": "Parsian-R",
+            "sym_name": "پارسيانح",
+            "name": "ح.بيمه پارسيان"
+        },
+        {
+            "sym_id": "IRO1BDAN0001",
+            "sym": "BDAN1",
+            "sym_name_latin": "Dana Insurance",
+            "sym_name": "دانا",
+            "name": "بيمه دانا"
+        },
+        {
+            "sym_id": "IRR1BDAN0101",
+            "sym": "BDAX1",
+            "sym_name_latin": "Dana Insurance-R",
+            "sym_name": "داناح",
+            "name": "ح . بيمه دانا"
+        },
+        {
+            "sym_id": "IRO1BVMA0001",
+            "sym": "BVMA1",
+            "sym_name_latin": "Bime Ma Co.",
+            "sym_name": "ما",
+            "name": "بيمه  ما"
+        },
+        {
+            "sym_id": "IRR1BVMA0101",
+            "sym": "BVMX1",
+            "sym_name_latin": "Bime Ma Co-R",
+            "sym_name": "ماح",
+            "name": "ح . بيمه  ما"
+        },
+        {
+            "sym_id": "IRO1BMEL0001",
+            "sym": "BMEL1",
+            "sym_name_latin": "Mellat Insur.",
+            "sym_name": "ملت",
+            "name": "بيمه ملت"
+        },
+        {
+            "sym_id": "IRR1BMEL0101",
+            "sym": "BMEX1",
+            "sym_name_latin": "Mellat Insur-R",
+            "sym_name": "ملتح",
+            "name": "ح. بيمه ملت"
+        }
+    ],
+    "ابزارپزشکي، اپتيکي و اندازه‌گيري": [
+        {
+            "sym_id": "IRO1CONT0001",
+            "sym": "CONT1",
+            "sym_name_latin": "Iran Counter",
+            "sym_name": "آكنتور",
+            "name": "كنتورسازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1CONT0101",
+            "sym": "CONX1",
+            "sym_name_latin": "Iran Counter-R",
+            "sym_name": "آكنتورح",
+            "name": "ح . كنتورسازي‌ايران‌"
+        }
+    ],
+    "فلزات اساسي": [
+        {
+            "sym_id": "IRO1ALMN0001",
+            "sym": "ALMN1",
+            "sym_name_latin": "Alomina Iran",
+            "sym_name": "آلومينا",
+            "name": "آلوميناي ايران"
+        },
+        {
+            "sym_id": "IRO1ZOBI0001",
+            "sym": "ZOBI1",
+            "sym_name_latin": "Esfahan Steel Co.",
+            "sym_name": "ذوب",
+            "name": "ذوب آهن اصفهان"
+        },
+        {
+            "sym_id": "IRO1KSIM0001",
+            "sym": "KSIM1",
+            "sym_name_latin": "Calcimine",
+            "sym_name": "فاسمين",
+            "name": "كالسيمين‌"
+        },
+        {
+            "sym_id": "IRR1KSIM0101",
+            "sym": "KSIX1",
+            "sym_name_latin": "Calcimine-R",
+            "sym_name": "فاسمينح",
+            "name": "ح . كالسيمين‌"
+        },
+        {
+            "sym_id": "IRO1ALTK0001",
+            "sym": "ALTK1",
+            "sym_name_latin": "Alumtek",
+            "sym_name": "فالوم",
+            "name": "آلومتك‌"
+        },
+        {
+            "sym_id": "IRR1ALTK0101",
+            "sym": "ALTX1",
+            "sym_name_latin": "Alumtek-R",
+            "sym_name": "فالومح",
+            "name": "ح . آلومتك‌"
+        },
+        {
+            "sym_id": "IRO1NLAH0001",
+            "sym": "NLAH1",
+            "sym_name_latin": "Ahwaz R. & P.",
+            "sym_name": "فاهواز",
+            "name": "نوردولوله‌ اهواز"
+        },
+        {
+            "sym_id": "IRR1NLAH0101",
+            "sym": "NLAX1",
+            "sym_name_latin": "Ahwaz R. & P.-R",
+            "sym_name": "فاهوازح",
+            "name": "ح . نوردولوله‌ اهواز"
+        },
+        {
+            "sym_id": "IRO1ALIR0001",
+            "sym": "ALIR1",
+            "sym_name_latin": "S*Iran Aluminium",
+            "sym_name": "فايرا",
+            "name": "آلومينيوم‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1ALIR0101",
+            "sym": "ALIX1",
+            "sym_name_latin": "Iran Aluminium-R",
+            "sym_name": "فايراح",
+            "name": "ح . آلومينيوم‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1BAHN0001",
+            "sym": "BAHN1",
+            "sym_name_latin": "Bahonar Copper",
+            "sym_name": "فباهنر",
+            "name": "مس‌ شهيدباهنر"
+        },
+        {
+            "sym_id": "IRR1BAHN0101",
+            "sym": "BAHX1",
+            "sym_name_latin": "Bahonar Copper-R",
+            "sym_name": "فباهنرح",
+            "name": "ح . مس‌ شهيدباهنر"
+        },
+        {
+            "sym_id": "IRO1ALPS0001",
+            "sym": "ALPS1",
+            "sym_name_latin": "Pars Aluminum",
+            "sym_name": "فپارس",
+            "name": "آلومينيم‌ پارس‌"
+        },
+        {
+            "sym_id": "IRR1ALPS0101",
+            "sym": "ALPX1",
+            "sym_name_latin": "Pars Aluminum-R",
+            "sym_name": "فپارسح",
+            "name": "ح . آلومينيم‌ پارس‌"
+        },
+        {
+            "sym_id": "IRO1SPTA0001",
+            "sym": "SPTA1",
+            "sym_name_latin": "Sepanta",
+            "sym_name": "فپنتا",
+            "name": "سپنتا"
+        },
+        {
+            "sym_id": "IRR1SPTA0101",
+            "sym": "SPTX1",
+            "sym_name_latin": "Sepanta-R",
+            "sym_name": "فپنتاح",
+            "name": "ح . سپنتا"
+        },
+        {
+            "sym_id": "IRO1FAJR0001",
+            "sym": "FAJR1",
+            "sym_name_latin": "Amirkabir Steel",
+            "sym_name": "فجر",
+            "name": "فولاد اميركبيركاشان"
+        },
+        {
+            "sym_id": "IRR1FAJR0101",
+            "sym": "FAJX1",
+            "sym_name_latin": "Amirkabir Steel.-R",
+            "sym_name": "فجرح",
+            "name": "ح .فولاد امير كبير كاشان"
+        },
+        {
+            "sym_id": "IRO1FKAS0001",
+            "sym": "FKAS1",
+            "sym_name_latin": "Khorasan Steel Co.",
+            "sym_name": "فخاس",
+            "name": "فولاد خراسان"
+        },
+        {
+            "sym_id": "IRR1FKAS0101",
+            "sym": "FKAX1",
+            "sym_name_latin": "Khorasan Steel-R",
+            "sym_name": "فخاسح",
+            "name": "ح . فولاد خراسان"
+        },
+        {
+            "sym_id": "IRO1FKHZ0001",
+            "sym": "FKHZ1",
+            "sym_name_latin": "Khouz. Steel",
+            "sym_name": "فخوز",
+            "name": "فولاد  خوزستان"
+        },
+        {
+            "sym_id": "IRR1FKHZ0101",
+            "sym": "FKHX1",
+            "sym_name_latin": "Khouz. Steel-R",
+            "sym_name": "فخوزح",
+            "name": "ح . فولاد خوزستان"
+        },
+        {
+            "sym_id": "IRO1FRVR0001",
+            "sym": "FRVR1",
+            "sym_name_latin": "Iran Mineral P.",
+            "sym_name": "فرآور",
+            "name": "فرآوري‌موادمعدني‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1FRVR0101",
+            "sym": "FRVX1",
+            "sym_name_latin": "Iran Mineral P.-R",
+            "sym_name": "فرآورح",
+            "name": "ح . فرآوري‌موادمعدني‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1FRIS0001",
+            "sym": "FRIS1",
+            "sym_name_latin": "Iran Ferr.",
+            "sym_name": "فروس",
+            "name": "فروسيليس‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1FRIS0101",
+            "sym": "FRIX1",
+            "sym_name_latin": "Iran Ferr.-R",
+            "sym_name": "فروسح",
+            "name": "ح . فروسيليس‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1TFKR0001",
+            "sym": "TFKR1",
+            "sym_name_latin": "Kerman Ferr.",
+            "sym_name": "فروم",
+            "name": "توليدفروموليبدن‌كرمان‌"
+        },
+        {
+            "sym_id": "IRR1TFKR0101",
+            "sym": "TFKX1",
+            "sym_name_latin": "Kerman Ferr.-R",
+            "sym_name": "فرومح",
+            "name": "ح . توليدفروموليبدن‌كرمان‌"
+        },
+        {
+            "sym_id": "IRO1LSAH0001",
+            "sym": "LSAH1",
+            "sym_name_latin": "Ahwaz Pipe Mill",
+            "sym_name": "فساز",
+            "name": "لوله‌سازي‌اهواز"
+        },
+        {
+            "sym_id": "IRO1FSAZ0001",
+            "sym": "FSAZ1",
+            "sym_name_latin": "GhaltakSaznSepahan",
+            "sym_name": "فسازان",
+            "name": "غلتك سازان سپاهان"
+        },
+        {
+            "sym_id": "IRR1FSAZ0101",
+            "sym": "FSAX1",
+            "sym_name_latin": "GhaltakSaSepahan-R",
+            "sym_name": "فسازانح",
+            "name": "ح . غلتك سازان سپاهان"
+        },
+        {
+            "sym_id": "IRO1FSBZ0001",
+            "sym": "FSBZ1",
+            "sym_name_latin": "Sabzevar Steel",
+            "sym_name": "فسبزوار",
+            "name": "پارس فولاد سبزوار"
+        },
+        {
+            "sym_id": "IRO1SEPA0001",
+            "sym": "SEPA1",
+            "sym_name_latin": "Sepahan Group",
+            "sym_name": "فسپا",
+            "name": "گروه‌صنعتي‌سپاهان‌"
+        },
+        {
+            "sym_id": "IRR1SEPA0101",
+            "sym": "SEPX1",
+            "sym_name_latin": "Sepahan Group-R",
+            "sym_name": "فسپاح",
+            "name": "ح . گروه‌صنعتي‌سپاهان‌"
+        },
+        {
+            "sym_id": "IRO1LSDD0001",
+            "sym": "LSDD1",
+            "sym_name_latin": "Sadid Pipe",
+            "sym_name": "فسديد",
+            "name": "لوله و تجهيزات سديد"
+        },
+        {
+            "sym_id": "IRR1LSDD0101",
+            "sym": "LSDX1",
+            "sym_name_latin": "Sadid Group-R",
+            "sym_name": "فسديدح",
+            "name": "ح . لوله و تجهيزات سديد"
+        },
+        {
+            "sym_id": "IRO1SORB0001",
+            "sym": "SORB1",
+            "sym_name_latin": "N. I. L. Z.",
+            "sym_name": "فسرب",
+            "name": "ملي‌ سرب‌وروي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1SORB0101",
+            "sym": "SORX1",
+            "sym_name_latin": "N. I. L. Z.-R",
+            "sym_name": "فسربح",
+            "name": "ح . ملي‌ سرب‌وروي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1LMIR0001",
+            "sym": "LMIR1",
+            "sym_name_latin": "Iran M. & P. M.",
+            "sym_name": "فلوله",
+            "name": "لوله‌وماشين‌سازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1LMIR0101",
+            "sym": "LMIX1",
+            "sym_name_latin": "Iran M. & P. M.-R",
+            "sym_name": "فلولهح",
+            "name": "ح . لوله‌وماشين‌سازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1PMET0001",
+            "sym": "PMET1",
+            "sym_name_latin": "Parsmetal",
+            "sym_name": "فمتال",
+            "name": "پارس‌ متال‌"
+        },
+        {
+            "sym_id": "IRR1PMET0101",
+            "sym": "PMEX1",
+            "sym_name_latin": "Parsmetal-R",
+            "sym_name": "فمتالح",
+            "name": "ح . پارس‌ متال‌"
+        },
+        {
+            "sym_id": "IRO1ALMR0001",
+            "sym": "ALMR1",
+            "sym_name_latin": "Alomrad",
+            "sym_name": "فمراد",
+            "name": "آلومراد"
+        },
+        {
+            "sym_id": "IRR1ALMR0101",
+            "sym": "ALMX1",
+            "sym_name_latin": "Alomrad-R",
+            "sym_name": "فمرادح",
+            "name": "ح . آلومراد"
+        },
+        {
+            "sym_id": "IRO1MSMI0001",
+            "sym": "MSMI1",
+            "sym_name_latin": "S*I. N. C. Ind.",
+            "sym_name": "فملي",
+            "name": "ملي‌ صنايع‌ مس‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1MSMI0101",
+            "sym": "MSMX1",
+            "sym_name_latin": "I. N. C. Ind.-R",
+            "sym_name": "فمليح",
+            "name": "ح . ملي‌ صنايع‌ مس‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1NALM0001",
+            "sym": "NALM1",
+            "sym_name_latin": "Aluminum R.",
+            "sym_name": "فنوال",
+            "name": "نورد آلومينيوم‌"
+        },
+        {
+            "sym_id": "IRR1NALM0101",
+            "sym": "NALX1",
+            "sym_name_latin": "Aluminum R.-R",
+            "sym_name": "فنوالح",
+            "name": "ح . نورد آلومينيوم‌"
+        },
+        {
+            "sym_id": "IRO1NGFO0001",
+            "sym": "NGFO1",
+            "sym_name_latin": "R. Mill Prod.",
+            "sym_name": "فنورد",
+            "name": "نوردوقطعات‌ فولادي‌"
+        },
+        {
+            "sym_id": "IRR1NGFO0101",
+            "sym": "NGFX1",
+            "sym_name_latin": "R. Mill Prod.-R",
+            "sym_name": "فنوردح",
+            "name": "ح . نوردوقطعات‌ فولادي‌"
+        },
+        {
+            "sym_id": "IRO1FVAN0001",
+            "sym": "FVAN1",
+            "sym_name_latin": "Kaavian Steel",
+            "sym_name": "فوكا",
+            "name": "فولادكاويان‌"
+        },
+        {
+            "sym_id": "IRR1FVAN0101",
+            "sym": "FVAX1",
+            "sym_name_latin": "Kaavian Steel-R",
+            "sym_name": "فوكاح",
+            "name": "ح . فولادكاويان‌"
+        },
+        {
+            "sym_id": "IRO1FOLD0001",
+            "sym": "FOLD1",
+            "sym_name_latin": "S*Mobarakeh Steel",
+            "sym_name": "فولاد",
+            "name": "فولاد مباركه اصفهان"
+        },
+        {
+            "sym_id": "IRR1FOLD0101",
+            "sym": "FOLX1",
+            "sym_name_latin": "Mobarakeh Steel-R",
+            "sym_name": "فولادح",
+            "name": "ح . فولاد مباركه اصفهان"
+        },
+        {
+            "sym_id": "IRO1FAIR0001",
+            "sym": "FAIR1",
+            "sym_name_latin": "Iran Fold",
+            "sym_name": "فولاژ",
+            "name": "فولاد آلياژي ايران"
+        },
+        {
+            "sym_id": "IRR1FAIR0101",
+            "sym": "FAIX1",
+            "sym_name_latin": "Iran Fold-R",
+            "sym_name": "فولاژح",
+            "name": "ح.فولاد آلياژي ايران"
+        },
+        {
+            "sym_id": "IRO1KVEH0001",
+            "sym": "KVEH1",
+            "sym_name_latin": "Kaveh Company",
+            "sym_name": "كاوه",
+            "name": "فولاد كاوه جنوب كيش"
+        },
+        {
+            "sym_id": "IRR1KVEH0101",
+            "sym": "KVEX1",
+            "sym_name_latin": "Kaveh Company-R",
+            "sym_name": "كاوهح",
+            "name": "ح .فولاد كاوه جنوب كيش"
+        },
+        {
+            "sym_id": "IRO1KVIR0001",
+            "sym": "KVIR1",
+            "sym_name_latin": "Sepid Farab Kavir",
+            "sym_name": "كوير",
+            "name": "توليدي فولاد سپيد فراب كوير"
+        },
+        {
+            "sym_id": "IRR1KVIR0101",
+            "sym": "KVIX1",
+            "sym_name_latin": "SepidFarab Kavir-R",
+            "sym_name": "كويرح",
+            "name": "ح. توليدي فولاد سپيد فراب كوير"
+        },
+        {
+            "sym_id": "IRO1KZGZ0001",
+            "sym": "KZGZ1",
+            "sym_name_latin": "Kimia Zanjan Co",
+            "sym_name": "كيميا",
+            "name": "ص. معدني كيمياي زنجان گستران"
+        },
+        {
+            "sym_id": "IRO1MDKO0001",
+            "sym": "MDKO1",
+            "sym_name_latin": "Khavarmianeh Ins.",
+            "sym_name": "ميدكو",
+            "name": "توسعه معادن وص.معدني خاورميانه"
+        },
+        {
+            "sym_id": "IRR1MDKO0101",
+            "sym": "MDKX1",
+            "sym_name_latin": "Khavarmianeh Ins-R",
+            "sym_name": "ميدكوح",
+            "name": "ح.توسعه م وص.معدني خاورميانه"
+        },
+        {
+            "sym_id": "IRO1TOKA0001",
+            "sym": "TOKA1",
+            "sym_name_latin": "Tukafoolad Inv.",
+            "sym_name": "وتوكا",
+            "name": "سرمايه‌گذاري‌توكافولاد(هلدينگ"
+        },
+        {
+            "sym_id": "IRR1TOKA0101",
+            "sym": "TOKX1",
+            "sym_name_latin": "Tukafoolad Inv.-R",
+            "sym_name": "وتوكاح",
+            "name": "ح . ‌توكافولاد(هلدينگ‌"
+        },
+        {
+            "sym_id": "IRO1SDID0001",
+            "sym": "SDID1",
+            "sym_name_latin": "Sadid Group",
+            "sym_name": "وسديد",
+            "name": "گروه‌صنعتي‌سديد(هلدينگ‌"
+        },
+        {
+            "sym_id": "IRR1SDID0101",
+            "sym": "SDIX1",
+            "sym_name_latin": "Sadid Group-R",
+            "sym_name": "وسديدح",
+            "name": "ح . گروه‌صنعتي‌سديد(هلدينگ‌"
+        }
+    ],
+    "استخراج کانه هاي فلزي": [
+        {
+            "sym_id": "IRO1OPAL0001",
+            "sym": "OPAL1",
+            "sym_name_latin": "Opal Kani Pars",
+            "sym_name": "اپال",
+            "name": "فرآوري معدني اپال كاني پارس"
+        },
+        {
+            "sym_id": "IRO1SADR0001",
+            "sym": "SADR1",
+            "sym_name_latin": "Sadr Tamin Inv.",
+            "sym_name": "تاصيكو",
+            "name": "سرمايه گذاري صدرتامين"
+        },
+        {
+            "sym_id": "IRR1SADR0101",
+            "sym": "SDDX1",
+            "sym_name_latin": "Sadr Tamin Inv-R",
+            "sym_name": "تاصيكوح",
+            "name": "ح . سرمايه گذاري صدرتامين"
+        },
+        {
+            "sym_id": "IRO1BAMA0001",
+            "sym": "BAMA1",
+            "sym_name_latin": "Bama",
+            "sym_name": "كاما",
+            "name": "باما"
+        },
+        {
+            "sym_id": "IRR1BAMA0101",
+            "sym": "BAMX1",
+            "sym_name_latin": "Bama-R",
+            "sym_name": "كاماح",
+            "name": "ح . باما"
+        },
+        {
+            "sym_id": "IRO1BAFG0001",
+            "sym": "BAFG1",
+            "sym_name_latin": "Bafgh Mining",
+            "sym_name": "كبافق",
+            "name": "معادن‌ بافق‌"
+        },
+        {
+            "sym_id": "IRR1BAFG0101",
+            "sym": "BAFX1",
+            "sym_name_latin": "Bafgh Mining-R",
+            "sym_name": "كبافقح",
+            "name": "ح . معادن‌ بافق‌"
+        },
+        {
+            "sym_id": "IRO1CHML0001",
+            "sym": "CHML1",
+            "sym_name_latin": "Chadormalu",
+            "sym_name": "كچاد",
+            "name": "معدني‌وصنعتي‌چادرملو"
+        },
+        {
+            "sym_id": "IRR1CHML0101",
+            "sym": "CHMX1",
+            "sym_name_latin": "Chadormalu-R",
+            "sym_name": "كچادح",
+            "name": "ح . معدني‌وصنعتي‌چادرملو"
+        },
+        {
+            "sym_id": "IRO1DMVN0001",
+            "sym": "DMVN1",
+            "sym_name_latin": "Damavand Min.",
+            "sym_name": "كدما",
+            "name": "معدني‌ دماوند"
+        },
+        {
+            "sym_id": "IRR1DMVN0101",
+            "sym": "DMVX1",
+            "sym_name_latin": "Damavand Min.-R",
+            "sym_name": "كدماح",
+            "name": "ح . معدني‌ دماوند"
+        },
+        {
+            "sym_id": "IRO1ROOI0001",
+            "sym": "ROOI1",
+            "sym_name_latin": "Iran Zinc Mines",
+            "sym_name": "كروي",
+            "name": "توسعه‌ معادن‌ روي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1ROOI0101",
+            "sym": "ROOX1",
+            "sym_name_latin": "Iran Zinc Mines-R",
+            "sym_name": "كرويح",
+            "name": "ح . توسعه‌ معادن‌ روي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1GOLG0001",
+            "sym": "GOLG1",
+            "sym_name_latin": "Gol-E-Gohar.",
+            "sym_name": "كگل",
+            "name": "معدني و صنعتي گل گهر"
+        },
+        {
+            "sym_id": "IRR1GOLG0101",
+            "sym": "GOLX1",
+            "sym_name_latin": "Gol-E-Gohar.-R",
+            "sym_name": "كگلح",
+            "name": "ح . معدني و صنعتي گل گهر"
+        },
+        {
+            "sym_id": "IRO1MNGZ0001",
+            "sym": "MNGZ1",
+            "sym_name_latin": "Iran Mn. Mines",
+            "sym_name": "كمنگنز",
+            "name": "معادن‌منگنزايران‌"
+        },
+        {
+            "sym_id": "IRR1MNGZ0101",
+            "sym": "MNGX1",
+            "sym_name_latin": "Iran Mn. Mines-R",
+            "sym_name": "كمنگنزح",
+            "name": "ح . معادن‌منگنزايران‌"
+        },
+        {
+            "sym_id": "IRO1KNRZ0001",
+            "sym": "KNRZ1",
+            "sym_name_latin": "Saba Noor",
+            "sym_name": "كنور",
+            "name": "توسعه معدني و صنعتي صبانور"
+        },
+        {
+            "sym_id": "IRR1KNRZ0101",
+            "sym": "KNRX1",
+            "sym_name_latin": "Saba Noor-R",
+            "sym_name": "كنورح",
+            "name": "ح توسعه معدني و صنعتي صبانور"
+        },
+        {
+            "sym_id": "IRO1MADN0001",
+            "sym": "MADN1",
+            "sym_name_latin": "S*Metals & Min.",
+            "sym_name": "ومعادن",
+            "name": "توسعه‌معادن‌وفلزات‌"
+        },
+        {
+            "sym_id": "IRR1MADN0101",
+            "sym": "MADX1",
+            "sym_name_latin": "Metals & Min.-R",
+            "sym_name": "ومعادنح",
+            "name": "ح . توسعه‌معادن‌وفلزات‌"
+        }
+    ],
+    "زراعت و خدمات وابسته": [
+        {
+            "sym_id": "IRO1ZBAL0001",
+            "sym": "ZBAL1",
+            "sym_name_latin": "Ajdad Zarbal Co.",
+            "sym_name": "اجداد",
+            "name": "مرغ اجداد زربال"
+        },
+        {
+            "sym_id": "IRO1ZPRS0001",
+            "sym": "ZPRS1",
+            "sym_name_latin": "Pars Agro.",
+            "sym_name": "زپارس",
+            "name": "ملي كشت و صنعت و دامپروري پارس"
+        },
+        {
+            "sym_id": "IRO1KOSR0001",
+            "sym": "KOSR1",
+            "sym_name_latin": "Kowsar Agri. Inv.",
+            "sym_name": "زكوثر",
+            "name": "سرمايه گذاري كشاورزي كوثر"
+        },
+        {
+            "sym_id": "IRO1MAGS0001",
+            "sym": "MAGS1",
+            "sym_name_latin": "Magsal Agri.",
+            "sym_name": "زمگسا",
+            "name": "كشاورزي‌ ودامپروي‌ مگسال‌"
+        },
+        {
+            "sym_id": "IRR1MAGS0101",
+            "sym": "MAGX1",
+            "sym_name_latin": "Magsal Agri.-R",
+            "sym_name": "زمگساح",
+            "name": "ح . كشاورزي‌ ودامپروي‌ مگسال‌"
+        },
+        {
+            "sym_id": "IRO1SPID0001",
+            "sym": "SPID1",
+            "sym_name_latin": "Sepid Makian Co.",
+            "sym_name": "سپيد",
+            "name": "سپيد ماكيان"
+        },
+        {
+            "sym_id": "IRO1SMRG0001",
+            "sym": "SMRG1",
+            "sym_name_latin": "Seamorgh Co.",
+            "sym_name": "سيمرغ",
+            "name": "سيمرغ"
+        },
+        {
+            "sym_id": "IRO1FRDS0001",
+            "sym": "FRDS1",
+            "sym_name_latin": "GOSTARESH FERDOS",
+            "sym_name": "فردوس",
+            "name": "گسترش كشاورزي و دامپروري فردوس"
+        }
+    ],
+    "مخابرات": [
+        {
+            "sym_id": "IRO1MKBT0001",
+            "sym": "MKBT1",
+            "sym_name_latin": "Iran Tele. Co.",
+            "sym_name": "اخابر",
+            "name": "مخابرات ايران"
+        },
+        {
+            "sym_id": "IRR1MKBT0101",
+            "sym": "MKBX1",
+            "sym_name_latin": "Iran Tele Co.-R",
+            "sym_name": "اخابرح",
+            "name": "ح . مخابرات ايران"
+        },
+        {
+            "sym_id": "IRO1HMRZ0001",
+            "sym": "HMRZ1",
+            "sym_name_latin": "Iran Mobil Tele",
+            "sym_name": "همراه",
+            "name": "شركت ارتباطات سيار ايران"
+        },
+        {
+            "sym_id": "IRR1HMRZ0101",
+            "sym": "HMRX1",
+            "sym_name_latin": "Iran Mobil Tele-R",
+            "sym_name": "همراهح",
+            "name": "ح . شركت ارتباطات سيار ايران"
+        }
+    ],
+    "سيمان، آهك و گچ": [
+        {
+            "sym_id": "IRO1ARDS0001",
+            "sym": "ARDS1",
+            "sym_name_latin": "Ardestan Cement",
+            "sym_name": "اردستان",
+            "name": "سيمان اردستان"
+        },
+        {
+            "sym_id": "IRO1ABIK0001",
+            "sym": "ABIK1",
+            "sym_name_latin": "Abiak Cement",
+            "sym_name": "سآبيك",
+            "name": "سيمان آبيك"
+        },
+        {
+            "sym_id": "IRO1SDAB0001",
+            "sym": "SDAB1",
+            "sym_name_latin": "Darab Cement",
+            "sym_name": "ساراب",
+            "name": "سيمان‌ داراب‌"
+        },
+        {
+            "sym_id": "IRR1SDAB0101",
+            "sym": "SDAX1",
+            "sym_name_latin": "Darab Cement-R",
+            "sym_name": "سارابح",
+            "name": "ح . سيمان‌ داراب‌"
+        },
+        {
+            "sym_id": "IRO1SADB0001",
+            "sym": "SADB1",
+            "sym_name_latin": "Ardebil Cement",
+            "sym_name": "ساربيل",
+            "name": "سيمان آرتا اردبيل"
+        },
+        {
+            "sym_id": "IRR1SADB0101",
+            "sym": "SADX1",
+            "sym_name_latin": "Ardebil Cement-R",
+            "sym_name": "ساربيلح",
+            "name": "ح . سيمان آرتا اردبيل"
+        },
+        {
+            "sym_id": "IRO1SURO0001",
+            "sym": "SURO1",
+            "sym_name_latin": "Oroumiyeh Cem.",
+            "sym_name": "ساروم",
+            "name": "سيمان‌اروميه‌"
+        },
+        {
+            "sym_id": "IRR1SURO0101",
+            "sym": "SURX1",
+            "sym_name_latin": "Oroumiyeh Cem.-R",
+            "sym_name": "سارومح",
+            "name": "ح . سيمان‌اروميه‌"
+        },
+        {
+            "sym_id": "IRO1SAVE0001",
+            "sym": "SAVE1",
+            "sym_name_latin": "Saveh Cement",
+            "sym_name": "ساوه",
+            "name": "سيمان‌سفيدساوه‌"
+        },
+        {
+            "sym_id": "IRO1SBOJ0001",
+            "sym": "SBOJ1",
+            "sym_name_latin": "Bojnourd Cement",
+            "sym_name": "سبجنو",
+            "name": "سيمان‌ بجنورد"
+        },
+        {
+            "sym_id": "IRR1SBOJ0101",
+            "sym": "SBOX1",
+            "sym_name_latin": "Bojnourd Cement-R",
+            "sym_name": "سبجنوح",
+            "name": "ح . سيمان‌ بجنورد"
+        },
+        {
+            "sym_id": "IRO1SBHN0001",
+            "sym": "SBHN1",
+            "sym_name_latin": "Behbahan Cement",
+            "sym_name": "سبهان",
+            "name": "سيمان‌ بهبهان‌"
+        },
+        {
+            "sym_id": "IRR1SBHN0101",
+            "sym": "SBHX1",
+            "sym_name_latin": "Behbahan Cement-R",
+            "sym_name": "سبهانح",
+            "name": "ح . سيمان‌ بهبهان‌"
+        },
+        {
+            "sym_id": "IRO1SSEP0001",
+            "sym": "SSEP1",
+            "sym_name_latin": "Sepahan Cement",
+            "sym_name": "سپاها",
+            "name": "سيمان‌سپاهان‌"
+        },
+        {
+            "sym_id": "IRR1SSEP0101",
+            "sym": "SSEX1",
+            "sym_name_latin": "Sepahan Cement-R",
+            "sym_name": "سپاهاح",
+            "name": "ح . سيمان‌سپاهان‌"
+        },
+        {
+            "sym_id": "IRO1STEH0001",
+            "sym": "STEH1",
+            "sym_name_latin": "Tehran Cement",
+            "sym_name": "ستران",
+            "name": "سيمان‌ تهران‌"
+        },
+        {
+            "sym_id": "IRR1STEH0101",
+            "sym": "STEX1",
+            "sym_name_latin": "Tehran Cement-R",
+            "sym_name": "سترانح",
+            "name": "ح . سيمان‌ تهران‌"
+        },
+        {
+            "sym_id": "IRO1SKHS0001",
+            "sym": "SKHS1",
+            "sym_name_latin": "Khash Cement",
+            "sym_name": "سخاش",
+            "name": "سيمان‌خاش‌"
+        },
+        {
+            "sym_id": "IRR1SKHS0101",
+            "sym": "SKHX1",
+            "sym_name_latin": "Khash Cement-R",
+            "sym_name": "سخاشح",
+            "name": "ح . سيمان‌خاش‌"
+        },
+        {
+            "sym_id": "IRO1SKAZ0001",
+            "sym": "SKAZ1",
+            "sym_name_latin": "Khazar Cement",
+            "sym_name": "سخزر",
+            "name": "سيمان‌ خزر"
+        },
+        {
+            "sym_id": "IRR1SKAZ0101",
+            "sym": "SKAX1",
+            "sym_name_latin": "Khazar Cement-R",
+            "sym_name": "سخزرح",
+            "name": "ح . سيمان‌ خزر"
+        },
+        {
+            "sym_id": "IRO1KHOC0001",
+            "sym": "KHOC1",
+            "sym_name_latin": "Khoozestan CE.",
+            "sym_name": "سخوز",
+            "name": "سيمان خوزستان"
+        },
+        {
+            "sym_id": "IRR1KHOC0101",
+            "sym": "KHOX1",
+            "sym_name_latin": "Khoozestan CE-R",
+            "sym_name": "سخوزح",
+            "name": "ح . سيمان خوزستان"
+        },
+        {
+            "sym_id": "IRO1SDST0001",
+            "sym": "SDST1",
+            "sym_name_latin": "Dashtestan Ce.",
+            "sym_name": "سدشت",
+            "name": "صنايع سيمان دشتستان"
+        },
+        {
+            "sym_id": "IRR1SDST0101",
+            "sym": "SDSX1",
+            "sym_name_latin": "Dashtestan Ce.-R",
+            "sym_name": "سدشتح",
+            "name": "ح .صنايع سيمان دشتستان"
+        },
+        {
+            "sym_id": "IRO1SDOR0001",
+            "sym": "SDOR1",
+            "sym_name_latin": "Doroud Cement",
+            "sym_name": "سدور",
+            "name": "سيمان‌ دورود"
+        },
+        {
+            "sym_id": "IRR1SDOR0101",
+            "sym": "SDOX1",
+            "sym_name_latin": "Doroud Cement-R",
+            "sym_name": "سدورح",
+            "name": "ح . سيمان‌ دورود"
+        },
+        {
+            "sym_id": "IRO1SROD0001",
+            "sym": "SROD1",
+            "sym_name_latin": "Shahroud Cement",
+            "sym_name": "سرود",
+            "name": "سيمان‌شاهرود"
+        },
+        {
+            "sym_id": "IRR1SROD0101",
+            "sym": "SROX1",
+            "sym_name_latin": "Shahroud Cement-R",
+            "sym_name": "سرودح",
+            "name": "ح . سيمان‌شاهرود"
+        },
+        {
+            "sym_id": "IRO1SSHR0001",
+            "sym": "SSHR1",
+            "sym_name_latin": "Shargh Cement",
+            "sym_name": "سشرق",
+            "name": "سيمان‌ شرق‌"
+        },
+        {
+            "sym_id": "IRR1SSHR0101",
+            "sym": "SSHX1",
+            "sym_name_latin": "Shargh Cement-R",
+            "sym_name": "سشرقح",
+            "name": "ح . سيمان‌ شرق‌"
+        },
+        {
+            "sym_id": "IRO1SIMS0001",
+            "sym": "SIMS1",
+            "sym_name_latin": "Shomal Cement",
+            "sym_name": "سشمال",
+            "name": "سيمان‌ شمال‌"
+        },
+        {
+            "sym_id": "IRR1SIMS0101",
+            "sym": "SIMX1",
+            "sym_name_latin": "Shomal Cement-R",
+            "sym_name": "سشمالح",
+            "name": "ح . سيمان‌ شمال‌"
+        },
+        {
+            "sym_id": "IRO1SEFH0001",
+            "sym": "SEFH1",
+            "sym_name_latin": "Isfahan Cement",
+            "sym_name": "سصفها",
+            "name": "سيمان‌اصفهان‌"
+        },
+        {
+            "sym_id": "IRR1SEFH0101",
+            "sym": "SEFX1",
+            "sym_name_latin": "Isfahan Cement-R",
+            "sym_name": "سصفهاح",
+            "name": "ح . سيمان‌اصفهان‌"
+        },
+        {
+            "sym_id": "IRO1SSOF0001",
+            "sym": "SSOF1",
+            "sym_name_latin": "Soufian Cement",
+            "sym_name": "سصوفي",
+            "name": "سيمان‌ صوفيان‌"
+        },
+        {
+            "sym_id": "IRR1SSOF0101",
+            "sym": "SSOX1",
+            "sym_name_latin": "Soufian Cement-R",
+            "sym_name": "سصوفيح",
+            "name": "ح . سيمان‌ صوفيان‌"
+        },
+        {
+            "sym_id": "IRO1GDRS0001",
+            "sym": "GDRS1",
+            "sym_name_latin": "Ghadir Invest.",
+            "sym_name": "سغدير",
+            "name": "توسعه سرمايه و صنعت غدير"
+        },
+        {
+            "sym_id": "IRO1SGRB0001",
+            "sym": "SGRB1",
+            "sym_name_latin": "Gharb Cement.",
+            "sym_name": "سغرب",
+            "name": "سيمان‌غرب‌"
+        },
+        {
+            "sym_id": "IRR1SGRB0101",
+            "sym": "SGRX1",
+            "sym_name_latin": "Gharb Cement.-R",
+            "sym_name": "سغربح",
+            "name": "ح . سيمان‌غرب‌"
+        },
+        {
+            "sym_id": "IRO1SFRS0001",
+            "sym": "SFRS1",
+            "sym_name_latin": "Fars Cement",
+            "sym_name": "سفار",
+            "name": "سيمان‌فارس‌"
+        },
+        {
+            "sym_id": "IRR1SFRS0101",
+            "sym": "SFRX1",
+            "sym_name_latin": "Fars Cement-R",
+            "sym_name": "سفارح",
+            "name": "ح . سيمان‌فارس‌"
+        },
+        {
+            "sym_id": "IRO1SFKZ0001",
+            "sym": "SFKZ1",
+            "sym_name_latin": "S*F. & Kh. Cement",
+            "sym_name": "سفارس",
+            "name": "سيمان فارس و خوزستان"
+        },
+        {
+            "sym_id": "IRR1SFKZ0101",
+            "sym": "SFKX1",
+            "sym_name_latin": "F. & Kh. Cement-R",
+            "sym_name": "سفارسح",
+            "name": "ح . سيمان فارس و خوزستان"
+        },
+        {
+            "sym_id": "IRO1SFNO0001",
+            "sym": "SFNO1",
+            "sym_name_latin": "Siman Fars Noe",
+            "sym_name": "سفانو",
+            "name": "سيمان فارس نو"
+        },
+        {
+            "sym_id": "IRR1SFNO0101",
+            "sym": "SFNX1",
+            "sym_name_latin": "Siman Fars Noe-R",
+            "sym_name": "سفانوح",
+            "name": "ح . سيمان فارس نو"
+        },
+        {
+            "sym_id": "IRO1SGEN0001",
+            "sym": "SGEN1",
+            "sym_name_latin": "Qayen Cement",
+            "sym_name": "سقاين",
+            "name": "سيمان‌ قائن‌"
+        },
+        {
+            "sym_id": "IRR1SGEN0101",
+            "sym": "SGEX1",
+            "sym_name_latin": "Qayen Cement-R",
+            "sym_name": "سقاينح",
+            "name": "ح . سيمان‌ قائن‌"
+        },
+        {
+            "sym_id": "IRO1SKRN0001",
+            "sym": "SKRN1",
+            "sym_name_latin": "Karoon Cement",
+            "sym_name": "سكارون",
+            "name": "سيمان‌ كارون‌"
+        },
+        {
+            "sym_id": "IRR1SKRN0101",
+            "sym": "SKRX1",
+            "sym_name_latin": "Karoon Cement-R",
+            "sym_name": "سكارونح",
+            "name": "ح . سيمان‌ كارون‌"
+        },
+        {
+            "sym_id": "IRO1SKOR0001",
+            "sym": "SKOR1",
+            "sym_name_latin": "Kordesta Ce. Co.",
+            "sym_name": "سكرد",
+            "name": "سيمان كردستان"
+        },
+        {
+            "sym_id": "IRR1SKOR0101",
+            "sym": "SKOX1",
+            "sym_name_latin": "Kordestan Cem.-R",
+            "sym_name": "سكردح",
+            "name": "ح . سيمان كردستان"
+        },
+        {
+            "sym_id": "IRO1SKER0001",
+            "sym": "SKER1",
+            "sym_name_latin": "Kerman Cement",
+            "sym_name": "سكرما",
+            "name": "سيمان‌ كرمان‌"
+        },
+        {
+            "sym_id": "IRR1SKER0101",
+            "sym": "SKEX1",
+            "sym_name_latin": "Kerman Cement-R",
+            "sym_name": "سكرماح",
+            "name": "ح . سيمان‌ كرمان‌"
+        },
+        {
+            "sym_id": "IRO1SMAZ0001",
+            "sym": "SMAZ1",
+            "sym_name_latin": "Mazandaran Cem.",
+            "sym_name": "سمازن",
+            "name": "سيمان‌مازندران‌"
+        },
+        {
+            "sym_id": "IRR1SMAZ0101",
+            "sym": "SMAX1",
+            "sym_name_latin": "Mazandaran Cem.-R",
+            "sym_name": "سمازنح",
+            "name": "ح . سيمان‌مازندران‌"
+        },
+        {
+            "sym_id": "IRO1SSNR0001",
+            "sym": "SSNR1",
+            "sym_name_latin": "Neiriz Cement",
+            "sym_name": "سنير",
+            "name": "سيمان‌ سفيد ني‌ريز"
+        },
+        {
+            "sym_id": "IRR1SSNR0101",
+            "sym": "SSNX1",
+            "sym_name_latin": "Neiriz Cement-R",
+            "sym_name": "سنيرح",
+            "name": "ح . سيمان‌ سفيدني‌ريز"
+        },
+        {
+            "sym_id": "IRO1SHZG0001",
+            "sym": "SHZG1",
+            "sym_name_latin": "Hormozgan Cem.",
+            "sym_name": "سهرمز",
+            "name": "سيمان‌هرمزگان‌"
+        },
+        {
+            "sym_id": "IRR1SHZG0101",
+            "sym": "SHZX1",
+            "sym_name_latin": "Hormozgan Cem.-R",
+            "sym_name": "سهرمزح",
+            "name": "ح . سيمان‌هرمزگان‌"
+        },
+        {
+            "sym_id": "IRO1SHGN0001",
+            "sym": "SHGN1",
+            "sym_name_latin": "Hegmatan Cement",
+            "sym_name": "سهگمت",
+            "name": "سيمان‌هگمتان‌"
+        },
+        {
+            "sym_id": "IRR1SHGN0101",
+            "sym": "SHGX1",
+            "sym_name_latin": "Hegmatan Cement-R",
+            "sym_name": "سهگمتح",
+            "name": "ح . سيمان‌هگمتان‌"
+        },
+        {
+            "sym_id": "IRO1SITA0001",
+            "sym": "SITA1",
+            "sym_name_latin": "Tamin Cement",
+            "sym_name": "سيتا",
+            "name": "سرمايه گذاري سيمان تامين"
+        },
+        {
+            "sym_id": "IRO1CIDC0001",
+            "sym": "CIDC1",
+            "sym_name_latin": "Cement INV. Co.",
+            "sym_name": "سيدكو",
+            "name": "سرمايه گذاري توسعه صنايع سيمان"
+        },
+        {
+            "sym_id": "IRR1CIDC0101",
+            "sym": "CIDX1",
+            "sym_name_latin": "Cement INV. Co.-R",
+            "sym_name": "سيدكوح",
+            "name": "ح . س. توسعه صنايع سيمان"
+        },
+        {
+            "sym_id": "IRO1SEIL0001",
+            "sym": "SEIL1",
+            "sym_name_latin": "Ilam Cement",
+            "sym_name": "سيلام",
+            "name": "سيمان‌ ايلام‌"
+        },
+        {
+            "sym_id": "IRR1SEIL0101",
+            "sym": "SEIX1",
+            "sym_name_latin": "Ilam Cement-R",
+            "sym_name": "سيلامح",
+            "name": "ح . سيمان‌ ايلام‌"
+        },
+        {
+            "sym_id": "IRO1IRGC0001",
+            "sym": "IRGC1",
+            "sym_name_latin": "Iran Chalk",
+            "sym_name": "كايگچ",
+            "name": "ايران‌ گچ‌"
+        },
+        {
+            "sym_id": "IRR1IRGC0101",
+            "sym": "IRGX1",
+            "sym_name_latin": "Iran Chalk-R",
+            "sym_name": "كايگچح",
+            "name": "ح . ايران‌ گچ‌"
+        }
+    ],
+    "محصولات شيميايي": [
+        {
+            "sym_id": "IRO1RVND0001",
+            "sym": "RVND1",
+            "sym_name_latin": "Arvand Petro.",
+            "sym_name": "اروند",
+            "name": "پتروشيمي اروند"
+        },
+        {
+            "sym_id": "IRO1ACTV0001",
+            "sym": "ACTV1",
+            "sym_name_latin": "PadidehShimi Gharn",
+            "sym_name": "اكتيو",
+            "name": "پديده شيمي قرن"
+        },
+        {
+            "sym_id": "IRO1BONA0001",
+            "sym": "BONA1",
+            "sym_name_latin": "BoualiSina Petro.",
+            "sym_name": "بوعلي",
+            "name": "پتروشيمي بوعلي سينا"
+        },
+        {
+            "sym_id": "IRO1PARS0001",
+            "sym": "PARS1",
+            "sym_name_latin": "PARS Petrochemical",
+            "sym_name": "پارس",
+            "name": "پتروشيمي پارس"
+        },
+        {
+            "sym_id": "IRO1PASN0001",
+            "sym": "PASN1",
+            "sym_name_latin": "S*Parsian Oil&Gas",
+            "sym_name": "پارسان",
+            "name": "گسترش نفت و گاز پارسيان"
+        },
+        {
+            "sym_id": "IRR1PASN0101",
+            "sym": "PASX1",
+            "sym_name_latin": "Parsian Oil&Gas-R",
+            "sym_name": "پارسانح",
+            "name": "ح. گسترش نفت  و گاز پارسيان"
+        },
+        {
+            "sym_id": "IRO1PASH0001",
+            "sym": "PASH1",
+            "sym_name_latin": "Paksho",
+            "sym_name": "پاكشو",
+            "name": "گروه صنعتي پاكشو"
+        },
+        {
+            "sym_id": "IRR1PASH0101",
+            "sym": "PAHX1",
+            "sym_name_latin": "Paksho-R",
+            "sym_name": "پاكشوح",
+            "name": "ح . گروه صنعتي پاكشو"
+        },
+        {
+            "sym_id": "IRO1IPTR0001",
+            "sym": "IPTR1",
+            "sym_name_latin": "S*Ir.Inv.Petr.",
+            "sym_name": "پترول",
+            "name": "گ.س.وت.ص.پتروشيمي خليج فارس"
+        },
+        {
+            "sym_id": "IRR1IPTR0101",
+            "sym": "IPTX1",
+            "sym_name_latin": "Ir.Inv.Petr-R",
+            "sym_name": "پترولح",
+            "name": "ح . گروه پتروشيمي س. ايرانيان"
+        },
+        {
+            "sym_id": "IRO1PTAP0001",
+            "sym": "PTAP1",
+            "sym_name_latin": "Tamin Petro.",
+            "sym_name": "تاپيكو",
+            "name": "س. نفت و گاز و پتروشيمي تأمين"
+        },
+        {
+            "sym_id": "IRO1PJMZ0001",
+            "sym": "PJMZ1",
+            "sym_name_latin": "Jam Petr.",
+            "sym_name": "جم",
+            "name": "پتروشيمي جم"
+        },
+        {
+            "sym_id": "IRO1JPPC0001",
+            "sym": "JPPC1",
+            "sym_name_latin": "Jam Pilen",
+            "sym_name": "جم پيلن",
+            "name": "پلي پروپيلن جم - جم پيلن"
+        },
+        {
+            "sym_id": "IRR1PJMZ0101",
+            "sym": "PJMX1",
+            "sym_name_latin": "Jam Petr - R",
+            "sym_name": "جمح",
+            "name": "ح . پتروشيمي جم"
+        },
+        {
+            "sym_id": "IRO1KRSN0001",
+            "sym": "KRSN1",
+            "sym_name_latin": "Khorasan Petro.",
+            "sym_name": "خراسان",
+            "name": "پتروشيمي خراسان"
+        },
+        {
+            "sym_id": "IRO1PRDS0001",
+            "sym": "PRDS1",
+            "sym_name_latin": "Disshap Petr.",
+            "sym_name": "ديسشپ",
+            "name": "ديس شپ"
+        },
+        {
+            "sym_id": "IRO1PARK0001",
+            "sym": "PARK1",
+            "sym_name_latin": "Shazand Petr.",
+            "sym_name": "شاراك",
+            "name": "پتروشيمي شازند"
+        },
+        {
+            "sym_id": "IRR1PARK0101",
+            "sym": "PARX1",
+            "sym_name_latin": "Shazand Petr.-R",
+            "sym_name": "شاراكح",
+            "name": "ح . پتروشيمي شازند"
+        },
+        {
+            "sym_id": "IRO1AMLH0001",
+            "sym": "AMLH1",
+            "sym_name_latin": "Iran Amlah",
+            "sym_name": "شاملا",
+            "name": "معدني‌ املاح‌  ايران‌"
+        },
+        {
+            "sym_id": "IRR1AMLH0101",
+            "sym": "AMLX1",
+            "sym_name_latin": "Iran Amlah-R",
+            "sym_name": "شاملاح",
+            "name": "ح . معدني‌ املاح‌  ايران‌"
+        },
+        {
+            "sym_id": "IRO1BMPS0001",
+            "sym": "BMPS1",
+            "sym_name_latin": "Pars Int. Mfg.",
+            "sym_name": "شپارس",
+            "name": "بين‌ المللي‌ محصولات‌  پارس‌"
+        },
+        {
+            "sym_id": "IRR1BMPS0101",
+            "sym": "BMPX1",
+            "sym_name_latin": "Pars Int. Mfg.-R",
+            "sym_name": "شپارسح",
+            "name": "ح . بين‌ المللي‌محصولات پارس‌"
+        },
+        {
+            "sym_id": "IRO1PAKS0001",
+            "sym": "PAKS1",
+            "sym_name_latin": "Paxan",
+            "sym_name": "شپاكسا",
+            "name": "پاكسان‌"
+        },
+        {
+            "sym_id": "IRR1PAKS0101",
+            "sym": "PAKX1",
+            "sym_name_latin": "Paxan-R",
+            "sym_name": "شپاكساح",
+            "name": "ح . پاكسان‌"
+        },
+        {
+            "sym_id": "IRO1PABD0001",
+            "sym": "PABD1",
+            "sym_name_latin": "Abadan Petr.",
+            "sym_name": "شپترو",
+            "name": "پتروشيمي‌ آبادان‌"
+        },
+        {
+            "sym_id": "IRR1PABD0101",
+            "sym": "PABX1",
+            "sym_name_latin": "Abadan Petr.-R",
+            "sym_name": "شپتروح",
+            "name": "ح . پتروشيمي‌ آبادان‌"
+        },
+        {
+            "sym_id": "IRO1PRDZ0001",
+            "sym": "PRDZ1",
+            "sym_name_latin": "Pardis Petr.",
+            "sym_name": "شپديس",
+            "name": "پتروشيمي پرديس"
+        },
+        {
+            "sym_id": "IRR1PRDZ0101",
+            "sym": "PRDX1",
+            "sym_name_latin": "Pardis Petr. -R",
+            "sym_name": "شپديسح",
+            "name": "ح. پتروشيمي پرديس"
+        },
+        {
+            "sym_id": "IRO1PLAK0001",
+            "sym": "PLAK1",
+            "sym_name_latin": "Iran Polyacryl",
+            "sym_name": "شپلي",
+            "name": "پلي‌اكريل‌"
+        },
+        {
+            "sym_id": "IRR1PLAK0101",
+            "sym": "PLAX1",
+            "sym_name_latin": "Iran Polyacryl-R",
+            "sym_name": "شپليح",
+            "name": "ح . پلي‌اكريل‌"
+        },
+        {
+            "sym_id": "IRO1PPAM0001",
+            "sym": "PPAM1",
+            "sym_name_latin": "Pars Pamchal",
+            "sym_name": "شپمچا",
+            "name": "پارس‌ پامچال‌"
+        },
+        {
+            "sym_id": "IRR1PPAM0101",
+            "sym": "PPAX1",
+            "sym_name_latin": "Pars Pamchal-R",
+            "sym_name": "شپمچاح",
+            "name": "ح . پارس‌ پامچال‌"
+        },
+        {
+            "sym_id": "IRO1TOPI0001",
+            "sym": "TOPI1",
+            "sym_name_latin": "Tolypers",
+            "sym_name": "شتولي",
+            "name": "تولي‌پرس‌"
+        },
+        {
+            "sym_id": "IRR1TOPI0101",
+            "sym": "TOPX1",
+            "sym_name_latin": "Tolypers-R",
+            "sym_name": "شتوليح",
+            "name": "ح . تولي‌پرس‌"
+        },
+        {
+            "sym_id": "IRO1PKHA0001",
+            "sym": "PKHA1",
+            "sym_name_latin": "Khark Petr.",
+            "sym_name": "شخارك",
+            "name": "پتروشيمي‌ خارك‌"
+        },
+        {
+            "sym_id": "IRR1PKHA0101",
+            "sym": "PKHX1",
+            "sym_name_latin": "Khark Petr.-R",
+            "sym_name": "شخاركح",
+            "name": "ح . پتروشيمي‌ خارك‌"
+        },
+        {
+            "sym_id": "IRO1DODE0001",
+            "sym": "DODE1",
+            "sym_name_latin": "Doode Sanati",
+            "sym_name": "شدوص",
+            "name": "دوده‌ صنعتي‌ پارس‌"
+        },
+        {
+            "sym_id": "IRR1DODE0101",
+            "sym": "DODX1",
+            "sym_name_latin": "Doode Sanati-R",
+            "sym_name": "شدوصح",
+            "name": "ح . دوده‌ صنعتي‌ پارس‌"
+        },
+        {
+            "sym_id": "IRO1SHRG0001",
+            "sym": "SHRG1",
+            "sym_name_latin": "Rangin",
+            "sym_name": "شرنگي",
+            "name": "صنعتي‌ رنگين‌"
+        },
+        {
+            "sym_id": "IRR1SHRG0101",
+            "sym": "SHRX1",
+            "sym_name_latin": "Rangin-R",
+            "sym_name": "شرنگيح",
+            "name": "ح . صنعتي‌ رنگين‌"
+        },
+        {
+            "sym_id": "IRO1TSAL0001",
+            "sym": "TSAL1",
+            "sym_name_latin": "Herbicides Prod",
+            "sym_name": "شسم",
+            "name": "توليد سموم‌ علف‌ كش"
+        },
+        {
+            "sym_id": "IRR1TSAL0101",
+            "sym": "TSAX1",
+            "sym_name_latin": "Herbicides Prod-R",
+            "sym_name": "شسمح",
+            "name": "ح . توليد سموم‌ علف‌ كش"
+        },
+        {
+            "sym_id": "IRO1SHSI0001",
+            "sym": "SHSI1",
+            "sym_name_latin": "Sina Chem. Ind.",
+            "sym_name": "شسينا",
+            "name": "صنايع‌شيميايي‌سينا"
+        },
+        {
+            "sym_id": "IRR1SHSI0101",
+            "sym": "SHSX1",
+            "sym_name_latin": "Sina Chem. Ind.-R",
+            "sym_name": "شسيناح",
+            "name": "ح . صنايع‌شيميايي‌سينا"
+        },
+        {
+            "sym_id": "IRO1PESF0001",
+            "sym": "PESF1",
+            "sym_name_latin": "Isfahan Pertr.",
+            "sym_name": "شصفها",
+            "name": "پتروشيمي‌ اصفهان‌"
+        },
+        {
+            "sym_id": "IRR1PESF0101",
+            "sym": "PESX1",
+            "sym_name_latin": "Isfahan Pertr.-R",
+            "sym_name": "شصفهاح",
+            "name": "ح . پتروشيمي‌ اصفهان‌"
+        },
+        {
+            "sym_id": "IRO1PGDR0001",
+            "sym": "PGDR1",
+            "sym_name_latin": "Ghadir Petro Co.",
+            "sym_name": "شغدير",
+            "name": "پتروشيمي غدير"
+        },
+        {
+            "sym_id": "IRO1PFRB0001",
+            "sym": "PFRB1",
+            "sym_name_latin": "Farabi Petr.",
+            "sym_name": "شفارا",
+            "name": "پتروشيمي‌فارابي‌"
+        },
+        {
+            "sym_id": "IRR1PFRB0101",
+            "sym": "PFRX1",
+            "sym_name_latin": "Farabi Petr.-R",
+            "sym_name": "شفاراح",
+            "name": "ح . پتروشيمي‌فارابي‌"
+        },
+        {
+            "sym_id": "IRO1SHFS0001",
+            "sym": "SHFS1",
+            "sym_name_latin": "Fars Chem. Ind.",
+            "sym_name": "شفارس",
+            "name": "صنايع‌ شيميايي‌ فارس‌"
+        },
+        {
+            "sym_id": "IRR1SHFS0101",
+            "sym": "SHFX1",
+            "sym_name_latin": "Fars Chem. Ind.-R",
+            "sym_name": "شفارسح",
+            "name": "ح . صنايع‌ شيميايي‌ فارس‌"
+        },
+        {
+            "sym_id": "IRO1PFAN0001",
+            "sym": "PFAN1",
+            "sym_name_latin": "Fanavaran Petr.",
+            "sym_name": "شفن",
+            "name": "پتروشيمي فناوران"
+        },
+        {
+            "sym_id": "IRR1PFAN0101",
+            "sym": "PFAX1",
+            "sym_name_latin": "Fanavaran Petr.-R",
+            "sym_name": "شفنح",
+            "name": "ح . پتروشيمي فناوران"
+        },
+        {
+            "sym_id": "IRO1CRBN0001",
+            "sym": "CRBN1",
+            "sym_name_latin": "Iran Carbon",
+            "sym_name": "شكربن",
+            "name": "كربن‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1CRBN0101",
+            "sym": "CRBX1",
+            "sym_name_latin": "Iran Carbon-R",
+            "sym_name": "شكربنح",
+            "name": "ح . كربن‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1KAFF0001",
+            "sym": "KAFF1",
+            "sym_name_latin": "Kaf",
+            "sym_name": "شكف",
+            "name": "كف‌"
+        },
+        {
+            "sym_id": "IRR1KAFF0101",
+            "sym": "KAFX1",
+            "sym_name_latin": "Kaf-R",
+            "sym_name": "شكفح",
+            "name": "ح . كف‌"
+        },
+        {
+            "sym_id": "IRO1NKOL0001",
+            "sym": "NKOL1",
+            "sym_name_latin": "NiroCholor",
+            "sym_name": "شكلر",
+            "name": "نيروكلر"
+        },
+        {
+            "sym_id": "IRR1NKOL0101",
+            "sym": "NKOX1",
+            "sym_name_latin": "NiroCholor-R",
+            "sym_name": "شكلرح",
+            "name": "ح . نيروكلر"
+        },
+        {
+            "sym_id": "IRO1GTSH0001",
+            "sym": "GTSH1",
+            "sym_name_latin": "Goltash",
+            "sym_name": "شگل",
+            "name": "گلتاش‌"
+        },
+        {
+            "sym_id": "IRR1GTSH0101",
+            "sym": "GTSX1",
+            "sym_name_latin": "Goltash-R",
+            "sym_name": "شگلح",
+            "name": "ح . گلتاش‌"
+        },
+        {
+            "sym_id": "IRO1LEAB0001",
+            "sym": "LEAB1",
+            "sym_name_latin": "Loabiran",
+            "sym_name": "شلعاب",
+            "name": "لعابيران‌"
+        },
+        {
+            "sym_id": "IRR1LEAB0101",
+            "sym": "LEAX1",
+            "sym_name_latin": "Loabiran-R",
+            "sym_name": "شلعابح",
+            "name": "ح . لعابيران‌"
+        },
+        {
+            "sym_id": "IRO1SLVN0001",
+            "sym": "SLVN1",
+            "sym_name_latin": "Pars Alvan Dye",
+            "sym_name": "شلوان",
+            "name": "رنگ پارس الوان"
+        },
+        {
+            "sym_id": "IRO1MAVA0001",
+            "sym": "MAVA1",
+            "sym_name_latin": "Fiber Prod.",
+            "sym_name": "شمواد",
+            "name": "توليدمواداوليه الياف‌مصنوعي‌"
+        },
+        {
+            "sym_id": "IRR1MAVA0101",
+            "sym": "MAVX1",
+            "sym_name_latin": "Fiber Prod.-R",
+            "sym_name": "شموادح",
+            "name": "ح . مواداوليه‌الياف‌مصنوعي‌"
+        },
+        {
+            "sym_id": "IRO1VASH0001",
+            "sym": "VASH1",
+            "sym_name_latin": "Henkel Pakvash",
+            "sym_name": "شوش",
+            "name": "هنكل‌ پاك‌ وش‌"
+        },
+        {
+            "sym_id": "IRR1VASH0101",
+            "sym": "VASX1",
+            "sym_name_latin": "Henkel Pakvash-R",
+            "sym_name": "شوشح",
+            "name": "ح . هنكل‌ پاك‌ وش‌"
+        },
+        {
+            "sym_id": "IRO1SHOY0001",
+            "sym": "SHOY1",
+            "sym_name_latin": "Behshahr Ind.",
+            "sym_name": "شوينده",
+            "name": "مديريت صنعت شوينده ت.ص.بهشهر"
+        },
+        {
+            "sym_id": "IRO1PSHZ0001",
+            "sym": "PSHZ1",
+            "sym_name_latin": "Shiraz Petr.",
+            "sym_name": "شيراز",
+            "name": "پتروشيمي‌شيراز"
+        },
+        {
+            "sym_id": "IRR1PSHZ0101",
+            "sym": "PSHX1",
+            "sym_name_latin": "Shiraz Petr.-R",
+            "sym_name": "شيرازح",
+            "name": "ح . پتروشيمي‌شيراز"
+        },
+        {
+            "sym_id": "IRO1SSIN0001",
+            "sym": "SSIN1",
+            "sym_name_latin": "S*Iran Chem. Ind.",
+            "sym_name": "شيران",
+            "name": "س. صنايع‌شيميايي‌ايران"
+        },
+        {
+            "sym_id": "IRR1SSIN0101",
+            "sym": "SSIX1",
+            "sym_name_latin": "Iran Chem. Ind.-R",
+            "sym_name": "شيرانح",
+            "name": "ح . س. صنايع‌شيميايي‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1PKLJ0001",
+            "sym": "PKLJ1",
+            "sym_name_latin": "Khalij Fars",
+            "sym_name": "فارس",
+            "name": "صنايع پتروشيمي خليج فارس"
+        },
+        {
+            "sym_id": "IRO1GARN0001",
+            "sym": "GARN1",
+            "sym_name_latin": "Padide Shimi Gharn",
+            "sym_name": "قرن",
+            "name": "پديده شيمي قرن"
+        },
+        {
+            "sym_id": "IRR1GARN0101",
+            "sym": "GARX1",
+            "sym_name_latin": "PadideShimiGharn-R",
+            "sym_name": "قرنح",
+            "name": "ح . پديده شيمي قرن"
+        },
+        {
+            "sym_id": "IRO1PKER0001",
+            "sym": "PKER1",
+            "sym_name_latin": "Kermanshah Petr",
+            "sym_name": "كرماشا",
+            "name": "صنايع پتروشيمي كرمانشاه"
+        },
+        {
+            "sym_id": "IRR1PKER0101",
+            "sym": "PKEX1",
+            "sym_name_latin": "Kermanshah Petr-R",
+            "sym_name": "كرماشاح",
+            "name": "ح. صنايع پتروشيمي كرمانشاه"
+        },
+        {
+            "sym_id": "IRO1KTEK0001",
+            "sym": "KTEK1",
+            "sym_name_latin": "Arian Chimia Tech",
+            "sym_name": "كيمياتك",
+            "name": "آريان كيميا تك"
+        },
+        {
+            "sym_id": "IRO1NORI0001",
+            "sym": "NORI1",
+            "sym_name_latin": "NORI Petrochemical",
+            "sym_name": "نوري",
+            "name": "پتروشيمي نوري"
+        },
+        {
+            "sym_id": "IRO1PETR0001",
+            "sym": "PETR1",
+            "sym_name_latin": "Petro. Inv.",
+            "sym_name": "وپترو",
+            "name": "سرمايه‌گذاري صنايع پتروشيمي‌"
+        },
+        {
+            "sym_id": "IRR1PETR0101",
+            "sym": "PETX1",
+            "sym_name_latin": "Petro. Inv.-R",
+            "sym_name": "وپتروح",
+            "name": "ح . سرمايه‌ گذاري‌ پتروشيمي‌"
+        }
+    ],
+    "اطلاعات و ارتباطات": [
+        {
+            "sym_id": "IRO1ASTC0001",
+            "sym": "ASTC1",
+            "sym_name_latin": "Asiatech",
+            "sym_name": "اسياتك",
+            "name": "انتقال داده هاي آسياتك"
+        },
+        {
+            "sym_id": "IRO1HWEB0001",
+            "sym": "HWEB1",
+            "sym_name_latin": "S*HiWeb",
+            "sym_name": "هاي وب",
+            "name": "داده گسترعصرنوين-هاي وب"
+        }
+    ],
+    "خرده فروشي،باستثناي وسايل نقليه موتوري": [
+        {
+            "sym_id": "IRO1OFOG0001",
+            "sym": "OFOG1",
+            "sym_name_latin": "Ofogh Koorosh",
+            "sym_name": "افق",
+            "name": "فروشگاههاي زنجيره اي افق كوروش"
+        },
+        {
+            "sym_id": "IRR1OFOG0101",
+            "sym": "OFOX1",
+            "sym_name_latin": "Ofogh Koorosh-R",
+            "sym_name": "افقح",
+            "name": "ح .فروشگاه زنجيره اي افق كوروش"
+        },
+        {
+            "sym_id": "IRO1GOLP0001",
+            "sym": "GOLP1",
+            "sym_name_latin": "GolPakhsh-e-AvalCo",
+            "sym_name": "پخش اول",
+            "name": "گلپخش اول"
+        }
+    ],
+    "فعاليتهاي كمكي به نهادهاي مالي واسط": [
+        {
+            "sym_id": "IRO1BKLA0001",
+            "sym": "BKLA1",
+            "sym_name_latin": "Good Exch.Brk.",
+            "sym_name": "اكالا",
+            "name": "كارگزاران بورس كالاي ايران"
+        },
+        {
+            "sym_id": "IRO1OMID0001",
+            "sym": "OMID1",
+            "sym_name_latin": "Investment Banking",
+            "sym_name": "اميد",
+            "name": "تامين سرمايه اميد"
+        },
+        {
+            "sym_id": "IRR1OMID0101",
+            "sym": "OMIX1",
+            "sym_name_latin": "Inv. Banking -R",
+            "sym_name": "اميدح",
+            "name": "ح . تامين سرمايه اميد"
+        },
+        {
+            "sym_id": "IRO1TSAN0001",
+            "sym": "TSAN1",
+            "sym_name_latin": "Amin Investment",
+            "sym_name": "امين",
+            "name": "تامين سرمايه امين"
+        },
+        {
+            "sym_id": "IRO1BENC0001",
+            "sym": "BENC1",
+            "sym_name_latin": "Other Energy B.",
+            "sym_name": "انرژي",
+            "name": "بورس انرژي ايران"
+        },
+        {
+            "sym_id": "IRO1BENA0001",
+            "sym": "BENA1",
+            "sym_name_latin": "Nahad Mali Energy",
+            "sym_name": "انرژي1",
+            "name": "نهادهاي مالي بورس انرژي"
+        },
+        {
+            "sym_id": "IRO1BENB0001",
+            "sym": "BENB1",
+            "sym_name_latin": "Activists Energy B",
+            "sym_name": "انرژي2",
+            "name": "فعالان بورس انرژي"
+        },
+        {
+            "sym_id": "IRO1BORS0001",
+            "sym": "BORS1",
+            "sym_name_latin": "S*TehranStockExch.",
+            "sym_name": "بورس",
+            "name": "بورس اوراق بهادار تهران"
+        },
+        {
+            "sym_id": "IRO1TKLA0001",
+            "sym": "TKLA1",
+            "sym_name_latin": "Good Exch.Prd.",
+            "sym_name": "تكالا",
+            "name": "توليدكنندگان بورس كالاي ايران"
+        },
+        {
+            "sym_id": "IRO1TMDN0001",
+            "sym": "TMDN1",
+            "sym_name_latin": "Tamadon Investment",
+            "sym_name": "تمدن",
+            "name": "تامين سرمايه تمدن"
+        },
+        {
+            "sym_id": "IRO1TMLT0001",
+            "sym": "TMLT1",
+            "sym_name_latin": "Mellat Inv. Bank",
+            "sym_name": "تملت",
+            "name": "تامين سرمايه بانك ملت"
+        },
+        {
+            "sym_id": "IRR1TMLT0101",
+            "sym": "TMLX1",
+            "sym_name_latin": "Mellat Inv. Bank-R",
+            "sym_name": "تملتح",
+            "name": "ح . تامين سرمايه بانك ملت"
+        },
+        {
+            "sym_id": "IRO1TNOV0001",
+            "sym": "TNOV1",
+            "sym_name_latin": "S*Novin Investment",
+            "sym_name": "تنوين",
+            "name": "تامين سرمايه نوين"
+        },
+        {
+            "sym_id": "IRR1TNOV0101",
+            "sym": "TNOX1",
+            "sym_name_latin": "S*Novin Invest-R",
+            "sym_name": "تنوينح",
+            "name": "ح . تامين سرمايه نوين"
+        },
+        {
+            "sym_id": "IRO1KALA0001",
+            "sym": "KALA1",
+            "sym_name_latin": "Commodity Exch.",
+            "sym_name": "كالا",
+            "name": "بورس كالاي ايران"
+        },
+        {
+            "sym_id": "IRO1KBRS0001",
+            "sym": "KBRS1",
+            "sym_name_latin": "TSE Brokers",
+            "sym_name": "كبورس",
+            "name": "كارگزاران بورس اوراق بهادار"
+        },
+        {
+            "sym_id": "IRO1LTOS0001",
+            "sym": "LTOS1",
+            "sym_name_latin": "Lotos Investment",
+            "sym_name": "لوتوس",
+            "name": "تامين سرمايه لوتوس پارسيان"
+        },
+        {
+            "sym_id": "IRR1LTOS0101",
+            "sym": "LTOX1",
+            "sym_name_latin": "Lotos Investment-R",
+            "sym_name": "لوتوسح",
+            "name": "ح . تامين سرمايه لوتوس پارسيان"
+        },
+        {
+            "sym_id": "IRO1NBRS0001",
+            "sym": "NBRS1",
+            "sym_name_latin": "TSE financial",
+            "sym_name": "نبورس",
+            "name": "نهادهاي مالي بورس اوراق بهادار"
+        },
+        {
+            "sym_id": "IRO1NKLA0001",
+            "sym": "NKLA1",
+            "sym_name_latin": "Good Exch.Ins.",
+            "sym_name": "نكالا",
+            "name": "نهادهاي مالي بورس كالاي ايران"
+        }
+    ],
+    "ماشين آلات و دستگاه‌هاي برقي": [
+        {
+            "sym_id": "IRO1BAKH0001",
+            "sym": "BAKH1",
+            "sym_name_latin": "Bakhtar Cable",
+            "sym_name": "باختر",
+            "name": "كابل‌ باختر"
+        },
+        {
+            "sym_id": "IRR1BAKH0101",
+            "sym": "BAKX1",
+            "sym_name_latin": "Bakhtar Cable-R",
+            "sym_name": "باخترح",
+            "name": "ح . كابل‌ باختر"
+        },
+        {
+            "sym_id": "IRO1KALZ0001",
+            "sym": "KALZ1",
+            "sym_name_latin": "Alborz Cable",
+            "sym_name": "بالبر",
+            "name": "كابل‌ البرز"
+        },
+        {
+            "sym_id": "IRR1KALZ0101",
+            "sym": "KALX1",
+            "sym_name_latin": "Alborz Cable-R",
+            "sym_name": "بالبرح",
+            "name": "ح . كابل‌ البرز"
+        },
+        {
+            "sym_id": "IRO1KBLI0001",
+            "sym": "KBLI1",
+            "sym_name_latin": "Iran Cable",
+            "sym_name": "بايكا",
+            "name": "كابلسازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1KBLI0101",
+            "sym": "KBLX1",
+            "sym_name_latin": "Iran Cable-R",
+            "sym_name": "بايكاح",
+            "name": "ح . كابلسازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1TRNS0001",
+            "sym": "TRNS1",
+            "sym_name_latin": "S*Iran Transfo",
+            "sym_name": "بترانس",
+            "name": "ايران‌ ترانسفو"
+        },
+        {
+            "sym_id": "IRR1TRNS0101",
+            "sym": "TRNX1",
+            "sym_name_latin": "Iran Transfo-R",
+            "sym_name": "بترانسح",
+            "name": "ح . ايران‌ ترانسفو"
+        },
+        {
+            "sym_id": "IRO1KTAK0001",
+            "sym": "KTAK1",
+            "sym_name_latin": "Tak Cable",
+            "sym_name": "بتك",
+            "name": "كابلسازي‌ تك‌"
+        },
+        {
+            "sym_id": "IRR1KTAK0101",
+            "sym": "KTAX1",
+            "sym_name_latin": "Tak Cable-R",
+            "sym_name": "بتكح",
+            "name": "ح . كابلسازي‌ تك‌"
+        },
+        {
+            "sym_id": "IRO1TTZC0001",
+            "sym": "TTZC1",
+            "sym_name_latin": "Zangan Dist. Trans",
+            "sym_name": "برانسفو",
+            "name": "ترانسفورماتور توزيع زنگان"
+        },
+        {
+            "sym_id": "IRO1SWIC0001",
+            "sym": "SWIC1",
+            "sym_name_latin": "Pars Switch",
+            "sym_name": "بسويچ",
+            "name": "پارس‌سويچ‌"
+        },
+        {
+            "sym_id": "IRR1SWIC0101",
+            "sym": "SWIX1",
+            "sym_name_latin": "Pars Switch-R",
+            "sym_name": "بسويچح",
+            "name": "ح . پارس‌سويچ‌"
+        },
+        {
+            "sym_id": "IRO1LAPS0001",
+            "sym": "LAPS1",
+            "sym_name_latin": "Pars Shahab",
+            "sym_name": "بشهاب",
+            "name": "لامپ‌  پارس‌ شهاب‌"
+        },
+        {
+            "sym_id": "IRR1LAPS0101",
+            "sym": "LAPX1",
+            "sym_name_latin": "Pars Shahab-R",
+            "sym_name": "بشهابح",
+            "name": "ح . لامپ‌  پارس‌ شهاب‌"
+        },
+        {
+            "sym_id": "IRO1JOSH0001",
+            "sym": "JOSH1",
+            "sym_name_latin": "Yazd Jooshkab",
+            "sym_name": "بكاب",
+            "name": "صنايع‌جوشكاب‌يزد"
+        },
+        {
+            "sym_id": "IRR1JOSH0101",
+            "sym": "JOSX1",
+            "sym_name_latin": "Yazd Jooshkab-R",
+            "sym_name": "بكابح",
+            "name": "ح . صنايع‌جوشكاب‌يزد"
+        },
+        {
+            "sym_id": "IRO1KGND0001",
+            "sym": "KGND1",
+            "sym_name_latin": "Ghandi Cables.",
+            "sym_name": "بكام",
+            "name": "كارخانجات توليدي شهيد قندي"
+        },
+        {
+            "sym_id": "IRR1KGND0101",
+            "sym": "KGNX1",
+            "sym_name_latin": "Ghandi Cables.-R",
+            "sym_name": "بكامح",
+            "name": "ح.كارخانجات توليدي شهيد قندي"
+        },
+        {
+            "sym_id": "IRO1MOTJ0001",
+            "sym": "MOTJ1",
+            "sym_name_latin": "Motogen",
+            "sym_name": "بموتو",
+            "name": "موتوژن‌"
+        },
+        {
+            "sym_id": "IRR1MOTJ0101",
+            "sym": "MOTX1",
+            "sym_name_latin": "Motogen-R",
+            "sym_name": "بموتوح",
+            "name": "ح . موتوژن‌"
+        },
+        {
+            "sym_id": "IRO1NIRO0001",
+            "sym": "NIRO1",
+            "sym_name_latin": "Nirou Trans",
+            "sym_name": "بنيرو",
+            "name": "نيروترانس‌"
+        },
+        {
+            "sym_id": "IRR1NIRO0101",
+            "sym": "NIRX1",
+            "sym_name_latin": "Nirou Trans-R",
+            "sym_name": "بنيروح",
+            "name": "ح . نيروترانس‌"
+        }
+    ],
+    "مواد و محصولات دارويي": [
+        {
+            "sym_id": "IRO1BRKT0001",
+            "sym": "BRKT1",
+            "sym_name_latin": "G.Barekat Pharm",
+            "sym_name": "بركت",
+            "name": "گروه دارويي بركت"
+        },
+        {
+            "sym_id": "IRR1BRKT0101",
+            "sym": "BRKX1",
+            "sym_name_latin": "G.Barekat Pharm-R",
+            "sym_name": "بركتح",
+            "name": "ح . گروه دارويي بركت"
+        },
+        {
+            "sym_id": "IRO1DTIP0001",
+            "sym": "DTIP1",
+            "sym_name_latin": "Tamin Daroo",
+            "sym_name": "تيپيكو",
+            "name": "سرمايه گذاري دارويي تامين"
+        },
+        {
+            "sym_id": "IRR1DTIP0101",
+            "sym": "DTIX1",
+            "sym_name_latin": "Tamin Daroo-R",
+            "sym_name": "تيپيكوح",
+            "name": "ح . سرمايه گذاري دارويي تامين"
+        },
+        {
+            "sym_id": "IRO1DABO0001",
+            "sym": "DABO1",
+            "sym_name_latin": "Abouraihan P.",
+            "sym_name": "دابور",
+            "name": "داروسازي‌ ابوريحان‌"
+        },
+        {
+            "sym_id": "IRR1DABO0101",
+            "sym": "DABX1",
+            "sym_name_latin": "Abouraihan P.-R",
+            "sym_name": "دابورح",
+            "name": "ح . داروسازي‌ ابوريحان‌"
+        },
+        {
+            "sym_id": "IRO1DPAK0001",
+            "sym": "DPAK1",
+            "sym_name_latin": "Daroupakhsh P.",
+            "sym_name": "دارو",
+            "name": "كارخانجات‌داروپخش‌"
+        },
+        {
+            "sym_id": "IRR1DPAK0101",
+            "sym": "DPAX1",
+            "sym_name_latin": "Daroupakhsh P.-R",
+            "sym_name": "داروح",
+            "name": "ح . كارخانجات‌داروپخش"
+        },
+        {
+            "sym_id": "IRO1DOSE0001",
+            "sym": "DOSE1",
+            "sym_name_latin": "Osvah Pharm.",
+            "sym_name": "داسوه",
+            "name": "داروسازي‌ اسوه‌"
+        },
+        {
+            "sym_id": "IRR1DOSE0101",
+            "sym": "DOSX1",
+            "sym_name_latin": "Osvah Pharm.-R",
+            "sym_name": "داسوهح",
+            "name": "ح . داروسازي‌ اسوه‌"
+        },
+        {
+            "sym_id": "IRO1DALZ0001",
+            "sym": "DALZ1",
+            "sym_name_latin": "Alborz Darou",
+            "sym_name": "دالبر",
+            "name": "البرزدارو"
+        },
+        {
+            "sym_id": "IRR1DALZ0101",
+            "sym": "DALX1",
+            "sym_name_latin": "Alborz Darou-R",
+            "sym_name": "دالبرح",
+            "name": "ح . البرزدارو"
+        },
+        {
+            "sym_id": "IRO1AMIN0001",
+            "sym": "AMIN1",
+            "sym_name_latin": "Amin Pharm.",
+            "sym_name": "دامين",
+            "name": "داروسازي‌ امين‌"
+        },
+        {
+            "sym_id": "IRR1AMIN0101",
+            "sym": "AMIX1",
+            "sym_name_latin": "Amin Pharm.-R",
+            "sym_name": "دامينح",
+            "name": "ح . داروسازي‌ امين‌"
+        },
+        {
+            "sym_id": "IRO1PDRO0001",
+            "sym": "PDRO1",
+            "sym_name_latin": "Pars Darou",
+            "sym_name": "دپارس",
+            "name": "پارس‌ دارو"
+        },
+        {
+            "sym_id": "IRR1PDRO0101",
+            "sym": "PDRX1",
+            "sym_name_latin": "Pars Darou-R",
+            "sym_name": "دپارسح",
+            "name": "ح . پارس‌ دارو"
+        },
+        {
+            "sym_id": "IRO1TMVD0001",
+            "sym": "TMVD1",
+            "sym_name_latin": "Daroupakhash I.",
+            "sym_name": "دتماد",
+            "name": "توليدمواداوليه‌داروپخش‌"
+        },
+        {
+            "sym_id": "IRR1TMVD0101",
+            "sym": "TMVX1",
+            "sym_name_latin": "Daroupakhash I.-R",
+            "sym_name": "دتمادح",
+            "name": "ح . توليدمواداوليه‌داروپخش‌"
+        },
+        {
+            "sym_id": "IRO1THDR0001",
+            "sym": "THDR1",
+            "sym_name_latin": "Tehran Darou",
+            "sym_name": "دتهران",
+            "name": "داروسازي‌ تهران‌ دارو"
+        },
+        {
+            "sym_id": "IRR1THDR0101",
+            "sym": "THDX1",
+            "sym_name_latin": "Tehran Darou-R",
+            "sym_name": "دتهرانح",
+            "name": "ح . داروسازي‌ تهران‌ دارو"
+        },
+        {
+            "sym_id": "IRO1DJBR0001",
+            "sym": "DJBR1",
+            "sym_name_latin": "Jaber Hayan P.",
+            "sym_name": "دجابر",
+            "name": "داروسازي‌ جابرابن‌حيان‌"
+        },
+        {
+            "sym_id": "IRR1DJBR0101",
+            "sym": "DJBX1",
+            "sym_name_latin": "Jaber Hayan P.-R",
+            "sym_name": "دجابرح",
+            "name": "ح . داروسازي‌ جابرابن‌حيان‌"
+        },
+        {
+            "sym_id": "IRO1DAML0001",
+            "sym": "DAML1",
+            "sym_name_latin": "Damloran Pharm.",
+            "sym_name": "ددام",
+            "name": "داروسازي زاگرس فارمد پارس"
+        },
+        {
+            "sym_id": "IRR1DAML0101",
+            "sym": "DAMX1",
+            "sym_name_latin": "Damloran Pharm.-R",
+            "sym_name": "ددامح",
+            "name": "ح . داروسازي زاگرس فارمد پارس"
+        },
+        {
+            "sym_id": "IRO1DRZK0001",
+            "sym": "DRZK1",
+            "sym_name_latin": "Razak Lab.",
+            "sym_name": "درازك",
+            "name": "دارويي‌ رازك‌"
+        },
+        {
+            "sym_id": "IRR1DRZK0101",
+            "sym": "DRZX1",
+            "sym_name_latin": "Razak Lab.-R",
+            "sym_name": "درازكح",
+            "name": "ح . دارويي‌ رازك‌"
+        },
+        {
+            "sym_id": "IRO1ROZD0001",
+            "sym": "ROZD1",
+            "sym_name_latin": "Rouz Darou P.",
+            "sym_name": "دروز",
+            "name": "داروسازي‌ روزدارو"
+        },
+        {
+            "sym_id": "IRR1ROZD0101",
+            "sym": "ROZX1",
+            "sym_name_latin": "Rouz Darou P.-R",
+            "sym_name": "دروزح",
+            "name": "ح . داروسازي‌ روزدارو"
+        },
+        {
+            "sym_id": "IRO1DZAH0001",
+            "sym": "DZAH1",
+            "sym_name_latin": "Zahravi Phar.",
+            "sym_name": "دزهراوي",
+            "name": "داروسازي‌زهراوي‌"
+        },
+        {
+            "sym_id": "IRR1DZAH0101",
+            "sym": "DZAX1",
+            "sym_name_latin": "Zahravi Phar.-R",
+            "sym_name": "دزهراويح",
+            "name": "ح . ‌داروسازي‌زهراوي‌"
+        },
+        {
+            "sym_id": "IRO1DSOB0001",
+            "sym": "DSOB1",
+            "sym_name_latin": "Sobhan Pharm.",
+            "sym_name": "دسبحا",
+            "name": "گروه دارويي سبحان"
+        },
+        {
+            "sym_id": "IRO1DSBH0001",
+            "sym": "DSBH1",
+            "sym_name_latin": "Sobhan Pharm",
+            "sym_name": "دسبحان",
+            "name": "سبحان دارو"
+        },
+        {
+            "sym_id": "IRR1DSBH0101",
+            "sym": "DSBX1",
+            "sym_name_latin": "Sobhan Pharm-R",
+            "sym_name": "دسبحانح",
+            "name": "ح. سبحان دارو"
+        },
+        {
+            "sym_id": "IRO1DSIN0001",
+            "sym": "DSIN1",
+            "sym_name_latin": "Sina Darou Lab.",
+            "sym_name": "دسينا",
+            "name": "داروسازي‌ سينا"
+        },
+        {
+            "sym_id": "IRR1DSIN0101",
+            "sym": "DSIX1",
+            "sym_name_latin": "Sina Darou Lab.-R",
+            "sym_name": "دسيناح",
+            "name": "ح . داروسازي‌ سينا"
+        },
+        {
+            "sym_id": "IRO1DDPK0001",
+            "sym": "DDPK1",
+            "sym_name_latin": "Daroupakhsh",
+            "sym_name": "دشيمي",
+            "name": "شيمي‌ داروئي‌ داروپخش‌"
+        },
+        {
+            "sym_id": "IRO1ABDI0001",
+            "sym": "ABDI1",
+            "sym_name_latin": "Dr. Abidi Lab.",
+            "sym_name": "دعبيد",
+            "name": "لابراتوارداروسازي‌  دكترعبيدي‌"
+        },
+        {
+            "sym_id": "IRR1ABDI0101",
+            "sym": "ABDX1",
+            "sym_name_latin": "Dr. Abidi Lab.-R",
+            "sym_name": "دعبيدح",
+            "name": "ح . داروسازي‌ دكترعبيدي‌"
+        },
+        {
+            "sym_id": "IRO1DFRB0001",
+            "sym": "DFRB1",
+            "sym_name_latin": "Farabi Pharm.",
+            "sym_name": "دفارا",
+            "name": "داروسازي‌ فارابي‌"
+        },
+        {
+            "sym_id": "IRR1DFRB0101",
+            "sym": "DFRX1",
+            "sym_name_latin": "Farabi Pharm.-R",
+            "sym_name": "دفاراح",
+            "name": "ح . داروسازي‌ فارابي‌"
+        },
+        {
+            "sym_id": "IRO1FTIR0001",
+            "sym": "FTIR1",
+            "sym_name_latin": "Iran Parenteral",
+            "sym_name": "دفرا",
+            "name": "فرآورده‌هاي‌ تزريقي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1FTIR0101",
+            "sym": "FTIX1",
+            "sym_name_latin": "Iran Parenteral-R",
+            "sym_name": "دفراح",
+            "name": "ح . فرآورده‌هاي‌ تزريقي‌"
+        },
+        {
+            "sym_id": "IRO1DKSR0001",
+            "sym": "DKSR1",
+            "sym_name_latin": "Kowsar Pharm.",
+            "sym_name": "دكوثر",
+            "name": "داروسازي‌ كوثر"
+        },
+        {
+            "sym_id": "IRR1DKSR0101",
+            "sym": "DKSX1",
+            "sym_name_latin": "Kowsar Pharm.-R",
+            "sym_name": "دكوثرح",
+            "name": "ح . داروسازي‌ كوثر"
+        },
+        {
+            "sym_id": "IRO1KIMI0001",
+            "sym": "KIMI1",
+            "sym_name_latin": "Chimidarou",
+            "sym_name": "دكيمي",
+            "name": "كيميدارو"
+        },
+        {
+            "sym_id": "IRR1KIMI0101",
+            "sym": "KIMX1",
+            "sym_name_latin": "Chimidarou-R",
+            "sym_name": "دكيميح",
+            "name": "ح . كيميدارو"
+        },
+        {
+            "sym_id": "IRO1EXIR0001",
+            "sym": "EXIR1",
+            "sym_name_latin": "Exir Pharm.",
+            "sym_name": "دلر",
+            "name": "داروسازي‌ اكسير"
+        },
+        {
+            "sym_id": "IRR1EXIR0101",
+            "sym": "EXIX1",
+            "sym_name_latin": "Exir Pharm.-R",
+            "sym_name": "دلرح",
+            "name": "ح . داروسازي‌ اكسير"
+        },
+        {
+            "sym_id": "IRO1DLGM0001",
+            "sym": "DLGM1",
+            "sym_name_latin": "Loghman Pharm.",
+            "sym_name": "دلقما",
+            "name": "دارويي‌ لقمان‌"
+        },
+        {
+            "sym_id": "IRR1DLGM0101",
+            "sym": "DLGX1",
+            "sym_name_latin": "Loghman Pharm.-R",
+            "sym_name": "دلقماح",
+            "name": "ح . دارويي‌ لقمان‌"
+        },
+        {
+            "sym_id": "IRO1IRDR0001",
+            "sym": "IRDR1",
+            "sym_name_latin": "Iran Darou",
+            "sym_name": "ديران",
+            "name": "ايران‌دارو"
+        },
+        {
+            "sym_id": "IRR1IRDR0101",
+            "sym": "IRDX1",
+            "sym_name_latin": "Iran Darou-R",
+            "sym_name": "ديرانح",
+            "name": "ح . ‌ايران‌دارو"
+        },
+        {
+            "sym_id": "IRO1THSH0001",
+            "sym": "THSH1",
+            "sym_name_latin": "Tehran Chemical",
+            "sym_name": "شتهران",
+            "name": "تهران‌ شيمي‌"
+        },
+        {
+            "sym_id": "IRR1THSH0101",
+            "sym": "THSX1",
+            "sym_name_latin": "Tehran Chemical-R",
+            "sym_name": "شتهرانح",
+            "name": "ح . تهران‌ شيمي‌"
+        },
+        {
+            "sym_id": "IRO1SHFA0001",
+            "sym": "SHFA1",
+            "sym_name_latin": "ShafaDarou Inv.",
+            "sym_name": "شفا",
+            "name": "سرمايه گذاري شفادارو"
+        },
+        {
+            "sym_id": "IRO1ALBZ0001",
+            "sym": "ALBZ1",
+            "sym_name_latin": "S*Alborz Inv.",
+            "sym_name": "والبر",
+            "name": "سرمايه‌ گذاري‌ البرز(هلدينگ‌"
+        },
+        {
+            "sym_id": "IRO1DARO0001",
+            "sym": "DARO1",
+            "sym_name_latin": "Daroupakhsh",
+            "sym_name": "وپخش",
+            "name": "داروپخش‌ (هلدينگ‌"
+        },
+        {
+            "sym_id": "IRR1DARO0101",
+            "sym": "DARX1",
+            "sym_name_latin": "Daroupakhsh-R",
+            "sym_name": "وپخشح",
+            "name": "ح . داروپخش‌ (هلدينگ‌"
+        }
+    ],
+    "لاستيك و پلاستيك": [
+        {
+            "sym_id": "IRO1ARTA0001",
+            "sym": "ARTA1",
+            "sym_name_latin": "Artavil Tire",
+            "sym_name": "پارتا",
+            "name": "مجتمع‌صنعتي‌آرتاويل‌تاير"
+        },
+        {
+            "sym_id": "IRR1ARTA0101",
+            "sym": "ARTX1",
+            "sym_name_latin": "Artavil Tire-R",
+            "sym_name": "پارتاح",
+            "name": "ح . مجتمع‌صنعتي‌آرتاويل‌تاير"
+        },
+        {
+            "sym_id": "IRO1YASA0001",
+            "sym": "YASA1",
+            "sym_name_latin": "Iran Yasa Tire",
+            "sym_name": "پاسا",
+            "name": "ايران‌ياساتايرورابر"
+        },
+        {
+            "sym_id": "IRR1YASA0101",
+            "sym": "YASX1",
+            "sym_name_latin": "Iran Yasa Tire-R",
+            "sym_name": "پاساح",
+            "name": "ح . ايران‌ياساتايرورابر"
+        },
+        {
+            "sym_id": "IRO1TAIR0001",
+            "sym": "TAIR1",
+            "sym_name_latin": "Iran Tire",
+            "sym_name": "پتاير",
+            "name": "ايران‌ تاير"
+        },
+        {
+            "sym_id": "IRR1TAIR0101",
+            "sym": "TAIX1",
+            "sym_name_latin": "Iran Tire-R",
+            "sym_name": "پتايرح",
+            "name": "ح . ايران‌ تاير"
+        },
+        {
+            "sym_id": "IRO1DRKH0001",
+            "sym": "DRKH1",
+            "sym_name_latin": "Derakhshan Teh.",
+            "sym_name": "پدرخش",
+            "name": "درخشان‌ تهران‌"
+        },
+        {
+            "sym_id": "IRR1DRKH0101",
+            "sym": "DRKX1",
+            "sym_name_latin": "Derakhshan Teh.-R",
+            "sym_name": "پدرخشح",
+            "name": "ح . درخشان‌ تهران‌"
+        },
+        {
+            "sym_id": "IRO1DENA0001",
+            "sym": "DENA1",
+            "sym_name_latin": "Dena Tire",
+            "sym_name": "پدنا",
+            "name": "توليدي‌لاستيك‌دنا"
+        },
+        {
+            "sym_id": "IRR1DENA0101",
+            "sym": "DENX1",
+            "sym_name_latin": "Dena Tire-R",
+            "sym_name": "پدناح",
+            "name": "ح . توليدي‌لاستيك‌دنا"
+        },
+        {
+            "sym_id": "IRO1SHND0001",
+            "sym": "SHND1",
+            "sym_name_latin": "Sahand Rubber",
+            "sym_name": "پسهند",
+            "name": "صنايع‌ لاستيكي‌  سهند"
+        },
+        {
+            "sym_id": "IRR1SHND0101",
+            "sym": "SHNX1",
+            "sym_name_latin": "Sahand Rubber-R",
+            "sym_name": "پسهندح",
+            "name": "ح . صنايع‌ لاستيكي‌  سهند"
+        },
+        {
+            "sym_id": "IRO1SHIN0001",
+            "sym": "SHIN1",
+            "sym_name_latin": "Shahin Plastic",
+            "sym_name": "پشاهن",
+            "name": "پلاستيك‌  شاهين‌"
+        },
+        {
+            "sym_id": "IRR1SHIN0101",
+            "sym": "SHIX1",
+            "sym_name_latin": "Shahin Plastic-R",
+            "sym_name": "پشاهنح",
+            "name": "ح . پلاستيك‌  شاهين‌"
+        },
+        {
+            "sym_id": "IRO1BARZ0001",
+            "sym": "BARZ1",
+            "sym_name_latin": "Kerman Tire",
+            "sym_name": "پكرمان",
+            "name": "گروه‌ صنعتي‌ بارز"
+        },
+        {
+            "sym_id": "IRR1BARZ0101",
+            "sym": "BARX1",
+            "sym_name_latin": "Kerman Tire-R",
+            "sym_name": "پكرمانح",
+            "name": "ح . گروه‌ صنعتي‌ بارز"
+        },
+        {
+            "sym_id": "IRO1KVRZ0001",
+            "sym": "KVRZ1",
+            "sym_name_latin": "Kavir Tire",
+            "sym_name": "پكوير",
+            "name": "كوير تاير"
+        },
+        {
+            "sym_id": "IRR1KVRZ0101",
+            "sym": "KVRX1",
+            "sym_name_latin": "Kavir Tire -R",
+            "sym_name": "پكويرح",
+            "name": "ح. كوير تاير"
+        },
+        {
+            "sym_id": "IRO1LALZ0001",
+            "sym": "LALZ1",
+            "sym_name_latin": "Alborz Tire",
+            "sym_name": "پكيان",
+            "name": "لاستيك‌البرز"
+        },
+        {
+            "sym_id": "IRR1LALZ0101",
+            "sym": "LALX1",
+            "sym_name_latin": "Alborz Tire-R",
+            "sym_name": "پكيانح",
+            "name": "ح . لاستيك‌البرز"
+        },
+        {
+            "sym_id": "IRO1PLST0001",
+            "sym": "PLST1",
+            "sym_name_latin": "Plastiran",
+            "sym_name": "پلاست",
+            "name": "پلاستيران‌"
+        },
+        {
+            "sym_id": "IRR1PLST0101",
+            "sym": "PLSX1",
+            "sym_name_latin": "Plastiran-R",
+            "sym_name": "پلاستح",
+            "name": "ح . پلاستيران‌"
+        },
+        {
+            "sym_id": "IRO1PLKK0001",
+            "sym": "PLKK1",
+            "sym_name_latin": "Plascokar Saipa",
+            "sym_name": "پلاسك",
+            "name": "پلاسكوكار"
+        },
+        {
+            "sym_id": "IRR1PLKK0101",
+            "sym": "PLKX1",
+            "sym_name_latin": "Plascokar Saipa-R",
+            "sym_name": "پلاسكح",
+            "name": "ح . پلاسكوكار"
+        },
+        {
+            "sym_id": "IRO1GAZL0001",
+            "sym": "GAZL1",
+            "sym_name_latin": "Gazlouleh",
+            "sym_name": "پلوله",
+            "name": "گازلوله‌"
+        },
+        {
+            "sym_id": "IRR1GAZL0101",
+            "sym": "GAZX1",
+            "sym_name_latin": "Gazlouleh-R",
+            "sym_name": "پلولهح",
+            "name": "ح . گازلوله‌"
+        }
+    ],
+    "سرمايه گذاريها": [
+        {
+            "sym_id": "IRO1AYEG0001",
+            "sym": "AYEG1",
+            "sym_name_latin": "Pardis Invsetment",
+            "sym_name": "پرديس",
+            "name": "سرمايه گذاري پرديس"
+        },
+        {
+            "sym_id": "IRR1AYEG0101",
+            "sym": "AYEX1",
+            "sym_name_latin": "Ayegh Plastic-R",
+            "sym_name": "پرديسح",
+            "name": "ح .  سرمايه گذاري پرديس"
+        },
+        {
+            "sym_id": "IRO1KYAN0001",
+            "sym": "KYAN1",
+            "sym_name_latin": "Kian Capital Mng.",
+            "sym_name": "كيانا",
+            "name": "گروه مالي كيان"
+        },
+        {
+            "sym_id": "IRO1MDAR0001",
+            "sym": "MDAR1",
+            "sym_name_latin": "Madar Invest.",
+            "sym_name": "مدار",
+            "name": "س. مديريت سرمايه مدار"
+        },
+        {
+            "sym_id": "IRO1ATDM0001",
+            "sym": "ATDM1",
+            "sym_name_latin": "Atye Damavand",
+            "sym_name": "واتي",
+            "name": "سرمايه‌ گذاري‌ آتيه‌ دماوند"
+        },
+        {
+            "sym_id": "IRR1ATDM0101",
+            "sym": "ATDX1",
+            "sym_name_latin": "Atye Damavand-R",
+            "sym_name": "واتيح",
+            "name": "ح . سرمايه‌ گذاري‌آتيه‌ دماوند"
+        },
+        {
+            "sym_id": "IRO1IDOC0001",
+            "sym": "IDOC1",
+            "sym_name_latin": "Iran Motorcycle",
+            "sym_name": "واعتبار",
+            "name": "سرمايه گذاري اعتبار ايران"
+        },
+        {
+            "sym_id": "IRR1IDOC0101",
+            "sym": "IDOX1",
+            "sym_name_latin": "Iran Motorcycle-R",
+            "sym_name": "واعتبارح",
+            "name": "ح.سرمايه گذاري اعتبار ايران"
+        },
+        {
+            "sym_id": "IRO1SBAH0001",
+            "sym": "SBAH1",
+            "sym_name_latin": "Bahman Inv.",
+            "sym_name": "وبهمن",
+            "name": "سرمايه‌گذاري‌بهمن‌"
+        },
+        {
+            "sym_id": "IRR1SBAH0101",
+            "sym": "SBAX1",
+            "sym_name_latin": "Bahman Inv.-R",
+            "sym_name": "وبهمنح",
+            "name": "ح . سرمايه‌گذاري‌بهمن‌"
+        },
+        {
+            "sym_id": "IRO1BALI0001",
+            "sym": "BALI1",
+            "sym_name_latin": "Buali Inv.",
+            "sym_name": "وبوعلي",
+            "name": "سرمايه‌گذاري‌بوعلي‌"
+        },
+        {
+            "sym_id": "IRR1BALI0101",
+            "sym": "BALX1",
+            "sym_name_latin": "Buali Inv.-R",
+            "sym_name": "وبوعليح",
+            "name": "ح . سرمايه‌گذاري‌بوعلي‌"
+        },
+        {
+            "sym_id": "IRO1BIME0001",
+            "sym": "BIME1",
+            "sym_name_latin": "Insurance Inv.",
+            "sym_name": "وبيمه",
+            "name": "سرمايه‌ گذاري‌ صنعت‌ بيمه‌"
+        },
+        {
+            "sym_id": "IRR1BIME0101",
+            "sym": "BIMX1",
+            "sym_name_latin": "Insurance Inv.-R",
+            "sym_name": "وبيمهح",
+            "name": "ح . سرمايه‌ گذاري‌ صنعت‌ بيمه‌"
+        },
+        {
+            "sym_id": "IRO1TMEL0001",
+            "sym": "TMEL1",
+            "sym_name_latin": "Tosee Melli Inv",
+            "sym_name": "وتوسم",
+            "name": "سرمايه‌گذاري‌توسعه‌ملي‌"
+        },
+        {
+            "sym_id": "IRR1TMEL0101",
+            "sym": "TMEX1",
+            "sym_name_latin": "Tosee Melli Inv-R",
+            "sym_name": "وتوسمح",
+            "name": "ح . سرمايه‌گذاري‌توسعه‌ملي‌"
+        },
+        {
+            "sym_id": "IRO1TOSA0001",
+            "sym": "TOSA1",
+            "sym_name_latin": "Iran Ind. Dev.",
+            "sym_name": "وتوصا",
+            "name": "گروه س توسعه صنعتي ايران"
+        },
+        {
+            "sym_id": "IRR1TOSA0101",
+            "sym": "TOSX1",
+            "sym_name_latin": "Iran Ind. Dev.-R",
+            "sym_name": "وتوصاح",
+            "name": "ح. سرمايه‌گذاري توسعه‌صنعتي"
+        },
+        {
+            "sym_id": "IRO1IKHR0001",
+            "sym": "IKHR1",
+            "sym_name_latin": "S*Kharazmy Invest",
+            "sym_name": "وخارزم",
+            "name": "سرمايه گذاري خوارزمي"
+        },
+        {
+            "sym_id": "IRR1IKHR0101",
+            "sym": "IKHX1",
+            "sym_name_latin": "Kharazmy Invest-R",
+            "sym_name": "وخارزمح",
+            "name": "ح.سرمايه گذاري خوارزمي"
+        },
+        {
+            "sym_id": "IRO1SSAP0001",
+            "sym": "SSAP1",
+            "sym_name_latin": "S*Saipa Inv.",
+            "sym_name": "وساپا",
+            "name": "سرمايه‌گذاري‌ سايپا"
+        },
+        {
+            "sym_id": "IRR1SSAP0101",
+            "sym": "SSAX1",
+            "sym_name_latin": "Saipa Inv.-R",
+            "sym_name": "وساپاح",
+            "name": "ح . سرمايه‌گذاري‌ سايپا"
+        },
+        {
+            "sym_id": "IRO1OS030001",
+            "sym": "OS031",
+            "sym_name_latin": "Ardebil Inv.",
+            "sym_name": "وساربيل",
+            "name": "شركت س استان اردبيل"
+        },
+        {
+            "sym_id": "IRO1OS010001",
+            "sym": "OS011",
+            "sym_name_latin": "AzarSharghi Inv.",
+            "sym_name": "وساشرقي",
+            "name": "شركت س استان آذربايجان شرقي"
+        },
+        {
+            "sym_id": "IRO1OS020001",
+            "sym": "OS021",
+            "sym_name_latin": "AzarbyjnGharbi Inv",
+            "sym_name": "وساغربي",
+            "name": "شركت س استان آذربايجان غربي"
+        },
+        {
+            "sym_id": "IRO1OS060001",
+            "sym": "OS061",
+            "sym_name_latin": "Boushehr Inv.",
+            "sym_name": "وسبوشهر",
+            "name": "شركت س استان بوشهر"
+        },
+        {
+            "sym_id": "IRO1SPAH0001",
+            "sym": "SPAH1",
+            "sym_name_latin": "Sepah Inv.",
+            "sym_name": "وسپه",
+            "name": "سرمايه‌گذاري‌ سپه‌"
+        },
+        {
+            "sym_id": "IRR1SPAH0101",
+            "sym": "SPAX1",
+            "sym_name_latin": "Sepah Inv.-R",
+            "sym_name": "وسپهح",
+            "name": "ح . سرمايه‌گذاري‌ سپه‌"
+        },
+        {
+            "sym_id": "IRO1OS070001",
+            "sym": "OS071",
+            "sym_name_latin": "Tehran Inv.",
+            "sym_name": "وستهران",
+            "name": "شركت س استان تهران"
+        },
+        {
+            "sym_id": "IRO1OS090001",
+            "sym": "OS091",
+            "sym_name_latin": "KhorasanJonobi Inv",
+            "sym_name": "وسخراج",
+            "name": "شركت س استان خراسان جنوبي"
+        },
+        {
+            "sym_id": "IRO1OS110001",
+            "sym": "OS111",
+            "sym_name_latin": "Khorasan Shomali I",
+            "sym_name": "وسخراش",
+            "name": "شركت س استان خراسان شمالي"
+        },
+        {
+            "sym_id": "IRO1OS120001",
+            "sym": "OS121",
+            "sym_name_latin": "Khozestan Inv.",
+            "sym_name": "وسخوز",
+            "name": "شركت س استان خوزستان"
+        },
+        {
+            "sym_id": "IRO1OS100001",
+            "sym": "OS101",
+            "sym_name_latin": "KhorasanRazavi Inv",
+            "sym_name": "وسرضوي",
+            "name": "س.سهام عدالت استان خراسان رضوي"
+        },
+        {
+            "sym_id": "IRO1OS130001",
+            "sym": "OS131",
+            "sym_name_latin": "Zanjan Inv.",
+            "sym_name": "وسزنجان",
+            "name": "شركت س استان زنجان"
+        },
+        {
+            "sym_id": "IRO1OS040001",
+            "sym": "OS041",
+            "sym_name_latin": "Isfahan Inv.",
+            "sym_name": "وسصفا",
+            "name": "شركت س استان اصفهان"
+        },
+        {
+            "sym_id": "IRO1OS160001",
+            "sym": "OS161",
+            "sym_name_latin": "Fars Inv.",
+            "sym_name": "وسفارس",
+            "name": "شركت س استان فارس"
+        },
+        {
+            "sym_id": "IRO1OS170001",
+            "sym": "OS171",
+            "sym_name_latin": "Qazvin Inv.",
+            "sym_name": "وسقزوين",
+            "name": "سرمايه گذاري عدالت استان قزوين"
+        },
+        {
+            "sym_id": "IRO1OS180001",
+            "sym": "OS181",
+            "sym_name_latin": "Qom Inv.",
+            "sym_name": "وسقم",
+            "name": "شركت س استان قم"
+        },
+        {
+            "sym_id": "IRO1SKBV0001",
+            "sym": "SKBV1",
+            "sym_name_latin": "Banks Employees",
+            "sym_name": "وسكاب",
+            "name": "س.ص.بازنشستگي كاركنان بانكها"
+        },
+        {
+            "sym_id": "IRR1SKBV0101",
+            "sym": "SKBX1",
+            "sym_name_latin": "Banks Employees-R",
+            "sym_name": "وسكابح",
+            "name": "ح.س.ص.بازنشستگي كاركنان بانكها"
+        },
+        {
+            "sym_id": "IRO1OS190001",
+            "sym": "OS191",
+            "sym_name_latin": "Kordestan Inv.",
+            "sym_name": "وسكرد",
+            "name": "شركت س استان كردستان"
+        },
+        {
+            "sym_id": "IRO1OS210001",
+            "sym": "OS211",
+            "sym_name_latin": "Kermanshah Inv.",
+            "sym_name": "وسكرشا",
+            "name": "س.سهام عدالت استان كرمانشاه"
+        },
+        {
+            "sym_id": "IRO1OS200001",
+            "sym": "OS201",
+            "sym_name_latin": "Kerman Inv.",
+            "sym_name": "وسكرمان",
+            "name": "س.سهام عدالت استان كرمان"
+        },
+        {
+            "sym_id": "IRO1OS220001",
+            "sym": "OS221",
+            "sym_name_latin": "Kohgiloyeh Inv.",
+            "sym_name": "وسكهبو",
+            "name": "س.عدالت ا. كهگيلويه وبويراحمد"
+        },
+        {
+            "sym_id": "IRO1OS230001",
+            "sym": "OS231",
+            "sym_name_latin": "Golestan Inv.",
+            "sym_name": "وسگلستا",
+            "name": "شركت س استان گلستان"
+        },
+        {
+            "sym_id": "IRO1OS240001",
+            "sym": "OS241",
+            "sym_name_latin": "Gilan Inv.",
+            "sym_name": "وسگيلا",
+            "name": "شركت س استان گيلان"
+        },
+        {
+            "sym_id": "IRO1OS250001",
+            "sym": "OS251",
+            "sym_name_latin": "Lorestan Inv.",
+            "sym_name": "وسلرستا",
+            "name": "شركت س استان لرستان"
+        },
+        {
+            "sym_id": "IRO1OS260001",
+            "sym": "OS261",
+            "sym_name_latin": "Mazandaran Inv.",
+            "sym_name": "وسمازن",
+            "name": "س.سهام عدالت استان مازندران"
+        },
+        {
+            "sym_id": "IRO1OS080001",
+            "sym": "OS081",
+            "sym_name_latin": "ChharMahalBakh Inv",
+            "sym_name": "وسمحال",
+            "name": "شركت س.استان چهارمحال وبختياري"
+        },
+        {
+            "sym_id": "IRO1OS270001",
+            "sym": "OS271",
+            "sym_name_latin": "Markazi Inv.",
+            "sym_name": "وسمركز",
+            "name": "شركت س استان مركزي"
+        },
+        {
+            "sym_id": "IRO1OS140001",
+            "sym": "OS141",
+            "sym_name_latin": "Semnam Inv.",
+            "sym_name": "وسمنان",
+            "name": "شركت س استان سمنان"
+        },
+        {
+            "sym_id": "IRO1OS280001",
+            "sym": "OS281",
+            "sym_name_latin": "Hormozgan Inv.",
+            "sym_name": "وسهرمز",
+            "name": "شركت س استان هرمزگان"
+        },
+        {
+            "sym_id": "IRO1OS290001",
+            "sym": "OS291",
+            "sym_name_latin": "Hamedan Inv.",
+            "sym_name": "وسهمدا",
+            "name": "شركت س استان همدان"
+        },
+        {
+            "sym_id": "IRO1OS300001",
+            "sym": "OS301",
+            "sym_name_latin": "Yazd Inv.",
+            "sym_name": "وسيزد",
+            "name": "شركت س استان يزد"
+        },
+        {
+            "sym_id": "IRO1OS150001",
+            "sym": "OS151",
+            "sym_name_latin": "Sistan Inv.",
+            "sym_name": "وسيستا",
+            "name": "شركت س استان سيستان وبلوچستان"
+        },
+        {
+            "sym_id": "IRO1OS050001",
+            "sym": "OS051",
+            "sym_name_latin": "Ilam Inv.",
+            "sym_name": "وسيلام",
+            "name": "شركت س استان ايلام"
+        },
+        {
+            "sym_id": "IRO1GBEH0001",
+            "sym": "GBEH1",
+            "sym_name_latin": "Behshahr Group",
+            "sym_name": "وصنا",
+            "name": "گروه‌صنايع‌بهشهرايران‌"
+        },
+        {
+            "sym_id": "IRR1GBEH0101",
+            "sym": "GBEX1",
+            "sym_name_latin": "Behshahr Group-R",
+            "sym_name": "وصناح",
+            "name": "ح . ‌گروه‌صنايع‌بهشهرايران‌"
+        },
+        {
+            "sym_id": "IRO1SNMA0001",
+            "sym": "SNMA1",
+            "sym_name_latin": "Ind. & Mine Inv",
+            "sym_name": "وصنعت",
+            "name": "سرمايه گذاري توسعه صنعت وتجارت"
+        },
+        {
+            "sym_id": "IRR1SNMA0101",
+            "sym": "SNMX1",
+            "sym_name_latin": "Ind. & Mine Inv-R",
+            "sym_name": "وصنعتح",
+            "name": "ح . سرمايه‌ گذاري‌صنعت‌ ومعدن‌"
+        },
+        {
+            "sym_id": "IRO1GMSH0001",
+            "sym": "GMSH1",
+            "sym_name_latin": "Shahr Financial G.",
+            "sym_name": "وگشهر",
+            "name": "گروه مالي شهر"
+        },
+        {
+            "sym_id": "IRO1VMDR0001",
+            "sym": "VMDR1",
+            "sym_name_latin": "M Sandogh B",
+            "sym_name": "ومدير",
+            "name": "گ.مديريت ارزش سرمايه ص ب كشوري"
+        },
+        {
+            "sym_id": "IRO1MELT0001",
+            "sym": "MELT1",
+            "sym_name_latin": "Melat Inv.",
+            "sym_name": "وملت",
+            "name": "سرمايه‌گذاري‌ملت‌"
+        },
+        {
+            "sym_id": "IRR1MELT0101",
+            "sym": "MELX1",
+            "sym_name_latin": "Melat Inv.-R",
+            "sym_name": "وملتح",
+            "name": "ح . سرمايه‌گذاري‌ملت‌"
+        },
+        {
+            "sym_id": "IRO1MEAZ0001",
+            "sym": "MEAZ1",
+            "sym_name_latin": "Mehr Ayandegan",
+            "sym_name": "ومهان",
+            "name": "گروه توسعه مالي مهرآيندگان"
+        }
+    ],
+    "استخراج نفت گاز و خدمات جنبي جز اکتشاف": [
+        {
+            "sym_id": "IRO1PERS0001",
+            "sym": "PERS1",
+            "sym_name_latin": "Oil&Gas Persia",
+            "sym_name": "پرشيا",
+            "name": "توسعه صنعت نفت و گاز پرشيا"
+        },
+        {
+            "sym_id": "IRO1HSHM0001",
+            "sym": "HSHM1",
+            "sym_name_latin": "S*North Drilling",
+            "sym_name": "حفاري",
+            "name": "حفاري شمال"
+        },
+        {
+            "sym_id": "IRR1HSHM0101",
+            "sym": "HSHX1",
+            "sym_name_latin": "North Drilling-R",
+            "sym_name": "حفاريح",
+            "name": "ح . حفاري شمال"
+        }
+    ],
+    "ماشين آلات و تجهيزات": [
+        {
+            "sym_id": "IRO1LYZD0001",
+            "sym": "LYZD1",
+            "sym_name_latin": "Yazd Tire",
+            "sym_name": "پيزد",
+            "name": "مجتمع‌صنايع‌لاستيك‌يزد"
+        },
+        {
+            "sym_id": "IRO1TRIR0001",
+            "sym": "TRIR1",
+            "sym_name_latin": "Iran Tractor",
+            "sym_name": "تايرا",
+            "name": "تراكتورسازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1TRIR0101",
+            "sym": "TRIX1",
+            "sym_name_latin": "Iran Tractor -R",
+            "sym_name": "تايراح",
+            "name": "ح . تراكتورسازي‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1HPKO0001",
+            "sym": "HPKO1",
+            "sym_name_latin": "Hepco",
+            "sym_name": "تپكو",
+            "name": "توليدتجهيزات‌سنگين‌هپكو"
+        },
+        {
+            "sym_id": "IRR1HPKO0101",
+            "sym": "HPKX1",
+            "sym_name_latin": "Hepco-R",
+            "sym_name": "تپكوح",
+            "name": "ح . توليدتجهيزات‌سنگين‌هپكو"
+        },
+        {
+            "sym_id": "IRO1PIRN0001",
+            "sym": "PIRN1",
+            "sym_name_latin": "Pumpiran",
+            "sym_name": "تپمپي",
+            "name": "پمپ‌ سازي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1PIRN0101",
+            "sym": "PIRX1",
+            "sym_name_latin": "Pumpiran-R",
+            "sym_name": "تپمپيح",
+            "name": "ح . پمپ‌ سازي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1MOZI0001",
+            "sym": "MOZI1",
+            "sym_name_latin": "Iran Tractor M.",
+            "sym_name": "تراك",
+            "name": "ماشين‌آلات صنعتي تراكتورسازي‌"
+        },
+        {
+            "sym_id": "IRR1MOZI0101",
+            "sym": "MOZX1",
+            "sym_name_latin": "Iran Tractor M.-R",
+            "sym_name": "تراكح",
+            "name": "ح.ماشين‌آلات صنعتي تراكتورسازي"
+        },
+        {
+            "sym_id": "IRO1FROZ0001",
+            "sym": "FROZ1",
+            "sym_name_latin": "Firouza",
+            "sym_name": "تفيرو",
+            "name": "فيروزا"
+        },
+        {
+            "sym_id": "IRR1FROZ0101",
+            "sym": "FROX1",
+            "sym_name_latin": "Firouza-R",
+            "sym_name": "تفيروح",
+            "name": "ح . فيروزا"
+        },
+        {
+            "sym_id": "IRO1GSKE0001",
+            "sym": "GSKE1",
+            "sym_name_latin": "A. I. S. D.",
+            "sym_name": "تكشا",
+            "name": "گسترش‌صنايع‌وخدمات‌كشاورزي‌"
+        },
+        {
+            "sym_id": "IRR1GSKE0101",
+            "sym": "GSKX1",
+            "sym_name_latin": "A. I. S. D.-R",
+            "sym_name": "تكشاح",
+            "name": "ح . صنايع‌وخدمات‌كشاورزي‌"
+        },
+        {
+            "sym_id": "IRO1COMB0001",
+            "sym": "COMB1",
+            "sym_name_latin": "Iran Combine",
+            "sym_name": "تكمبا",
+            "name": "كمباين‌ سازي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1COMB0101",
+            "sym": "COMX1",
+            "sym_name_latin": "Iran Combine-R",
+            "sym_name": "تكمباح",
+            "name": "ح . كمباين‌ سازي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1TKNO0001",
+            "sym": "TKNO1",
+            "sym_name_latin": "Technotar",
+            "sym_name": "تكنو",
+            "name": "تكنوتار"
+        },
+        {
+            "sym_id": "IRR1TKNO0101",
+            "sym": "TKNX1",
+            "sym_name_latin": "Technotar-R",
+            "sym_name": "تكنوح",
+            "name": "ح . تكنوتار"
+        },
+        {
+            "sym_id": "IRO1MNMH0001",
+            "sym": "MNMH1",
+            "sym_name_latin": "Niromohareke M.",
+            "sym_name": "تمحركه",
+            "name": "ماشين‌سازي‌نيرومحركه‌"
+        },
+        {
+            "sym_id": "IRR1MNMH0101",
+            "sym": "MNMX1",
+            "sym_name_latin": "Niromohareke M.-R",
+            "sym_name": "تمحركهح",
+            "name": "ح . ماشين‌سازي‌نيرومحركه‌"
+        },
+        {
+            "sym_id": "IRO1ASAL0001",
+            "sym": "ASAL1",
+            "sym_name_latin": "Absal",
+            "sym_name": "لابسا",
+            "name": "آبسال‌"
+        },
+        {
+            "sym_id": "IRR1ASAL0101",
+            "sym": "ASAX1",
+            "sym_name_latin": "Absal-R",
+            "sym_name": "لابساح",
+            "name": "ح . آبسال‌"
+        },
+        {
+            "sym_id": "IRO1AZMA0001",
+            "sym": "AZMA1",
+            "sym_name_latin": "Azmayesh",
+            "sym_name": "لازما",
+            "name": "آزمايش‌"
+        },
+        {
+            "sym_id": "IRR1AZMA0101",
+            "sym": "AZMX1",
+            "sym_name_latin": "Azmayesh-R",
+            "sym_name": "لازماح",
+            "name": "ح . آزمايش‌"
+        },
+        {
+            "sym_id": "IRO1TBHM0001",
+            "sym": "TBHM1",
+            "sym_name_latin": "Bahman Mfg.",
+            "sym_name": "لبهمن",
+            "name": "توليدي‌ بهمن‌"
+        },
+        {
+            "sym_id": "IRR1TBHM0101",
+            "sym": "TBHX1",
+            "sym_name_latin": "Bahman Mfg.-R",
+            "sym_name": "لبهمنح",
+            "name": "ح . توليدي‌ بهمن‌"
+        },
+        {
+            "sym_id": "IRO1BOTA0001",
+            "sym": "BOTA1",
+            "sym_name_latin": "Butane Group",
+            "sym_name": "لبوتان",
+            "name": "گروه‌صنعتي‌بوتان‌"
+        },
+        {
+            "sym_id": "IRR1BOTA0101",
+            "sym": "BOTX1",
+            "sym_name_latin": "Butane Group-R",
+            "sym_name": "لبوتانح",
+            "name": "ح . گروه‌صنعتي‌بوتان‌"
+        },
+        {
+            "sym_id": "IRO1IRPO0001",
+            "sym": "IRPO1",
+            "sym_name_latin": "Iran Pouya",
+            "sym_name": "لپويا",
+            "name": "ايران‌ پويا"
+        },
+        {
+            "sym_id": "IRR1IRPO0101",
+            "sym": "IRPX1",
+            "sym_name_latin": "Iran Pouya-R",
+            "sym_name": "لپوياح",
+            "name": "ح . ايران‌ پويا"
+        },
+        {
+            "sym_id": "IRO1LKPS0001",
+            "sym": "LKPS1",
+            "sym_name_latin": "Pars Alliance",
+            "sym_name": "لخانه",
+            "name": "لوازم‌ خانگي‌ پارس‌"
+        },
+        {
+            "sym_id": "IRR1LKPS0101",
+            "sym": "LKPX1",
+            "sym_name_latin": "Pars Alliance-R",
+            "sym_name": "لخانهح",
+            "name": "ح . لوازم‌ خانگي‌ پارس‌"
+        },
+        {
+            "sym_id": "IRO1KHAZ0001",
+            "sym": "KHAZ1",
+            "sym_name_latin": "Pars Khazar",
+            "sym_name": "لخزر",
+            "name": "پارس‌ خزر"
+        },
+        {
+            "sym_id": "IRR1KHAZ0101",
+            "sym": "KHAX1",
+            "sym_name_latin": "Pars Khazar-R",
+            "sym_name": "لخزرح",
+            "name": "ح . پارس‌ خزر"
+        },
+        {
+            "sym_id": "IRO1SRMA0001",
+            "sym": "SRMA1",
+            "sym_name_latin": "Sarma Afarin",
+            "sym_name": "لسرما",
+            "name": "سرما آفرين‌"
+        },
+        {
+            "sym_id": "IRR1SRMA0101",
+            "sym": "SRMX1",
+            "sym_name_latin": "Sarma Afarin-R",
+            "sym_name": "لسرماح",
+            "name": "ح . سرما آفرين‌"
+        },
+        {
+            "sym_id": "IRO1KARA0001",
+            "sym": "KARA1",
+            "sym_name_latin": "Karafarin Inv.",
+            "sym_name": "وآردل",
+            "name": "سرمايه‌گذاري‌كارآفرين‌(هلدينگ‌"
+        },
+        {
+            "sym_id": "IRR1KARA0101",
+            "sym": "KARX1",
+            "sym_name_latin": "Karafarin Inv.-R",
+            "sym_name": "وآردلح",
+            "name": "ح . ‌كارآفرين‌(هلدينگ‌"
+        },
+        {
+            "sym_id": "IRO1TSHE0001",
+            "sym": "TSHE1",
+            "sym_name_latin": "Pars Tousheh",
+            "sym_name": "وتوشه",
+            "name": "سرمايه‌ گذاري‌ پارس‌ توشه‌"
+        },
+        {
+            "sym_id": "IRR1TSHE0101",
+            "sym": "TSHX1",
+            "sym_name_latin": "Pars Tousheh-R",
+            "sym_name": "وتوشهح",
+            "name": "ح . سرمايه‌ گذاري‌ پارس‌ توشه‌"
+        }
+    ],
+    "شرکتهاي چند رشته اي صنعتي": [
+        {
+            "sym_id": "IRO1TDBR0001",
+            "sym": "TDBR1",
+            "sym_name_latin": "Tadbir Investment",
+            "sym_name": "تدبير",
+            "name": "گروه سرمايه گذاري تدبير"
+        },
+        {
+            "sym_id": "IRO1FSIN0001",
+            "sym": "FSIN1",
+            "sym_name_latin": "Investment Sina",
+            "sym_name": "سينا",
+            "name": "مالي و سرمايه گذاري سينا"
+        },
+        {
+            "sym_id": "IRO1TAMN0001",
+            "sym": "TAMN1",
+            "sym_name_latin": "Social Sec Inv",
+            "sym_name": "شستا",
+            "name": "سرمايه گذاري تامين اجتماعي"
+        },
+        {
+            "sym_id": "IRO1OIMC0001",
+            "sym": "OIMC1",
+            "sym_name_latin": "Omid Inv. Mng.",
+            "sym_name": "واميد",
+            "name": "گروه مديريت سرمايه گذاري اميد"
+        },
+        {
+            "sym_id": "IRR1OIMC0101",
+            "sym": "OIMX1",
+            "sym_name_latin": "Omid Inv. Mng.-R",
+            "sym_name": "واميدح",
+            "name": "ح.گروه مديريت سرمايه گذار اميد"
+        },
+        {
+            "sym_id": "IRO1BANK0001",
+            "sym": "BANK1",
+            "sym_name_latin": "Bank Melli Inv.",
+            "sym_name": "وبانك",
+            "name": "سرمايه گذاري گروه توسعه ملي"
+        },
+        {
+            "sym_id": "IRR1BANK0101",
+            "sym": "BANX1",
+            "sym_name_latin": "Bank Melli Inv.-R",
+            "sym_name": "وبانكح",
+            "name": "ح. سرمايه گذاري گروه توسعه ملي"
+        },
+        {
+            "sym_id": "IRO1SAND0001",
+            "sym": "SAND1",
+            "sym_name_latin": "Pension Fund",
+            "sym_name": "وصندوق",
+            "name": "سرمايه‌گذاري‌صندوق‌بازنشستگي‌"
+        },
+        {
+            "sym_id": "IRR1SAND0101",
+            "sym": "SANX1",
+            "sym_name_latin": "Pension Fund-R",
+            "sym_name": "وصندوقح",
+            "name": "ح.سرمايه گذاري صندوق بازنشستگي"
+        },
+        {
+            "sym_id": "IRO1GDIR0001",
+            "sym": "GDIR1",
+            "sym_name_latin": "Ghadir Inv.",
+            "sym_name": "وغدير",
+            "name": "سرمايه‌گذاري‌غدير(هلدينگ‌"
+        },
+        {
+            "sym_id": "IRR1GDIR0101",
+            "sym": "GDIX1",
+            "sym_name_latin": "Ghadir Inv.-R",
+            "sym_name": "وغديرح",
+            "name": "ح . سرمايه‌گذاري‌غدير(هلدينگ‌"
+        },
+        {
+            "sym_id": "IRR1TMGD0101",
+            "sym": "TMGX1",
+            "sym_name_latin": "INT Ghadir mine-R",
+            "sym_name": "وكغديرح",
+            "name": "ح .بين المللي ت .ص. معادن غدير"
+        },
+        {
+            "sym_id": "IRO1NIKI0001",
+            "sym": "NIKI1",
+            "sym_name_latin": "Iran N. Inv.",
+            "sym_name": "ونيكي",
+            "name": "سرمايه‌گذاري‌ ملي‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1NIKI0101",
+            "sym": "NIKX1",
+            "sym_name_latin": "Iran N. Inv.-R",
+            "sym_name": "ونيكيح",
+            "name": "ح . سرمايه‌گذاري‌ ملي‌ايران‌"
+        }
+    ],
+    "انبوه سازي، املاك و مستغلات": [
+        {
+            "sym_id": "IRO1BSTE0001",
+            "sym": "BSTE1",
+            "sym_name_latin": "Int. Const.",
+            "sym_name": "ثاخت",
+            "name": "بين‌المللي‌توسعه‌ساختمان"
+        },
+        {
+            "sym_id": "IRR1BSTE0101",
+            "sym": "BSTX1",
+            "sym_name_latin": "Int. Const.-R",
+            "sym_name": "ثاختح",
+            "name": "ح . بين‌المللي‌توسعه‌ساختمان"
+        },
+        {
+            "sym_id": "IRO1SAJN0001",
+            "sym": "SAJN1",
+            "sym_name_latin": "Sakht Ajand",
+            "sym_name": "ثاژن",
+            "name": "سخت‌ آژند"
+        },
+        {
+            "sym_id": "IRR1SAJN0101",
+            "sym": "SAJX1",
+            "sym_name_latin": "Sakht Ajand-R",
+            "sym_name": "ثاژنح",
+            "name": "ح . سخت‌ آژند"
+        },
+        {
+            "sym_id": "IRO1SESF0001",
+            "sym": "SESF1",
+            "sym_name_latin": "Isfahan Const.",
+            "sym_name": "ثاصفا",
+            "name": "ساختمان‌ اصفهان‌"
+        },
+        {
+            "sym_id": "IRR1SESF0101",
+            "sym": "SESX1",
+            "sym_name_latin": "Isfahan Const.-R",
+            "sym_name": "ثاصفاح",
+            "name": "ح . ‌ ساختمان‌ اصفهان‌"
+        },
+        {
+            "sym_id": "IRO1SGOS0001",
+            "sym": "SGOS1",
+            "sym_name_latin": "Saman Gostar",
+            "sym_name": "ثامان",
+            "name": "سامان‌ گستراصفهان‌"
+        },
+        {
+            "sym_id": "IRR1SGOS0101",
+            "sym": "SGOX1",
+            "sym_name_latin": "Saman Gostar-R",
+            "sym_name": "ثامانح",
+            "name": "ح . سامان‌ گستراصفهان‌"
+        },
+        {
+            "sym_id": "IRO1TOOM0001",
+            "sym": "TOOM1",
+            "sym_name_latin": "Omid Con. & Dev.",
+            "sym_name": "ثاميد",
+            "name": "توسعه و عمران اميد"
+        },
+        {
+            "sym_id": "IRO1BEKA0001",
+            "sym": "BEKA1",
+            "sym_name_latin": "Behsaz K Tehran",
+            "sym_name": "ثبهساز",
+            "name": "بهساز كاشانه تهران"
+        },
+        {
+            "sym_id": "IRO1SAHD0001",
+            "sym": "SAHD1",
+            "sym_name_latin": "Shahed Inv.",
+            "sym_name": "ثشاهد",
+            "name": "سرمايه‌ گذاري‌ شاهد"
+        },
+        {
+            "sym_id": "IRR1SAHD0101",
+            "sym": "SAHX1",
+            "sym_name_latin": "Shahed Inv.-R",
+            "sym_name": "ثشاهدح",
+            "name": "ح . سرمايه‌ گذاري‌ شاهد"
+        },
+        {
+            "sym_id": "IRO1PMSZ0001",
+            "sym": "PMSZ1",
+            "sym_name_latin": "Maskan Invest.",
+            "sym_name": "ثشرق",
+            "name": "سرمايه گذاري مسكن شمال شرق"
+        },
+        {
+            "sym_id": "IRR1PMSZ0101",
+            "sym": "PMSX1",
+            "sym_name_latin": "Maskan Invest.-R",
+            "sym_name": "ثشرقح",
+            "name": "ح. سرمايه گذاري مسكن شمال شرق"
+        },
+        {
+            "sym_id": "IRO1OFRS0001",
+            "sym": "OFRS1",
+            "sym_name_latin": "Fars Dev.",
+            "sym_name": "ثفارس",
+            "name": "عمران‌وتوسعه‌فارس‌"
+        },
+        {
+            "sym_id": "IRR1OFRS0101",
+            "sym": "OFRX1",
+            "sym_name_latin": "Fars Dev.-R",
+            "sym_name": "ثفارسح",
+            "name": "ح . عمران‌وتوسعه‌فارس‌"
+        },
+        {
+            "sym_id": "IRO1MSKN0001",
+            "sym": "MSKN1",
+            "sym_name_latin": "Housing Inv.",
+            "sym_name": "ثمسكن",
+            "name": "سرمايه‌گذاري‌ مسكن‌"
+        },
+        {
+            "sym_id": "IRR1MSKN0101",
+            "sym": "MSKX1",
+            "sym_name_latin": "Housing Inv.-R",
+            "sym_name": "ثمسكنح",
+            "name": "ح . سرمايه‌گذاري‌ مسكن‌"
+        },
+        {
+            "sym_id": "IRO1BMLI0001",
+            "sym": "BMLI1",
+            "sym_name_latin": "Melli Industry",
+            "sym_name": "ثملي",
+            "name": "بين المللي ساختمان و صنعت ملي"
+        },
+        {
+            "sym_id": "IRO1NSTH0001",
+            "sym": "NSTH1",
+            "sym_name_latin": "S*Tehran Const.",
+            "sym_name": "ثنوسا",
+            "name": "نوسازي‌وساختمان‌تهران‌"
+        },
+        {
+            "sym_id": "IRR1NSTH0101",
+            "sym": "NSTX1",
+            "sym_name_latin": "Tehran Const.-R",
+            "sym_name": "ثنوساح",
+            "name": "ح . نوسازي‌وساختمان‌تهران‌"
+        },
+        {
+            "sym_id": "IRO1TAZB0001",
+            "sym": "TAZB1",
+            "sym_name_latin": "Azarbayjan Inv.",
+            "sym_name": "وآذر",
+            "name": "سرمايه‌گذاري‌توسعه‌آذربايجان‌"
+        },
+        {
+            "sym_id": "IRR1TAZB0101",
+            "sym": "TAZX1",
+            "sym_name_latin": "Azarbayjan Inv.-R",
+            "sym_name": "وآذرح",
+            "name": "ح . ‌توسعه‌آذربايجان‌"
+        },
+        {
+            "sym_id": "IRO1TGOS0001",
+            "sym": "TGOS1",
+            "sym_name_latin": "Toosgostar Inv.",
+            "sym_name": "وتوس",
+            "name": "توسعه‌شهري‌توس‌گستر"
+        },
+        {
+            "sym_id": "IRR1TGOS0101",
+            "sym": "TGOX1",
+            "sym_name_latin": "Toosgostar Inv.-R",
+            "sym_name": "وتوسح",
+            "name": "ح . توسعه‌شهري‌توس‌گستر"
+        },
+        {
+            "sym_id": "IRO1SAKH0001",
+            "sym": "SAKH1",
+            "sym_name_latin": "Iran Const. Inv",
+            "sym_name": "وساخت",
+            "name": "سرمايه‌ گذاري‌ ساختمان‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1SAKH0101",
+            "sym": "SAKX1",
+            "sym_name_latin": "Iran Const. Inv-R",
+            "sym_name": "وساختح",
+            "name": "ح . سرمايه‌ گذاري‌ ساختمان‌"
+        }
+    ],
+    "انتشار، چاپ و تکثير": [
+        {
+            "sym_id": "IRO1OFST0001",
+            "sym": "OFST1",
+            "sym_name_latin": "Offset",
+            "sym_name": "چافست",
+            "name": "افست‌"
+        },
+        {
+            "sym_id": "IRR1OFST0101",
+            "sym": "OFSX1",
+            "sym_name_latin": "Offset-R",
+            "sym_name": "چافستح",
+            "name": "ح . افست‌"
+        }
+    ],
+    "محصولات كاغذي": [
+        {
+            "sym_id": "IRO1BPRS0001",
+            "sym": "BPRS1",
+            "sym_name_latin": "Pars Packing",
+            "sym_name": "چبسپا",
+            "name": "بسته‌ بندي‌ پارس‌"
+        },
+        {
+            "sym_id": "IRR1BPRS0101",
+            "sym": "BPRX1",
+            "sym_name_latin": "Pars Packing-R",
+            "sym_name": "چبسپاح",
+            "name": "ح . بسته‌ بندي‌ پارس‌"
+        },
+        {
+            "sym_id": "IRO1KAPA0011",
+            "sym": "KAPA1",
+            "sym_name_latin": "Pars Paper Ind.Grp",
+            "sym_name": "چكاپا",
+            "name": "گروه صنايع كاغذ پارس"
+        },
+        {
+            "sym_id": "IRO1KMSH0001",
+            "sym": "KMSH1",
+            "sym_name_latin": "Mashad Carton",
+            "sym_name": "چكارم",
+            "name": "كارتن‌ مشهد"
+        },
+        {
+            "sym_id": "IRR1KMSH0101",
+            "sym": "KMSX1",
+            "sym_name_latin": "Mashad Carton-R",
+            "sym_name": "چكارمح",
+            "name": "ح . كارتن‌ مشهد"
+        },
+        {
+            "sym_id": "IRO1KRTI0001",
+            "sym": "KRTI1",
+            "sym_name_latin": "Iran Carton",
+            "sym_name": "چكارن",
+            "name": "كارتن‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1KRTI0101",
+            "sym": "KRTX1",
+            "sym_name_latin": "Iran Carton-R",
+            "sym_name": "چكارنح",
+            "name": "ح . كارتن‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1KSKA0001",
+            "sym": "KSKA1",
+            "sym_name_latin": "Kaveh Paper",
+            "sym_name": "چكاوه",
+            "name": "صنايع‌كاغذسازي‌كاوه‌"
+        },
+        {
+            "sym_id": "IRR1KSKA0101",
+            "sym": "KSKX1",
+            "sym_name_latin": "Kaveh Paper-R",
+            "sym_name": "چكاوهح",
+            "name": "ح . صنايع‌كاغذسازي‌كاوه‌"
+        }
+    ],
+    "ساخت محصولات فلزي": [
+        {
+            "sym_id": "IRO1CHDN0001",
+            "sym": "CHDN1",
+            "sym_name_latin": "producing CHDN",
+            "sym_name": "چدن",
+            "name": "توليدي چدن سازان"
+        },
+        {
+            "sym_id": "IRO1AZAB0001",
+            "sym": "AZAB1",
+            "sym_name_latin": "S*Azarab Ind.",
+            "sym_name": "فاذر",
+            "name": "صنايع‌ آذرآب‌"
+        },
+        {
+            "sym_id": "IRR1AZAB0101",
+            "sym": "AZAX1",
+            "sym_name_latin": "Azarab Ind.-R",
+            "sym_name": "فاذرح",
+            "name": "ح . صنايع‌ آذرآب‌"
+        },
+        {
+            "sym_id": "IRO1MARK0001",
+            "sym": "MARK1",
+            "sym_name_latin": "S*Arak M. Mfg.",
+            "sym_name": "فاراك",
+            "name": "ماشين‌ سازي‌ اراك‌"
+        },
+        {
+            "sym_id": "IRR1MARK0101",
+            "sym": "MARX1",
+            "sym_name_latin": "Arak M. Mfg.-R",
+            "sym_name": "فاراكح",
+            "name": "ح . ماشين‌ سازي‌ اراك‌"
+        },
+        {
+            "sym_id": "IRO1SAMA0001",
+            "sym": "SAMA1",
+            "sym_name_latin": "Ama",
+            "sym_name": "فاما",
+            "name": "صنعتي‌ آما"
+        },
+        {
+            "sym_id": "IRR1SAMA0101",
+            "sym": "SAMX1",
+            "sym_name_latin": "Ama-R",
+            "sym_name": "فاماح",
+            "name": "ح . صنعتي‌ آما"
+        },
+        {
+            "sym_id": "IRO1BMAS0001",
+            "sym": "BMAS1",
+            "sym_name_latin": "Mashad Packing",
+            "sym_name": "فبستم",
+            "name": "صنايع‌بسته‌بندي‌ مشهد"
+        },
+        {
+            "sym_id": "IRR1BMAS0101",
+            "sym": "BMAX1",
+            "sym_name_latin": "Mashad Packing-R",
+            "sym_name": "فبستمح",
+            "name": "ح . صنايع‌بسته‌بندي‌ مشهد"
+        },
+        {
+            "sym_id": "IRO1BIRI0001",
+            "sym": "BIRI1",
+            "sym_name_latin": "Iran Packing",
+            "sym_name": "فبيرا",
+            "name": "بسته‌ بندي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1BIRI0101",
+            "sym": "BIRX1",
+            "sym_name_latin": "Iran Packing-R",
+            "sym_name": "فبيراح",
+            "name": "ح . بسته‌ بندي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1JAMD0001",
+            "sym": "JAMD1",
+            "sym_name_latin": "Jaam Darou",
+            "sym_name": "فجام",
+            "name": "جام‌دارو"
+        },
+        {
+            "sym_id": "IRR1JAMD0101",
+            "sym": "JAMX1",
+            "sym_name_latin": "Jaam Darou-R",
+            "sym_name": "فجامح",
+            "name": "ح . جام‌دارو"
+        },
+        {
+            "sym_id": "IRO1JSHO0001",
+            "sym": "JSHO1",
+            "sym_name_latin": "Iran Weld & Ox.",
+            "sym_name": "فجوش",
+            "name": "جوش‌ و اكسيژن‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1JSHO0101",
+            "sym": "JSHX1",
+            "sym_name_latin": "Iran Weld & Ox.-R",
+            "sym_name": "فجوشح",
+            "name": "ح . جوش‌ و اكسيژن‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1SOLI0001",
+            "sym": "SOLI1",
+            "sym_name_latin": "Soliran.",
+            "sym_name": "فسلير",
+            "name": "سوليران‌"
+        },
+        {
+            "sym_id": "IRR1SOLI0101",
+            "sym": "SOLX1",
+            "sym_name_latin": "Soliran.-R",
+            "sym_name": "فسليرح",
+            "name": "ح . سوليران‌"
+        },
+        {
+            "sym_id": "IRO1LAMI0001",
+            "sym": "LAMI1",
+            "sym_name_latin": "Lamiran",
+            "sym_name": "فلامي",
+            "name": "لاميران‌"
+        },
+        {
+            "sym_id": "IRR1LAMI0101",
+            "sym": "LAMX1",
+            "sym_name_latin": "Lamiran-R",
+            "sym_name": "فلاميح",
+            "name": "ح . لاميران‌"
+        },
+        {
+            "sym_id": "IRO1ENAZ0001",
+            "sym": "ENAZ1",
+            "sym_name_latin": "Azarab Energy",
+            "sym_name": "فنرژي",
+            "name": "گسترش‌صنايع‌انرژي‌آذرآب‌"
+        },
+        {
+            "sym_id": "IRR1ENAZ0101",
+            "sym": "ENAX1",
+            "sym_name_latin": "Azarab Energy-R",
+            "sym_name": "فنرژيح",
+            "name": "ح . گسترش‌صنايع‌انرژي‌آذرآب‌"
+        }
+    ],
+    "محصولات چوبي": [
+        {
+            "sym_id": "IRO1FIBR0001",
+            "sym": "FIBR1",
+            "sym_name_latin": "Iran Board",
+            "sym_name": "چفيبر",
+            "name": "فيبر ايران‌"
+        },
+        {
+            "sym_id": "IRR1FIBR0101",
+            "sym": "FIBX1",
+            "sym_name_latin": "Iran Board-R",
+            "sym_name": "چفيبرح",
+            "name": "ح . فيبر ايران‌"
+        },
+        {
+            "sym_id": "IRO1NEOP0001",
+            "sym": "NEOP1",
+            "sym_name_latin": "Bahman Neopan",
+            "sym_name": "چنوپا",
+            "name": "نيوپان‌ 22 بهمن‌"
+        },
+        {
+            "sym_id": "IRR1NEOP0101",
+            "sym": "NEOX1",
+            "sym_name_latin": "Bahman Neopan-R",
+            "sym_name": "چنوپاح",
+            "name": "ح . نيوپان‌ 22 بهمن‌"
+        }
+    ],
+    "واسطه‌گري‌هاي مالي و پولي": [
+        {
+            "sym_id": "IRS4HAMI0121",
+            "sym": "HAMI1",
+            "sym_name_latin": "Hami-14010231",
+            "sym_name": "حامي1401",
+            "name": "اختيارف ت حامي-1401/02/31"
+        },
+        {
+            "sym_id": "IRS4SAHM0281",
+            "sym": "SAHM1",
+            "sym_name_latin": "SAHM-14020803-NT",
+            "sym_name": "سهام يار",
+            "name": "اختيارف ت سهام يار-1402/08/03"
+        },
+        {
+            "sym_id": "IRO1MOIN0001",
+            "sym": "MOIN1",
+            "sym_name_latin": "Moein Mellat Co",
+            "sym_name": "ومعين",
+            "name": "سرمايه گذاري توسعه معين ملت"
+        }
+    ],
+    "حمل ونقل، انبارداري و ارتباطات": [
+        {
+            "sym_id": "IRO1HJPT0001",
+            "sym": "HJPT1",
+            "sym_name_latin": "Petr. Tran.",
+            "sym_name": "حپترو",
+            "name": "حمل و نقل پتروشيمي( سهامي عام"
+        },
+        {
+            "sym_id": "IRR1HJPT0101",
+            "sym": "HJPX1",
+            "sym_name_latin": "Petr. Tran.-R",
+            "sym_name": "حپتروح",
+            "name": "ح . حمل و نقل پتروشيمي"
+        },
+        {
+            "sym_id": "IRO1TAYD0001",
+            "sym": "TAYD1",
+            "sym_name_latin": "Tidewater",
+            "sym_name": "حتايد",
+            "name": "تايدواترخاورميانه"
+        },
+        {
+            "sym_id": "IRR1TAYD0101",
+            "sym": "TAYX1",
+            "sym_name_latin": "Tidewater-R",
+            "sym_name": "حتايدح",
+            "name": "ح . تايدواترخاورميانه‌"
+        },
+        {
+            "sym_id": "IRO1HTOK0001",
+            "sym": "HTOK1",
+            "sym_name_latin": "Tuka Trans.",
+            "sym_name": "حتوكا",
+            "name": "حمل‌ونقل‌توكا"
+        },
+        {
+            "sym_id": "IRR1HTOK0101",
+            "sym": "HTOX1",
+            "sym_name_latin": "Tuka Trans.-R",
+            "sym_name": "حتوكاح",
+            "name": "ح . حمل‌ونقل‌توكا"
+        },
+        {
+            "sym_id": "IRO1HFRS0001",
+            "sym": "HFRS1",
+            "sym_name_latin": "Khalij Fars Trans",
+            "sym_name": "حفارس",
+            "name": "حمل و نقل بين المللي خليج فارس"
+        },
+        {
+            "sym_id": "IRO1KSHJ0001",
+            "sym": "KSHJ1",
+            "sym_name_latin": "S*IRI Marine Co.",
+            "sym_name": "حكشتي",
+            "name": "كشتيراني جمهوري اسلامي ايران"
+        },
+        {
+            "sym_id": "IRR1KSHJ0101",
+            "sym": "KSHX1",
+            "sym_name_latin": "IRI Marine Co.-R",
+            "sym_name": "حكشتيح",
+            "name": "ح . كشتيراني ج. ا. ا"
+        }
+    ],
+    "حمل و نقل آبي": [
+        {
+            "sym_id": "IRO1KFJR0001",
+            "sym": "KFJR1",
+            "sym_name_latin": "IRI Marine Co.",
+            "sym_name": "حفجر",
+            "name": "كشتيراني والفجر"
+        }
+    ],
+    "پيمانكاري صنعتي": [
+        {
+            "sym_id": "IRO1SDRA0001",
+            "sym": "SDRA1",
+            "sym_name_latin": "SADRA",
+            "sym_name": "خصدرا",
+            "name": "حذف-صنعتي‌ دريايي‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1SDRA0101",
+            "sym": "SDRX1",
+            "sym_name_latin": "SADRA-R",
+            "sym_name": "خصدراح",
+            "name": "حذف-ح . صنعتي‌ دريايي‌ ايران‌"
+        }
+    ],
+    "خدمات فني و مهندسي": [
+        {
+            "sym_id": "IRO1TKIN0001",
+            "sym": "TKIN1",
+            "sym_name_latin": "Techinco",
+            "sym_name": "رتكو",
+            "name": "كنترل‌خوردگي‌تكين‌كو"
+        },
+        {
+            "sym_id": "IRR1TKIN0101",
+            "sym": "TKIX1",
+            "sym_name_latin": "Techinco-R",
+            "sym_name": "رتكوح",
+            "name": "ح . كنترل‌خوردگي‌تكين‌كو"
+        },
+        {
+            "sym_id": "IRO1MAPN0001",
+            "sym": "MAPN1",
+            "sym_name_latin": "MAPNA",
+            "sym_name": "رمپنا",
+            "name": "گروه مپنا (سهامي عام)"
+        },
+        {
+            "sym_id": "IRR1MAPN0101",
+            "sym": "MAPX1",
+            "sym_name_latin": "MAPNA-R",
+            "sym_name": "رمپناح",
+            "name": "ح. گروه مپنا (سهامي عام)"
+        }
+    ],
+    "محصولات غذايي و آشاميدني به جز قند و شكر": [
+        {
+            "sym_id": "IRO1ZRNM0001",
+            "sym": "ZRNM1",
+            "sym_name_latin": "Zarnam Company",
+            "sym_name": "زرنام",
+            "name": "گروه ص. پژوهشي فرهيختگان زرنام"
+        },
+        {
+            "sym_id": "IRO1PIAZ0001",
+            "sym": "PIAZ1",
+            "sym_name_latin": "Piazar Agro.",
+            "sym_name": "غاذر",
+            "name": "كشت‌وصنعت‌پياذر"
+        },
+        {
+            "sym_id": "IRR1PIAZ0101",
+            "sym": "PIAX1",
+            "sym_name_latin": "Piazar Agro.-R",
+            "sym_name": "غاذرح",
+            "name": "ح . كشت‌وصنعت‌پياذر"
+        },
+        {
+            "sym_id": "IRO1KLBR0001",
+            "sym": "KLBR1",
+            "sym_name_latin": "Kalber Dairy",
+            "sym_name": "غالبر",
+            "name": "لبنيات‌ كالبر"
+        },
+        {
+            "sym_id": "IRR1KLBR0101",
+            "sym": "KLBX1",
+            "sym_name_latin": "Kalber Dairy-R",
+            "sym_name": "غالبرح",
+            "name": "ح . لبنيات ‌كالبر"
+        },
+        {
+            "sym_id": "IRO1SBEH0001",
+            "sym": "SBEH1",
+            "sym_name_latin": "Behshahr Ind.",
+            "sym_name": "غبشهر",
+            "name": "صنعتي‌ بهشهر"
+        },
+        {
+            "sym_id": "IRR1SBEH0101",
+            "sym": "SBEX1",
+            "sym_name_latin": "Behshahr Ind.-R",
+            "sym_name": "غبشهرح",
+            "name": "ح . صنعتي‌ بهشهر"
+        },
+        {
+            "sym_id": "IRO1BEPP0001",
+            "sym": "BEPP1",
+            "sym_name_latin": "Behpaak",
+            "sym_name": "غبهپاك",
+            "name": "بهپاك‌"
+        },
+        {
+            "sym_id": "IRR1BEPP0101",
+            "sym": "BEPX1",
+            "sym_name_latin": "Behpaak-R",
+            "sym_name": "غبهپاكح",
+            "name": "ح . بهپاك‌"
+        },
+        {
+            "sym_id": "IRO1BENN0001",
+            "sym": "BENN1",
+            "sym_name_latin": "Behnoush Iran",
+            "sym_name": "غبهنوش",
+            "name": "بهنوش‌ ايران‌"
+        },
+        {
+            "sym_id": "IRR1BENN0101",
+            "sym": "BENX1",
+            "sym_name_latin": "Behnoush Iran-R",
+            "sym_name": "غبهنوشح",
+            "name": "ح . بهنوش‌ ايران‌"
+        },
+        {
+            "sym_id": "IRO1LPAK0001",
+            "sym": "LPAK1",
+            "sym_name_latin": "Pak Dairy",
+            "sym_name": "غپاك",
+            "name": "لبنيات‌ پاك‌"
+        },
+        {
+            "sym_id": "IRR1LPAK0101",
+            "sym": "LPAX1",
+            "sym_name_latin": "Pak Dairy-R",
+            "sym_name": "غپاكح",
+            "name": "ح . لبنيات‌ پاك‌"
+        },
+        {
+            "sym_id": "IRO1MINO0001",
+            "sym": "MINO1",
+            "sym_name_latin": "Pars Minoo",
+            "sym_name": "غپينو",
+            "name": "پارس‌ مينو"
+        },
+        {
+            "sym_id": "IRR1MINO0101",
+            "sym": "MINX1",
+            "sym_name_latin": "Pars Minoo-R",
+            "sym_name": "غپينوح",
+            "name": "ح . پارس‌ مينو"
+        },
+        {
+            "sym_id": "IRO1CHCH0001",
+            "sym": "CHCH1",
+            "sym_name_latin": "Chin Chin",
+            "sym_name": "غچين",
+            "name": "كشت‌ و صنعت‌ چين‌ چين"
+        },
+        {
+            "sym_id": "IRR1CHCH0101",
+            "sym": "CHCX1",
+            "sym_name_latin": "Chin Chin-R",
+            "sym_name": "غچينح",
+            "name": "ح . كشت‌ و صنعت‌ چين‌ چين"
+        },
+        {
+            "sym_id": "IRO1KDPS0001",
+            "sym": "KDPS1",
+            "sym_name_latin": "P. Animal Feed",
+            "sym_name": "غدام",
+            "name": "خوراك‌  دام‌ پارس‌"
+        },
+        {
+            "sym_id": "IRR1KDPS0101",
+            "sym": "KDPX1",
+            "sym_name_latin": "P. Animal Feed-R",
+            "sym_name": "غدامح",
+            "name": "ح . خوراك‌ دام‌ پارس‌"
+        },
+        {
+            "sym_id": "IRO1DMOR0001",
+            "sym": "DMOR1",
+            "sym_name_latin": "Dasht Morghab",
+            "sym_name": "غدشت",
+            "name": "دشت‌ مرغاب‌"
+        },
+        {
+            "sym_id": "IRR1DMOR0101",
+            "sym": "DMOX1",
+            "sym_name_latin": "Dasht Morghab-R",
+            "sym_name": "غدشتح",
+            "name": "ح . دشت‌ مرغاب‌"
+        },
+        {
+            "sym_id": "IRO1ZARM0001",
+            "sym": "ZARM1",
+            "sym_name_latin": "Zar Makaron",
+            "sym_name": "غزر",
+            "name": "صنعتي زر ماكارون"
+        },
+        {
+            "sym_id": "IRO1SASN0001",
+            "sym": "SASN1",
+            "sym_name_latin": "Sasan",
+            "sym_name": "غساسا",
+            "name": "ساسان‌"
+        },
+        {
+            "sym_id": "IRR1SASN0101",
+            "sym": "SASX1",
+            "sym_name_latin": "Sasan-R",
+            "sym_name": "غساساح",
+            "name": "ح . ساسان‌"
+        },
+        {
+            "sym_id": "IRO1SLMN0001",
+            "sym": "SLMN1",
+            "sym_name_latin": "Salemin Factory",
+            "sym_name": "غسالم",
+            "name": "سالمين‌"
+        },
+        {
+            "sym_id": "IRR1SLMN0101",
+            "sym": "SLMX1",
+            "sym_name_latin": "Salemin Factory-R",
+            "sym_name": "غسالمح",
+            "name": "ح . ‌سالمين‌"
+        },
+        {
+            "sym_id": "IRO1SHPZ0001",
+            "sym": "SHPZ1",
+            "sym_name_latin": "W. Azar. Pegah",
+            "sym_name": "غشاذر",
+            "name": "پگاه‌آذربايجان‌غربي‌"
+        },
+        {
+            "sym_id": "IRR1SHPZ0101",
+            "sym": "SHPX1",
+            "sym_name_latin": "W. Azar. Pegah-R",
+            "sym_name": "غشاذرح",
+            "name": "ح . ‌پگاه‌آذربايجان‌غربي‌"
+        },
+        {
+            "sym_id": "IRO1SPKH0001",
+            "sym": "SPKH1",
+            "sym_name_latin": "Kh. Pegah Dairy",
+            "sym_name": "غشان",
+            "name": "شيرپاستوريزه‌پگاه‌خراسان‌"
+        },
+        {
+            "sym_id": "IRR1SPKH0101",
+            "sym": "SPKX1",
+            "sym_name_latin": "Kh. Pegah Dairy-R",
+            "sym_name": "غشانح",
+            "name": "ح . شيرپاستوريزه‌پگاه‌خراسان‌"
+        },
+        {
+            "sym_id": "IRO1SPPE0001",
+            "sym": "SPPE1",
+            "sym_name_latin": "I. Pegah Dairy",
+            "sym_name": "غشصفا",
+            "name": "شيرپاستوريزه‌پگاه‌اصفهان‌"
+        },
+        {
+            "sym_id": "IRR1SPPE0101",
+            "sym": "SPPX1",
+            "sym_name_latin": "I. Pegah Dairy-R",
+            "sym_name": "غشصفاح",
+            "name": "ح . شيرپاستوريزه‌پگاه‌اصفهان‌"
+        },
+        {
+            "sym_id": "IRO1SHAD0001",
+            "sym": "SHAD1",
+            "sym_name_latin": "Shahdiran Inc.",
+            "sym_name": "غشهد",
+            "name": "شهد ايران ‌"
+        },
+        {
+            "sym_id": "IRR1SHAD0101",
+            "sym": "SHAX1",
+            "sym_name_latin": "Shahdiran Inc.-R",
+            "sym_name": "غشهدح",
+            "name": "ح . شهد ايران‌"
+        },
+        {
+            "sym_id": "IRO1KRSH0001",
+            "sym": "KRSH1",
+            "sym_name_latin": "Kourosh Food Ind.",
+            "sym_name": "غكورش",
+            "name": "صنعت غذايي كورش"
+        },
+        {
+            "sym_id": "IRO1GORJ0001",
+            "sym": "GORJ1",
+            "sym_name_latin": "Gorji Biscuit",
+            "sym_name": "غگرجي",
+            "name": "بيسكويت‌  گرجي‌"
+        },
+        {
+            "sym_id": "IRR1GORJ0101",
+            "sym": "GORX1",
+            "sym_name_latin": "Gorji Biscuit-R",
+            "sym_name": "غگرجيح",
+            "name": "ح . بيسكويت‌ گرجي‌"
+        },
+        {
+            "sym_id": "IRO1GCOZ0001",
+            "sym": "GCOZ1",
+            "sym_name_latin": "Glucosan",
+            "sym_name": "غگل",
+            "name": "گلوكوزان‌"
+        },
+        {
+            "sym_id": "IRR1GCOZ0101",
+            "sym": "GCOX1",
+            "sym_name_latin": "Glucosan-R",
+            "sym_name": "غگلح",
+            "name": "ح . گلوكوزان‌"
+        },
+        {
+            "sym_id": "IRO1MRGN0001",
+            "sym": "MRGN1",
+            "sym_name_latin": "Margarin",
+            "sym_name": "غمارگ",
+            "name": "مارگارين‌"
+        },
+        {
+            "sym_id": "IRR1MRGN0101",
+            "sym": "MRGX1",
+            "sym_name_latin": "Margarin-R",
+            "sym_name": "غمارگح",
+            "name": "ح . مارگارين‌"
+        },
+        {
+            "sym_id": "IRO1MRAM0001",
+            "sym": "MRAM1",
+            "sym_name_latin": "Mahram Mfg.",
+            "sym_name": "غمهرا",
+            "name": "توليدي‌مهرام‌"
+        },
+        {
+            "sym_id": "IRR1MRAM0101",
+            "sym": "MRAX1",
+            "sym_name_latin": "Mahram Mfg.-R",
+            "sym_name": "غمهراح",
+            "name": "ح . توليدي‌مهرام‌"
+        },
+        {
+            "sym_id": "IRO1RNAB0001",
+            "sym": "RNAB1",
+            "sym_name_latin": "Naab Ind.",
+            "sym_name": "غناب",
+            "name": "روغن‌ نباتي‌ ناب‌"
+        },
+        {
+            "sym_id": "IRR1RNAB0101",
+            "sym": "RNAX1",
+            "sym_name_latin": "Naab Ind.-R",
+            "sym_name": "غنابح",
+            "name": "ح . روغن‌ نباتي‌ ناب‌"
+        },
+        {
+            "sym_id": "IRO1NOSH0001",
+            "sym": "NOSH1",
+            "sym_name_latin": "Noush Maz.",
+            "sym_name": "غنوش",
+            "name": "نوش‌ مازندران‌"
+        },
+        {
+            "sym_id": "IRR1NOSH0101",
+            "sym": "NOSX1",
+            "sym_name_latin": "Noush Maz.-R",
+            "sym_name": "غنوشح",
+            "name": "ح . نوش‌مازندران‌"
+        },
+        {
+            "sym_id": "IRO1KIVN0001",
+            "sym": "KIVN1",
+            "sym_name_latin": "Keivan",
+            "sym_name": "غيوان",
+            "name": "كيوان‌"
+        },
+        {
+            "sym_id": "IRR1KIVN0101",
+            "sym": "KIVX1",
+            "sym_name_latin": "Keivan-R",
+            "sym_name": "غيوانح",
+            "name": "ح . كيوان‌"
+        },
+        {
+            "sym_id": "IRO1TSBE0001",
+            "sym": "TSBE1",
+            "sym_name_latin": "S*Behshahr Inv.",
+            "sym_name": "وبشهر",
+            "name": "توسعه‌ صنايع‌ بهشهر(هلدينگ"
+        },
+        {
+            "sym_id": "IRR1TSBE0101",
+            "sym": "TSBX1",
+            "sym_name_latin": "Behshahr Inv.-R",
+            "sym_name": "وبشهرح",
+            "name": "ح . صنايع‌ بهشهر(هلدينگ"
+        }
+    ],
+    "ساير محصولات كاني غيرفلزي": [
+        {
+            "sym_id": "IRO1AZRT0001",
+            "sym": "AZRT1",
+            "sym_name_latin": "Azarit",
+            "sym_name": "ساذري",
+            "name": "آذريت‌"
+        },
+        {
+            "sym_id": "IRR1AZRT0101",
+            "sym": "AZRX1",
+            "sym_name_latin": "Azarit-R",
+            "sym_name": "ساذريح",
+            "name": "ح . آذريت‌"
+        },
+        {
+            "sym_id": "IRO1IRNT0001",
+            "sym": "IRNT1",
+            "sym_name_latin": "Iranit",
+            "sym_name": "سايرا",
+            "name": "ايرانيت‌"
+        },
+        {
+            "sym_id": "IRR1IRNT0101",
+            "sym": "IRNX1",
+            "sym_name_latin": "Iranit-R",
+            "sym_name": "سايراح",
+            "name": "ح . ايرانيت‌"
+        },
+        {
+            "sym_id": "IRO1PRMT0001",
+            "sym": "PRMT1",
+            "sym_name_latin": "Permit",
+            "sym_name": "سپرمي",
+            "name": "پرميت"
+        },
+        {
+            "sym_id": "IRO1FRDO0001",
+            "sym": "FRDO1",
+            "sym_name_latin": "Doroud Farsit",
+            "sym_name": "سفارود",
+            "name": "كارخانه‌فارسيت‌درود"
+        },
+        {
+            "sym_id": "IRR1FRDO0101",
+            "sym": "FRDX1",
+            "sym_name_latin": "Doroud Farsit-R",
+            "sym_name": "سفارودح",
+            "name": "ح . كارخانه‌فارسيت‌درود"
+        },
+        {
+            "sym_id": "IRO1SFAS0001",
+            "sym": "SFAS1",
+            "sym_name_latin": "Ahwaz Farsit",
+            "sym_name": "سفاسيت",
+            "name": "فارسيت‌ اهواز"
+        },
+        {
+            "sym_id": "IRR1SFAS0101",
+            "sym": "SFAX1",
+            "sym_name_latin": "Ahwaz Farsit-R",
+            "sym_name": "سفاسيتح",
+            "name": "ح . فارسيت‌ اهواز"
+        },
+        {
+            "sym_id": "IRO1ABGN0001",
+            "sym": "ABGN1",
+            "sym_name_latin": "Abgineh",
+            "sym_name": "كابگن",
+            "name": "آبگينه‌"
+        },
+        {
+            "sym_id": "IRR1ABGN0101",
+            "sym": "ABGX1",
+            "sym_name_latin": "Abgineh-R",
+            "sym_name": "كابگنح",
+            "name": "ح . آبگينه‌"
+        },
+        {
+            "sym_id": "IRO1NSAZ0001",
+            "sym": "NSAZ1",
+            "sym_name_latin": "Azar Refract.",
+            "sym_name": "كاذر",
+            "name": "فرآورده‌هاي‌نسوزآذر"
+        },
+        {
+            "sym_id": "IRR1NSAZ0101",
+            "sym": "NSAX1",
+            "sym_name_latin": "Azar Refract.-R",
+            "sym_name": "كاذرح",
+            "name": "ح . فرآورده‌هاي‌نسوزآذر"
+        },
+        {
+            "sym_id": "IRO1ITAL0001",
+            "sym": "ITAL1",
+            "sym_name_latin": "Italran",
+            "sym_name": "كايتا",
+            "name": "ايتالران‌"
+        },
+        {
+            "sym_id": "IRR1ITAL0101",
+            "sym": "ITAX1",
+            "sym_name_latin": "Italran-R",
+            "sym_name": "كايتاح",
+            "name": "ح . ايتالران‌"
+        },
+        {
+            "sym_id": "IRO1PSIR0001",
+            "sym": "PSIR1",
+            "sym_name_latin": "Iran Glass Wool",
+            "sym_name": "كپشير",
+            "name": "پشم‌شيشه‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1KCHI0001",
+            "sym": "KCHI1",
+            "sym_name_latin": "Iran China Clay",
+            "sym_name": "كخاك",
+            "name": "صنايع‌خاك‌چيني‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1KCHI0101",
+            "sym": "KCHX1",
+            "sym_name_latin": "Iran China Clay-R",
+            "sym_name": "كخاكح",
+            "name": "ح . صنايع‌خاك‌چيني‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1TSRZ0001",
+            "sym": "TSRZ1",
+            "sym_name_latin": "Razi P. Glasses",
+            "sym_name": "كرازي",
+            "name": "كارخانجات‌توليدي‌شيشه‌رازي‌"
+        },
+        {
+            "sym_id": "IRR1TSRZ0101",
+            "sym": "TSRX1",
+            "sym_name_latin": "Razi P. Glasses-R",
+            "sym_name": "كرازيح",
+            "name": "ح . ‌توليدي‌شيشه‌رازي‌"
+        },
+        {
+            "sym_id": "IRO1SISH0001",
+            "sym": "SISH1",
+            "sym_name_latin": "Saipa Glass",
+            "sym_name": "كساپا",
+            "name": "سايپاشيشه‌"
+        },
+        {
+            "sym_id": "IRR1SISH0101",
+            "sym": "SISX1",
+            "sym_name_latin": "Saipa Glass-R",
+            "sym_name": "كساپاح",
+            "name": "ح . سايپاشيشه‌"
+        },
+        {
+            "sym_id": "IRO1ARDK0001",
+            "sym": "ARDK1",
+            "sym_name_latin": "Ardekan Ceramic",
+            "sym_name": "كسرا",
+            "name": "سراميك‌هاي‌صنعتي‌اردكان‌"
+        },
+        {
+            "sym_id": "IRR1ARDK0101",
+            "sym": "ARDX1",
+            "sym_name_latin": "Ardekan Ceramic-R",
+            "sym_name": "كسراح",
+            "name": "ح . سراميك‌هاي‌صنعتي‌اردكان‌"
+        },
+        {
+            "sym_id": "IRO1PSER0001",
+            "sym": "PSER1",
+            "sym_name_latin": "Pars Ceram",
+            "sym_name": "كسرام",
+            "name": "پارس‌ سرام‌"
+        },
+        {
+            "sym_id": "IRR1PSER0101",
+            "sym": "PSEX1",
+            "sym_name_latin": "Pars Ceram-R",
+            "sym_name": "كسرامح",
+            "name": "ح . پارس‌ سرام‌"
+        },
+        {
+            "sym_id": "IRO1NSPS0001",
+            "sym": "NSPS1",
+            "sym_name_latin": "Pars Refract.",
+            "sym_name": "كفپارس",
+            "name": "فرآورده‌هاي‌ نسوز پارس‌"
+        },
+        {
+            "sym_id": "IRR1NSPS0101",
+            "sym": "NSPX1",
+            "sym_name_latin": "Pars Refract.-R",
+            "sym_name": "كفپارسح",
+            "name": "ح . فرآورده‌هاي‌ نسوز پارس‌"
+        },
+        {
+            "sym_id": "IRO1NASI0001",
+            "sym": "NASI1",
+            "sym_name_latin": "Iran Refract.",
+            "sym_name": "كفرا",
+            "name": "فراورده‌ هاي‌ نسوزايران‌"
+        },
+        {
+            "sym_id": "IRR1NASI0101",
+            "sym": "NASX1",
+            "sym_name_latin": "Iran Refract.-R",
+            "sym_name": "كفراح",
+            "name": "ح . فراورده‌ هاي‌ نسوزايران‌"
+        },
+        {
+            "sym_id": "IRO1SHQZ0001",
+            "sym": "SHQZ1",
+            "sym_name_latin": "Ghazvin Glass",
+            "sym_name": "كقزوي",
+            "name": "شيشه‌ قزوين‌"
+        },
+        {
+            "sym_id": "IRR1SHQZ0101",
+            "sym": "SHQX1",
+            "sym_name_latin": "Ghazvin Glass-R",
+            "sym_name": "كقزويح",
+            "name": "ح . شيشه‌ قزوين‌"
+        },
+        {
+            "sym_id": "IRO1SGAZ0001",
+            "sym": "SGAZ1",
+            "sym_name_latin": "Glass and Gas",
+            "sym_name": "كگاز",
+            "name": "شيشه‌ و گاز"
+        },
+        {
+            "sym_id": "IRR1SGAZ0101",
+            "sym": "SGAX1",
+            "sym_name_latin": "Glass and Gas-R",
+            "sym_name": "كگازح",
+            "name": "ح . شيشه‌ و گاز"
+        },
+        {
+            "sym_id": "IRO1SHMD0001",
+            "sym": "SHMD1",
+            "sym_name_latin": "Hamadan Glass",
+            "sym_name": "كهمدا",
+            "name": "شيشه‌ همدان‌"
+        },
+        {
+            "sym_id": "IRR1SHMD0101",
+            "sym": "SHMX1",
+            "sym_name_latin": "Hamadan Glass-R",
+            "sym_name": "كهمداح",
+            "name": "ح . شيشه‌ همدان‌"
+        },
+        {
+            "sym_id": "IRO1VARZ0001",
+            "sym": "VARZ1",
+            "sym_name_latin": "Varziran",
+            "sym_name": "كورز",
+            "name": "ورزيران‌"
+        },
+        {
+            "sym_id": "IRR1VARZ0101",
+            "sym": "VARX1",
+            "sym_name_latin": "Varziran-R",
+            "sym_name": "كورزح",
+            "name": "ح . ورزيران‌"
+        }
+    ],
+    "فراورده هاي نفتي، كك و سوخت هسته اي": [
+        {
+            "sym_id": "IRO1PNTB0001",
+            "sym": "PNTB1",
+            "sym_name_latin": "Tabriz.Oil.Refine",
+            "sym_name": "شبريز",
+            "name": "پالايش نفت تبريز"
+        },
+        {
+            "sym_id": "IRO1PNBA0001",
+            "sym": "PNBA1",
+            "sym_name_latin": "B.A Oil Refinie",
+            "sym_name": "شبندر",
+            "name": "پالايش نفت بندرعباس"
+        },
+        {
+            "sym_id": "IRO1NBEH0001",
+            "sym": "NBEH1",
+            "sym_name_latin": "Behran Oil",
+            "sym_name": "شبهرن",
+            "name": "نفت‌ بهران‌"
+        },
+        {
+            "sym_id": "IRR1NBEH0101",
+            "sym": "NBEX1",
+            "sym_name_latin": "Behran Oil-R",
+            "sym_name": "شبهرنح",
+            "name": "ح . نفت‌ بهران‌"
+        },
+        {
+            "sym_id": "IRO1PNES0001",
+            "sym": "PNES1",
+            "sym_name_latin": "S*Isf. Oil Ref.Co.",
+            "sym_name": "شپنا",
+            "name": "پالايش نفت اصفهان"
+        },
+        {
+            "sym_id": "IRR1PNES0101",
+            "sym": "PNEX1",
+            "sym_name_latin": "Isf. Oil. Ref.-R",
+            "sym_name": "شپناح",
+            "name": "ح . پالايش نفت اصفهان"
+        },
+        {
+            "sym_id": "IRO1PTEH0001",
+            "sym": "PTEH1",
+            "sym_name_latin": "Palayesh Tehran",
+            "sym_name": "شتران",
+            "name": "پالايش نفت تهران"
+        },
+        {
+            "sym_id": "IRO1NJEY0001",
+            "sym": "NJEY1",
+            "sym_name_latin": "Naft Jey Co.",
+            "sym_name": "شجي",
+            "name": "شركت نفت جي"
+        },
+        {
+            "sym_id": "IRO1ZNGN0001",
+            "sym": "ZNGN1",
+            "sym_name_latin": "Zangan Equip.",
+            "sym_name": "شزنگ",
+            "name": "تجهيزنيروي‌زنگان‌"
+        },
+        {
+            "sym_id": "IRR1ZNGN0101",
+            "sym": "ZNGX1",
+            "sym_name_latin": "Zangan Equip.-R",
+            "sym_name": "شزنگح",
+            "name": "ح . تجهيزنيروي‌زنگان‌"
+        },
+        {
+            "sym_id": "IRO1SEPP0001",
+            "sym": "SEPP1",
+            "sym_name_latin": "Spahan Naft",
+            "sym_name": "شسپا",
+            "name": "نفت سپاهان"
+        },
+        {
+            "sym_id": "IRO1NPRS0001",
+            "sym": "NPRS1",
+            "sym_name_latin": "Pars Oil",
+            "sym_name": "شنفت",
+            "name": "نفت‌ پارس‌"
+        },
+        {
+            "sym_id": "IRR1NPRS0101",
+            "sym": "NPRX1",
+            "sym_name_latin": "Pars Oil-R",
+            "sym_name": "شنفتح",
+            "name": "ح . نفت‌ پارس‌"
+        },
+        {
+            "sym_id": "IRO1NAFT0001",
+            "sym": "NAFT1",
+            "sym_name_latin": "Oil Ind. Inv.",
+            "sym_name": "ونفت",
+            "name": "سرمايه‌گذاري‌ صنعت‌ نفت‌"
+        },
+        {
+            "sym_id": "IRR1NAFT0101",
+            "sym": "NAFX1",
+            "sym_name_latin": "Oil Ind. Inv.-R",
+            "sym_name": "ونفتح",
+            "name": "ح . سرمايه‌گذاري‌ صنعت‌ نفت‌"
+        }
+    ],
+    "قند و شكر": [
+        {
+            "sym_id": "IRO1GPRS0001",
+            "sym": "GPRS1",
+            "sym_name_latin": "Pars Sugar",
+            "sym_name": "قپارس",
+            "name": "قندپارس‌"
+        },
+        {
+            "sym_id": "IRR1GPRS0101",
+            "sym": "GPRX1",
+            "sym_name_latin": "Pars Sugar-R",
+            "sym_name": "قپارسح",
+            "name": "ح . قندپارس‌"
+        },
+        {
+            "sym_id": "IRO1GPSH0001",
+            "sym": "GPSH1",
+            "sym_name_latin": "Piranshahr S.",
+            "sym_name": "قپيرا",
+            "name": "فرآورده‌هاي‌غدايي‌وقندپيرانشهر"
+        },
+        {
+            "sym_id": "IRR1GPSH0101",
+            "sym": "GPSX1",
+            "sym_name_latin": "Piranshahr S.-R",
+            "sym_name": "قپيراح",
+            "name": "ح . قندپيرانشهر"
+        },
+        {
+            "sym_id": "IRO1GSBE0001",
+            "sym": "GSBE1",
+            "sym_name_latin": "S*Sabet Khorasan",
+            "sym_name": "قثابت",
+            "name": "قند ثابت‌ خراسان‌"
+        },
+        {
+            "sym_id": "IRR1GSBE0101",
+            "sym": "GSBX1",
+            "sym_name_latin": "Sabet Khorasan-R",
+            "sym_name": "قثابتح",
+            "name": "ح . قند ثابت‌ خراسان‌"
+        },
+        {
+            "sym_id": "IRO1GTOR0001",
+            "sym": "GTOR1",
+            "sym_name_latin": "Torbate Jaam S.",
+            "sym_name": "قجام",
+            "name": "فرآوردههاي غذايي وقندتربت‌جام‌"
+        },
+        {
+            "sym_id": "IRR1GTOR0101",
+            "sym": "GTOX1",
+            "sym_name_latin": "Torbate Jaam S.-R",
+            "sym_name": "قجامح",
+            "name": "ح .غذايي و قنتربت‌جام‌"
+        },
+        {
+            "sym_id": "IRO1GGAZ0001",
+            "sym": "GGAZ1",
+            "sym_name_latin": "Ghazvin Sugar",
+            "sym_name": "قزوين",
+            "name": "كارخانجات‌ قند قزوين‌"
+        },
+        {
+            "sym_id": "IRR1GGAZ0101",
+            "sym": "GGAX1",
+            "sym_name_latin": "Ghazvin Sugar-R",
+            "sym_name": "قزوينح",
+            "name": "ح . كارخانجات‌ قند قزوين‌"
+        },
+        {
+            "sym_id": "IRO1GGOH0001",
+            "sym": "GGOH1",
+            "sym_name_latin": "Ghohestan Sugar",
+            "sym_name": "قستان",
+            "name": "قند قهستان‌"
+        },
+        {
+            "sym_id": "IRR1GGOH0101",
+            "sym": "GGOX1",
+            "sym_name_latin": "Ghohestan Sugar-R",
+            "sym_name": "قستانح",
+            "name": "ح . قند قهستان‌"
+        },
+        {
+            "sym_id": "IRO1GBIS0001",
+            "sym": "GBIS1",
+            "sym_name_latin": "Bisotun Sugar",
+            "sym_name": "قستون",
+            "name": "قند بيستون‌"
+        },
+        {
+            "sym_id": "IRR1GBIS0101",
+            "sym": "GBIX1",
+            "sym_name_latin": "Bisotun Sugar-R",
+            "sym_name": "قستونح",
+            "name": "ح . قند بيستون‌"
+        },
+        {
+            "sym_id": "IRO1GSHI0001",
+            "sym": "GSHI1",
+            "sym_name_latin": "Shirin Khorasan",
+            "sym_name": "قشرين",
+            "name": "قند شيرين‌ خراسان‌"
+        },
+        {
+            "sym_id": "IRR1GSHI0101",
+            "sym": "GSHX1",
+            "sym_name_latin": "Shirin Khorasan-R",
+            "sym_name": "قشرينح",
+            "name": "ح . قند شيرين‌ خراسان‌"
+        },
+        {
+            "sym_id": "IRO1SHKR0001",
+            "sym": "SHKR1",
+            "sym_name_latin": "Shahroud Sugar",
+            "sym_name": "قشكر",
+            "name": "شكرشاهرود"
+        },
+        {
+            "sym_id": "IRR1SHKR0101",
+            "sym": "SHKX1",
+            "sym_name_latin": "Shahroud Sugar-R",
+            "sym_name": "قشكرح",
+            "name": "ح . ‌ شكرشاهرود"
+        },
+        {
+            "sym_id": "IRO1GHND0001",
+            "sym": "GHND1",
+            "sym_name_latin": "Khoy Sugar Co.",
+            "sym_name": "قشهد",
+            "name": "شهد"
+        },
+        {
+            "sym_id": "IRR1GHND0101",
+            "sym": "GHNX1",
+            "sym_name_latin": "Khoy Sugar Co.-R",
+            "sym_name": "قشهدح",
+            "name": "ح . شهد"
+        },
+        {
+            "sym_id": "IRO1GBJN0001",
+            "sym": "GBJN1",
+            "sym_name_latin": "S.Q.B. Sugar",
+            "sym_name": "قشير",
+            "name": "قندشيروان‌ ،قوچان‌ وبجنورد"
+        },
+        {
+            "sym_id": "IRR1GBJN0101",
+            "sym": "GBJX1",
+            "sym_name_latin": "S.Q.B. Sugar-R",
+            "sym_name": "قشيرح",
+            "name": "ح . قندشيروان‌ ،قوچان‌ وبجنورد"
+        },
+        {
+            "sym_id": "IRO1GESF0001",
+            "sym": "GESF1",
+            "sym_name_latin": "Isfahan Sugar",
+            "sym_name": "قصفها",
+            "name": "قنداصفهان‌"
+        },
+        {
+            "sym_id": "IRR1GESF0101",
+            "sym": "GESX1",
+            "sym_name_latin": "Isfahan Sugar-R",
+            "sym_name": "قصفهاح",
+            "name": "ح . قنداصفهان‌"
+        },
+        {
+            "sym_id": "IRO1GLOR0001",
+            "sym": "GLOR1",
+            "sym_name_latin": "Lorestan Sugar",
+            "sym_name": "قلرست",
+            "name": "قند لرستان‌"
+        },
+        {
+            "sym_id": "IRR1GLOR0101",
+            "sym": "GLOX1",
+            "sym_name_latin": "Lorestan Sugar-R",
+            "sym_name": "قلرستح",
+            "name": "ح . قند لرستان‌"
+        },
+        {
+            "sym_id": "IRO1GMRO0001",
+            "sym": "GMRO1",
+            "sym_name_latin": "Marvdasht Sugar",
+            "sym_name": "قمرو",
+            "name": "قند مرودشت‌"
+        },
+        {
+            "sym_id": "IRR1GMRO0101",
+            "sym": "GMRX1",
+            "sym_name_latin": "Marvdasht Sugar-R",
+            "sym_name": "قمروح",
+            "name": "ح . قند مرودشت‌"
+        },
+        {
+            "sym_id": "IRO1GNJN0001",
+            "sym": "GNJN1",
+            "sym_name_latin": "Naghsh Jahan S.",
+            "sym_name": "قنقش",
+            "name": "قندنقش‌جهان‌"
+        },
+        {
+            "sym_id": "IRR1GNJN0101",
+            "sym": "GNJX1",
+            "sym_name_latin": "Naghsh Jahan S.-R",
+            "sym_name": "قنقشح",
+            "name": "ح . قندنقش‌جهان‌"
+        },
+        {
+            "sym_id": "IRO1GNBO0001",
+            "sym": "GNBO1",
+            "sym_name_latin": "Neyshabour S.",
+            "sym_name": "قنيشا",
+            "name": "قند  نيشابور"
+        },
+        {
+            "sym_id": "IRO1GHEG0001",
+            "sym": "GHEG1",
+            "sym_name_latin": "Hegmatan Sugar",
+            "sym_name": "قهكمت",
+            "name": "قندهكمتان‌"
+        },
+        {
+            "sym_id": "IRR1GHEG0101",
+            "sym": "GHEX1",
+            "sym_name_latin": "Hegmatan Sugar-R",
+            "sym_name": "قهكمتح",
+            "name": "ح . قندهكمتان‌"
+        }
+    ],
+    "كاشي و سراميك": [
+        {
+            "sym_id": "IRO1KESF0001",
+            "sym": "KESF1",
+            "sym_name_latin": "Isfahan Tile",
+            "sym_name": "كاصفا",
+            "name": "كاشي‌ اصفهان‌"
+        },
+        {
+            "sym_id": "IRR1KESF0101",
+            "sym": "KESX1",
+            "sym_name_latin": "Isfahan Tile-R",
+            "sym_name": "كاصفاح",
+            "name": "ح . كاشي‌ اصفهان‌"
+        },
+        {
+            "sym_id": "IRO1KPRS0001",
+            "sym": "KPRS1",
+            "sym_name_latin": "Pars Tile",
+            "sym_name": "كپارس",
+            "name": "كاشي‌ پارس‌"
+        },
+        {
+            "sym_id": "IRR1KPRS0101",
+            "sym": "KPRX1",
+            "sym_name_latin": "Pars Tile-R",
+            "sym_name": "كپارسح",
+            "name": "ح . كاشي‌ پارس‌"
+        },
+        {
+            "sym_id": "IRO1TKSM0001",
+            "sym": "TKSM1",
+            "sym_name_latin": "Takceram",
+            "sym_name": "كترام",
+            "name": "توليدي‌ كاشي‌ تكسرام‌"
+        },
+        {
+            "sym_id": "IRR1TKSM0101",
+            "sym": "TKSX1",
+            "sym_name_latin": "Takceram-R",
+            "sym_name": "كترامح",
+            "name": "ح . توليدي‌ كاشي‌ تكسرام‌"
+        },
+        {
+            "sym_id": "IRO1CHIR0001",
+            "sym": "CHIR1",
+            "sym_name_latin": "Irana Tile",
+            "sym_name": "كچيني",
+            "name": "چيني‌ ايران"
+        },
+        {
+            "sym_id": "IRR1CHIR0101",
+            "sym": "CHIX1",
+            "sym_name_latin": "Irana Tile-R",
+            "sym_name": "كچينيح",
+            "name": "ح . چيني‌ ايران"
+        },
+        {
+            "sym_id": "IRO1KHFZ0001",
+            "sym": "KHFZ1",
+            "sym_name_latin": "Hafez Tile",
+            "sym_name": "كحافظ",
+            "name": "كاشي‌ وسراميك‌ حافظ‌"
+        },
+        {
+            "sym_id": "IRR1KHFZ0101",
+            "sym": "KHFX1",
+            "sym_name_latin": "Hafez Tile-R",
+            "sym_name": "كحافظح",
+            "name": "ح . كاشي‌ وسراميك‌ حافظ‌"
+        },
+        {
+            "sym_id": "IRO1SINA0001",
+            "sym": "SINA1",
+            "sym_name_latin": "Sina Tile",
+            "sym_name": "كساوه",
+            "name": "صنايع‌ كاشي‌ و سراميك‌ سينا"
+        },
+        {
+            "sym_id": "IRR1SINA0101",
+            "sym": "SINX1",
+            "sym_name_latin": "Sina Tile-R",
+            "sym_name": "كساوهح",
+            "name": "ح . صنايع‌ كاشي‌ وسراميك‌ سينا"
+        },
+        {
+            "sym_id": "IRO1KSAD0001",
+            "sym": "KSAD1",
+            "sym_name_latin": "Saadi Tile",
+            "sym_name": "كسعدي",
+            "name": "كاشي‌ سعدي‌"
+        },
+        {
+            "sym_id": "IRR1KSAD0101",
+            "sym": "KSAX1",
+            "sym_name_latin": "Saadi Tile-R",
+            "sym_name": "كسعديح",
+            "name": "ح . كاشي‌ سعدي‌"
+        },
+        {
+            "sym_id": "IRO1ALVN0001",
+            "sym": "ALVN1",
+            "sym_name_latin": "Alvand Tile",
+            "sym_name": "كلوند",
+            "name": "كاشي‌ الوند"
+        },
+        {
+            "sym_id": "IRR1ALVN0101",
+            "sym": "ALVX1",
+            "sym_name_latin": "Alvand Tile-R",
+            "sym_name": "كلوندح",
+            "name": "ح . كاشي‌ الوند"
+        },
+        {
+            "sym_id": "IRO1NILO0001",
+            "sym": "NILO1",
+            "sym_name_latin": "Nilou Tile",
+            "sym_name": "كنيلو",
+            "name": "كاشي‌ نيلو"
+        },
+        {
+            "sym_id": "IRR1NILO0101",
+            "sym": "NILX1",
+            "sym_name_latin": "Nilou Tile-R",
+            "sym_name": "كنيلوح",
+            "name": "ح . كاشي‌ نيلو"
+        },
+        {
+            "sym_id": "IRO1BHSM0001",
+            "sym": "BHSM1",
+            "sym_name_latin": "Behceram",
+            "sym_name": "كهرام",
+            "name": "توليدي‌گرانيت‌بهسرام‌"
+        },
+        {
+            "sym_id": "IRR1BHSM0101",
+            "sym": "BHSX1",
+            "sym_name_latin": "Behceram-R",
+            "sym_name": "كهرامح",
+            "name": "ح . توليدي‌گرانيت‌بهسرام‌"
+        }
+    ],
+    "استخراج زغال سنگ": [
+        {
+            "sym_id": "IRO1TBAS0001",
+            "sym": "TBAS1",
+            "sym_name_latin": "Negin Tabas L.",
+            "sym_name": "كطبس",
+            "name": "ذغال‌سنگ‌ نگين‌ ط‌بس‌"
+        },
+        {
+            "sym_id": "IRR1TBAS0101",
+            "sym": "TBAX1",
+            "sym_name_latin": "Negin Tabas L.-R",
+            "sym_name": "كطبسح",
+            "name": "ح . ذغال‌سنگ‌ نگين‌ ط‌بس‌"
+        }
+    ],
+    "استخراج ساير معادن": [
+        {
+            "sym_id": "IRO1TAMI0001",
+            "sym": "TAMI1",
+            "sym_name_latin": "Sand Foundry",
+            "sym_name": "كماسه",
+            "name": "تامين‌ ماسه‌ ريخته‌گري‌"
+        },
+        {
+            "sym_id": "IRR1TAMI0101",
+            "sym": "TAMX1",
+            "sym_name_latin": "Sand Foundry-R",
+            "sym_name": "كماسهح",
+            "name": "ح . تامين‌ ماسه‌ ريخته‌گري‌"
+        }
+    ],
+    "ساخت دستگاه‌ها و وسايل ارتباطي": [
+        {
+            "sym_id": "IRO1PELC0001",
+            "sym": "PELC1",
+            "sym_name_latin": "Pars Electric",
+            "sym_name": "لپارس",
+            "name": "پارس‌ الكتريك‌"
+        },
+        {
+            "sym_id": "IRR1PELC0101",
+            "sym": "PELX1",
+            "sym_name_latin": "Pars Electric-R",
+            "sym_name": "لپارسح",
+            "name": "ح . پارس‌ الكتريك‌"
+        },
+        {
+            "sym_id": "IRO1PYAM0001",
+            "sym": "PYAM1",
+            "sym_name_latin": "Payam Ind.",
+            "sym_name": "لپيام",
+            "name": "كارخانجات‌ صنعتي‌ پيام‌"
+        },
+        {
+            "sym_id": "IRR1PYAM0101",
+            "sym": "PYAX1",
+            "sym_name_latin": "Payam Ind.-R",
+            "sym_name": "لپيامح",
+            "name": "ح . كارخانجات‌ صنعتي‌ پيام‌"
+        },
+        {
+            "sym_id": "IRO1JJNM0001",
+            "sym": "JJNM1",
+            "sym_name_latin": "Jame Jahan Nema",
+            "sym_name": "لجام",
+            "name": "توليدي‌ جام‌ جهان‌ نما"
+        },
+        {
+            "sym_id": "IRR1JJNM0101",
+            "sym": "JJNX1",
+            "sym_name_latin": "Jame Jahan Nema-R",
+            "sym_name": "لجامح",
+            "name": "ح . توليدي‌ جام‌ جهان‌ نما"
+        },
+        {
+            "sym_id": "IRO1KMOA0001",
+            "sym": "KMOA1",
+            "sym_name_latin": "Iran Tele Fact.",
+            "sym_name": "لكما",
+            "name": "كارخانجات‌مخابراتي‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1KMOA0101",
+            "sym": "KMOX1",
+            "sym_name_latin": "Iran Tele Fact.-R",
+            "sym_name": "لكماح",
+            "name": "ح . كارخانجات‌مخابراتي‌ايران‌"
+        },
+        {
+            "sym_id": "IRO1SMRI0001",
+            "sym": "SMRI1",
+            "sym_name_latin": "Iran Tele.",
+            "sym_name": "لمخابر",
+            "name": "صنايع‌مخابراتي‌راه‌دورايران‌"
+        },
+        {
+            "sym_id": "IRR1SMRI0101",
+            "sym": "SMRX1",
+            "sym_name_latin": "Iran Tele.-R",
+            "sym_name": "لمخابرح",
+            "name": "ح . ‌مخابراتي‌راه‌دورايران‌"
+        }
+    ],
+    "منسوجات": [
+        {
+            "sym_id": "IRO1BROJ0001",
+            "sym": "BROJ1",
+            "sym_name_latin": "Boroujerd T.",
+            "sym_name": "نبروج",
+            "name": "نساجي‌ بروجرد"
+        },
+        {
+            "sym_id": "IRR1BROJ0101",
+            "sym": "BROX1",
+            "sym_name_latin": "Boroujerd T.-R",
+            "sym_name": "نبروجح",
+            "name": "ح . نساجي‌ بروجرد"
+        },
+        {
+            "sym_id": "IRO1PTOS0001",
+            "sym": "PTOS1",
+            "sym_name_latin": "Tous Woolen",
+            "sym_name": "نتوس",
+            "name": "پشم‌ بافي‌ توس‌"
+        },
+        {
+            "sym_id": "IRR1PTOS0101",
+            "sym": "PTOX1",
+            "sym_name_latin": "Tous Woolen-R",
+            "sym_name": "نتوسح",
+            "name": "ح . پشم‌ بافي‌ توس‌"
+        },
+        {
+            "sym_id": "IRO1MRIN0001",
+            "sym": "MRIN1",
+            "sym_name_latin": "Iranmerinos",
+            "sym_name": "نمرينو",
+            "name": "ايران‌ مرينوس‌"
+        },
+        {
+            "sym_id": "IRR1MRIN0101",
+            "sym": "MRIX1",
+            "sym_name_latin": "Iranmerinos-R",
+            "sym_name": "نمرينوح",
+            "name": "ح . ايران‌ مرينوس‌"
+        }
+    ],
+    "بانكها و موسسات اعتباري": [
+        {
+            "sym_id": "IRO1BANS0001",
+            "sym": "BANS1",
+            "sym_name_latin": "Ansar Bank",
+            "sym_name": "وانصار",
+            "name": "بانك انصار"
+        },
+        {
+            "sym_id": "IRR1BANS0101",
+            "sym": "BNAX1",
+            "sym_name_latin": "Ansar Bank-R",
+            "sym_name": "وانصارح",
+            "name": "ح.بانك انصار"
+        },
+        {
+            "sym_id": "IRO1BSDR0001",
+            "sym": "BSDR1",
+            "sym_name_latin": "Saderat Bank",
+            "sym_name": "وبصادر",
+            "name": "بانك صادرات ايران"
+        },
+        {
+            "sym_id": "IRO1BMLT0001",
+            "sym": "BMLT1",
+            "sym_name_latin": "S*Mellat Bank",
+            "sym_name": "وبملت",
+            "name": "بانك ملت"
+        },
+        {
+            "sym_id": "IRR1BMLT0101",
+            "sym": "BMLX1",
+            "sym_name_latin": "Mellat Bank - R",
+            "sym_name": "وبملتح",
+            "name": "ح . بانك ملت"
+        },
+        {
+            "sym_id": "IRO1BPAR0001",
+            "sym": "BPAR1",
+            "sym_name_latin": "Parsian Bank",
+            "sym_name": "وپارس",
+            "name": "بانك‌پارسيان‌"
+        },
+        {
+            "sym_id": "IRR1BPAR0101",
+            "sym": "BPAX1",
+            "sym_name_latin": "Parsian Bank-R",
+            "sym_name": "وپارسح",
+            "name": "ح . بانك‌پارسيان‌"
+        },
+        {
+            "sym_id": "IRO1BPAS0001",
+            "sym": "BPAS1",
+            "sym_name_latin": "S*Pasargad Bank",
+            "sym_name": "وپاسار",
+            "name": "بانك  پاسارگاد"
+        },
+        {
+            "sym_id": "IRR1BPAS0101",
+            "sym": "BPSX1",
+            "sym_name_latin": "Pasargad Bank -R",
+            "sym_name": "وپاسارح",
+            "name": "ح.بانك پاسارگاد"
+        },
+        {
+            "sym_id": "IRO1BPST0001",
+            "sym": "BPST1",
+            "sym_name_latin": "Post Bank",
+            "sym_name": "وپست",
+            "name": "پست بانك ايران"
+        },
+        {
+            "sym_id": "IRO1BTEJ0001",
+            "sym": "BTEJ1",
+            "sym_name_latin": "S*Tejarat Bank",
+            "sym_name": "وتجارت",
+            "name": "بانك تجارت"
+        },
+        {
+            "sym_id": "IRR1BTEJ0101",
+            "sym": "BTEX1",
+            "sym_name_latin": "Tejarat Bank-R",
+            "sym_name": "وتجارتح",
+            "name": "ح . بانك تجارت"
+        },
+        {
+            "sym_id": "IRO1BKHZ0001",
+            "sym": "BKHZ1",
+            "sym_name_latin": "Bank of M.E.",
+            "sym_name": "وخاور",
+            "name": "بانك خاورميانه"
+        },
+        {
+            "sym_id": "IRR1BKHZ0101",
+            "sym": "BKHX1",
+            "sym_name_latin": "Bank of M.E.-R",
+            "sym_name": "وخاورح",
+            "name": "ح . بانك خاورميانه"
+        },
+        {
+            "sym_id": "IRO1VSIN0001",
+            "sym": "VSIN1",
+            "sym_name_latin": "Sina Fin. Ins.",
+            "sym_name": "وسينا",
+            "name": "بانك سينا"
+        },
+        {
+            "sym_id": "IRR1VSIN0101",
+            "sym": "VSIX1",
+            "sym_name_latin": "Sina Fin. Ins.-R",
+            "sym_name": "وسيناح",
+            "name": "ح . بانك سينا"
+        },
+        {
+            "sym_id": "IRO1KRAF0001",
+            "sym": "KRAF1",
+            "sym_name_latin": "Karafarin Bank",
+            "sym_name": "وكار",
+            "name": "بانك‌ كارآفرين‌"
+        },
+        {
+            "sym_id": "IRR1KRAF0101",
+            "sym": "KRAX1",
+            "sym_name_latin": "Karafarin Bank-R",
+            "sym_name": "وكارح",
+            "name": "ح . بانك‌ كارآفرين‌"
+        },
+        {
+            "sym_id": "IRO1NOVN0001",
+            "sym": "NOVN1",
+            "sym_name_latin": "S*EN Bank",
+            "sym_name": "ونوين",
+            "name": "بانك‌اقتصادنوين‌"
+        },
+        {
+            "sym_id": "IRR1NOVN0101",
+            "sym": "NOVX1",
+            "sym_name_latin": "EN Bank-R",
+            "sym_name": "ونوينح",
+            "name": "ح . بانك‌اقتصادنوين‌"
+        }
+    ],
+    "ساير واسطه گريهاي مالي": [
+        {
+            "sym_id": "IRO1LIRZ0001",
+            "sym": "LIRZ1",
+            "sym_name_latin": "Iranian Lizing",
+            "sym_name": "وايران",
+            "name": "ليزينگ ايرانيان"
+        },
+        {
+            "sym_id": "IRO1LPRS0001",
+            "sym": "LPRS1",
+            "sym_name_latin": "Parsian leasing",
+            "sym_name": "ولپارس",
+            "name": "ليزينگ پارسيان"
+        },
+        {
+            "sym_id": "IRO1RSAP0001",
+            "sym": "RSAP1",
+            "sym_name_latin": "S*Rayan Saipa",
+            "sym_name": "ولساپا",
+            "name": "ليزينگ رايان‌ سايپا"
+        },
+        {
+            "sym_id": "IRR1RSAP0101",
+            "sym": "RSAX1",
+            "sym_name_latin": "Rayan Saipa-R",
+            "sym_name": "ولساپاح",
+            "name": "ح . ليزينگ رايان‌ سايپا"
+        },
+        {
+            "sym_id": "IRO1LSMD0001",
+            "sym": "LSMD1",
+            "sym_name_latin": "Ind. & M. L.",
+            "sym_name": "ولصنم",
+            "name": "ليزينگ‌صنعت‌ومعدن‌"
+        },
+        {
+            "sym_id": "IRR1LSMD0101",
+            "sym": "LSMX1",
+            "sym_name_latin": "Ind. & M. L.-R",
+            "sym_name": "ولصنمح",
+            "name": "ح . ليزينگ‌صنعت‌ومعدن‌"
+        },
+        {
+            "sym_id": "IRO1LKGH0001",
+            "sym": "LKGH1",
+            "sym_name_latin": "Ghadir Kh. L.",
+            "sym_name": "ولغدر",
+            "name": "ليزينگ‌خودروغدير"
+        },
+        {
+            "sym_id": "IRR1LKGH0101",
+            "sym": "LKGX1",
+            "sym_name_latin": "Ghadir Kh. L.-R",
+            "sym_name": "ولغدرح",
+            "name": "ح . ليزينگ‌خودروغدير"
+        },
+        {
+            "sym_id": "IRO1LKAR0001",
+            "sym": "LKAR1",
+            "sym_name_latin": "Kar Af. Leasing",
+            "sym_name": "ولكار",
+            "name": "ليزينگ كارآفرين"
+        },
+        {
+            "sym_id": "IRO1VLMT0001",
+            "sym": "VLMT1",
+            "sym_name_latin": "Mellat Leasing",
+            "sym_name": "ولملت",
+            "name": "واسپاري ملت"
+        },
+        {
+            "sym_id": "IRR1VLMT0101",
+            "sym": "VLMX1",
+            "sym_name_latin": "Mellat Leasing-R",
+            "sym_name": "ولملتح",
+            "name": "ح . واسپاري ملت"
+        },
+        {
+            "sym_id": "IRO1VALE0001",
+            "sym": "VALE1",
+            "sym_name_latin": "E. Novin Leasing",
+            "sym_name": "ولنوين",
+            "name": "ليزينگ اقتصاد نوين"
+        },
+        {
+            "sym_id": "IRO1LZIN0001",
+            "sym": "LZIN1",
+            "sym_name_latin": "Leasing Iran",
+            "sym_name": "وليز",
+            "name": "ليزينگ‌ايران‌"
+        },
+        {
+            "sym_id": "IRR1LZIN0101",
+            "sym": "LZIX1",
+            "sym_name_latin": "Leasing Iran-R",
+            "sym_name": "وليزح",
+            "name": "ح . ليزينگ‌ايران‌"
+        }
+    ],
+    "دباغي، پرداخت چرم و ساخت انواع پاپوش": [
+        {
+            "sym_id": "IRO1GMEL0001",
+            "sym": "GMEL1",
+            "sym_name_latin": "Melli Ind. Grp.",
+            "sym_name": "وملي",
+            "name": "گروه‌ صنعتي‌ ملي‌ (هلدينگ‌"
+        },
+        {
+            "sym_id": "IRR1GMEL0101",
+            "sym": "GMEX1",
+            "sym_name_latin": "Melli Ind. Grp.-R",
+            "sym_name": "ومليح",
+            "name": "ح . گروه‌ صنعتي‌ ملي‌ (هلدينگ‌"
+        }
+    ]
+}
