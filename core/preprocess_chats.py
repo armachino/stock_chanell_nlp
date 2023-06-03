@@ -1,24 +1,23 @@
 # %%time
 import pandas as pd
 import re
-import sys
 import pathlib
 
-from constants import SUBGROUPS
+from constants import SUBGROUPS,COMMUNITIES
 from utils.text import clean_text, compute_token_count, norm
 
 
 # print(pathlib.Path().resolve())
 
 
-stocks = pd.read_csv(str(pathlib.Path().resolve() )+ "/core/stocks_tsetmcs.csv")
+stocks = pd.read_csv(str(pathlib.Path().resolve()) + "/core/stocks_tsetmcs.csv")
 stocks = stocks[["sym_name", "name", "sym", "gp_name"]]
-exlude_list = ["ما", "تمدن"]
+exlude_list = ["بورس","ما", "تمدن"]
 stocks = stocks[~stocks["sym_name"].isin(exlude_list)]
 
 
 def if_stock_included_replace(txt):
-    txt =norm(txt)
+    txt = norm(txt)
     #     txt_list=txt.split()
 
     for index, row in stocks.iterrows():
@@ -42,7 +41,8 @@ def is_id_in_chatlist(chatlist, ID):
 
 
 def preprocess_subgroup2(data: object):
-    data_id = str(data["id"])
+    # data_id = str(data["id"])
+    com_name = data["community_name"]
 
     print("__> preprocess_subgroup", data["community_name"])
     # messages = boursgram_data["messages"]
@@ -51,19 +51,20 @@ def preprocess_subgroup2(data: object):
         txt = clean_text(mess["org_text"])
         print("__> chat_id", mess["chat_id"])
 
-        if compute_token_count(txt) > 500:
+        if compute_token_count(txt) > 450:
             continue
 
         is_stock_included, rep_txt = if_stock_included_replace(txt.strip())
         mess["text"] = rep_txt
-
+        # mess["channel_id"] = data_id
+        print("[opics__>",mess["reply_to_message_id"] not in COMMUNITIES[com_name]["topics"])
         if (
             ("reply_to_message_id" in mess)
             and (
-                (  ## checks in public_supergroup that have subgroups,wheter the replied messaged is not replied to the subgroup ID
+                (  ## checks in public_supergroup that have topics,wheter the replied messaged is not replied to the topics ID
                     data["type"] == "public_supergroup"
-                    and (data_id in SUBGROUPS)
-                    and (mess["reply_to_message_id"] not in SUBGROUPS[data_id])
+                    and (com_name in COMMUNITIES)
+                    and (mess["reply_to_message_id"] not in COMMUNITIES[com_name]["topics"])
                 )
                 or (data["type"] != "public_supergroup")
             )
@@ -85,3 +86,11 @@ def preprocess_subgroup2(data: object):
 
 # print(chat_list_1)
 #
+
+
+# returns just chats included stocks without any description.
+def extract_just_stocks_chats(chats: pd.DataFrame): 
+    clear_stock_names = (
+        chats["text"].str.replace("<([ا-ی]*)>", "", regex=True).str.strip()
+    )
+    return chats[clear_stock_names == ""]

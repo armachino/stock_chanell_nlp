@@ -2,9 +2,13 @@ import re
 import pandas as pd
 import numpy as np
 
+from constants import COMMUNITIES
 
-def handle_votes(labeled_chats):
+
+def handle_votes(labeled_chats,just_stocks_df):
     votes = {}
+    labeled_chats=pd.concat([labeled_chats,just_stocks_df])
+    labeled_chats.reset_index(inplace=True, drop=True)
     communities = labeled_chats["channel_name"].unique()  ##Telegram groups and channels
     for com in communities:
         com_chats = labeled_chats[labeled_chats["channel_name"] == com]
@@ -15,7 +19,8 @@ def handle_votes(labeled_chats):
             included_stocks = re.findall(r"<([ا-ی]*)>", row["text"])
             print("*_ORG_>", list(set(included_stocks)))
             # if row["text"].str.contains('بررسی|تحلیل|?|؟', regex=True)
-            if row["reply_to_message_id"]:
+            print(row["reply_to_message_id"])
+            if row["reply_to_message_id"]=="_":
                 # com_chats[]
                 replied_from_filter = labeled_chats["reply_to_message_id"].isin(
                     [row["reply_to_message_id"]]
@@ -47,12 +52,20 @@ def handle_votes(labeled_chats):
                 if row["pred"] in votes[com][stock]:
                     # votes[com][stock][row["pred"]]={}
                     votes[com][stock][row["pred"]]["chat_id_list"].add(row["chat_id"])
-                    votes[com][stock][row["pred"]]["pers_id_list"].add(row["person_id"])
+                    if (
+                        # COMMUNITIES[str(row["channel_id"])]["type"]
+                        COMMUNITIES[com]["type"]
+                        == "public_supergroup"
+                    ):  ## Check whether if the community type is  public_supergroup , also adds personsID and number of persons.
+                        votes[com][stock][row["pred"]]["pers_id_list"].add(
+                            row["person_id"]
+                        )
+                        votes[com][stock][row["pred"]]["pers_id_count"] = len(
+                            votes[com][stock][row["pred"]]["pers_id_list"]
+                        )
+
                     votes[com][stock][row["pred"]]["chat_id_count"] = len(
                         votes[com][stock][row["pred"]]["chat_id_list"]
-                    )
-                    votes[com][stock][row["pred"]]["pers_id_count"] = len(
-                        votes[com][stock][row["pred"]]["pers_id_list"]
                     )
                 else:
                     votes[com][stock][row["pred"]] = {
@@ -65,3 +78,16 @@ def handle_votes(labeled_chats):
 
     return votes
     # print(com_chats["channel_name"].unique())
+
+
+# output
+def preproccess_output(votes):
+    for com_vote in list(votes.values()):
+        for result in list(com_vote.values()):
+            for key in list(result.keys()):
+                if "pers_id_list" in result[key]:
+                    print(result[key])
+                    del result[key]["pers_id_list"]
+                del result[key]["chat_id_list"]
+    return votes
+

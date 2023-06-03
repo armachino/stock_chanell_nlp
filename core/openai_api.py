@@ -9,7 +9,8 @@ from tenacity import (
 
 from utils.text import compute_token_count
 
-openai.api_key = "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"
+# openai.api_key = "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"
+openai.api_key = "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"
 
 @retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(7))
 def embedding_with_backoff(input_data: list):
