@@ -1,3 +1,6 @@
+import os
+from dotenv import load_dotenv
+
 import pandas as pd
 import numpy as np 
 import openai  # for OpenAI API calls
@@ -9,8 +12,12 @@ from tenacity import (
 
 from utils.text import compute_token_count
 
+load_dotenv()
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+
 # openai.api_key = "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"
-openai.api_key = "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"
+# openai.api_key = "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"
+openai.api_key = OPENAI_API_KEY
 
 @retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(7))
 def embedding_with_backoff(input_data: list):

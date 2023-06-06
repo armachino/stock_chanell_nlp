@@ -14,7 +14,6 @@ path = str(os.getcwd())
 MODEL_PATH = os.path.join(path, "core", "models", "stock_nlp_model_v1.pickle")
 print("\n", path)
 
-
 def run():
     raw_chats = asyncio.run(get_communities_chats())
     preprocessed_chats = pd.DataFrame()

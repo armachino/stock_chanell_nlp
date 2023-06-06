@@ -1,43 +1,36 @@
-from telethon.sync import TelegramClient, connection
+import os
 import datetime
-import pandas as pd
+from dotenv import load_dotenv
 
-print("telgeraaaaaaaaaaaaaaaaaam")
+from telethon.sync import TelegramClient, connection
+import pandas as pd
 
 from constants import COMMUNITIES, SUBGROUPS
 
+load_dotenv()
+Telegram_API_ID = os.getenv("Telegram_API_ID")
+Telegram_API_HASH = os.getenv("Telegram_API_HASH")
+
 # Remember to use your own values from my.telegram.org!
-api_id = 23316483
-api_hash = "41e58d027579ade30d3e505a48fe3679"
-client = TelegramClient("stock", api_id, api_hash)
-
-# chats = ['smartboursegroup', 'close_trades','smartbourse_com','hezartahlil_g','saahmii','amir_ramzali','fundamental_View','MajidSoltany','Goldenn_Bourse']
-# chats = ["smartboursegroup"]
-# import datetime
-# client =  TelegramClient('test', api_id, api_hash)
-
-all_chat_list = {
-    # community["name_id"]: {
-    key: {
-        "id": None,
-        "community_name": None,
-        "messages": [],
-    }
-    for key, community in COMMUNITIES.items()
-}
-proxy = (
-    "2020haghll.co.apple.com.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_waya.api-botads23.co.uk",
-    443,
-    "0xee1603010200010001fc030386e24c3add686167682e7374617469632e666172616b61762e636f6d",
-)
+# api_id = 23316483
+# api_hash = "41e58d027579ade30d3e505a48fe3679"
 
 
 async def get_communities_chats(offsetdate: datetime.date = datetime.date.today()):
     # df = pd.DataFrame()
+    all_chat_list = {
+        # community["name_id"]: {
+        key: {
+            "id": None,
+            "community_name": None,
+            "messages": [],
+        }
+        for key, community in COMMUNITIES.items()
+    }
     async with TelegramClient(
         "stock_prog",
-        api_id,
-        api_hash,
+        Telegram_API_ID,
+        Telegram_API_HASH
         # connection=connection.ConnectionTcpMTProxyAbridged,
         # proxy=proxy,
     ) as client:
@@ -88,4 +81,4 @@ async def get_communities_chats(offsetdate: datetime.date = datetime.date.today(
 # df['date'] = df['date'].dt.tz_localize(None)
 
 # df.to_excel("telegrammmm.xlsx".format(datetime.date.today()), index=False)
-all_chat_list
+# all_chat_list
