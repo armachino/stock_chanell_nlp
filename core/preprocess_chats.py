@@ -10,7 +10,7 @@ from utils.text import clean_text, compute_token_count, norm
 # print(pathlib.Path().resolve())
 
 
-stocks = pd.read_csv(str(pathlib.Path().resolve()) + "/core/stocks_tsetmcs.csv")
+stocks = pd.read_csv(str(pathlib.Path().resolve()) + "/core/stocks/stocks_tsetmcs.csv")
 stocks = stocks[["sym_name", "name", "sym", "gp_name"]]
 exlude_list = ["بورس","ما", "تمدن"]
 stocks = stocks[~stocks["sym_name"].isin(exlude_list)]

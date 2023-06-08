@@ -3,7 +3,6 @@ import datetime
 from dotenv import load_dotenv
 
 from telethon.sync import TelegramClient, connection
-import pandas as pd
 
 from constants import COMMUNITIES, SUBGROUPS
 
@@ -38,9 +37,8 @@ async def get_communities_chats(offsetdate: datetime.date = datetime.date.today(
             # community_name = value["name_id"]
             all_chat_list[community_name]["community_name"] = community_name
             all_chat_list[community_name]["type"] = value["type"]
-            client
             chats = client.iter_messages(
-                community_name, offset_date=datetime.date.today(), reverse=True
+                community_name, offset_date=offsetdate, reverse=True
             )
 
             async for message in chats:
