@@ -1,5 +1,7 @@
 import asyncio
 import os
+from datetime import date
+from datetime import timedelta
 
 import pandas as pd
 import numpy as np
@@ -15,7 +17,8 @@ MODEL_PATH = os.path.join(path, "core", "models", "stock_nlp_model_v1.pickle")
 print("\n", path)
 
 def run():
-    raw_chats = asyncio.run(get_communities_chats())
+    yesterday = date.today() - timedelta(days = 3)
+    raw_chats = asyncio.run(get_communities_chats(yesterday))
     preprocessed_chats = pd.DataFrame()
 
     for community_name, chat_list in raw_chats.items():
@@ -23,8 +26,8 @@ def run():
         df["channel_name"] = community_name
         preprocessed_chats = pd.concat([preprocessed_chats, df])
         preprocessed_chats.reset_index(inplace=True, drop=True)
-    preprocessed_chats.to_csv("./preprocessed_chats.csv", index=False)
-    preprocessed_chats = pd.read_csv("./preprocessed_chats.csv")
+    # preprocessed_chats.to_csv("./preprocessed_chats.csv", index=False)
+    # preprocessed_chats = pd.read_csv("./preprocessed_chats.csv")
 
     preprocessed_chats = preprocessed_chats[preprocessed_chats["text"] != ""]
     preprocessed_chats.fillna("_",inplace=True)
@@ -39,8 +42,8 @@ def run():
     embeded_chats = get_embedding(
         exlude_just_stocks
     )  # add embeded columns to the chats dataframe
-    embeded_chats.to_csv("./embeded_chats.csv", index=False)
-    embeded_chats = pd.read_csv("./embeded_chats.csv")
+    # embeded_chats.to_csv("./embeded_chats.csv", index=False)
+    # embeded_chats = pd.read_csv("./embeded_chats.csv")
 
     embeded_chats["embedding"] = embeded_chats.embedding.apply(eval).apply(
         np.array, dtype=object
@@ -49,8 +52,8 @@ def run():
     loaded_model = pickle.load(open(MODEL_PATH, "rb"))
     y_predicted = loaded_model.predict(list(embeded_chats["embedding"]))
     embeded_chats["pred"] = y_predicted
-    embeded_chats.to_csv("./pred_chats.csv", index=False)
-    embeded_chats = pd.read_csv("./pred_chats.csv")
+    # embeded_chats.to_csv("./pred_chats.csv", index=False)
+    # embeded_chats = pd.read_csv("./pred_chats.csv")
     # print("embeded_chats.columns.values__> ", pred_chats.columns.values)
 
     # print(handle_votes(pred_chats))
@@ -66,4 +69,4 @@ def run():
 
 if __name__ == "__main__":
     run()
-    pass
+
