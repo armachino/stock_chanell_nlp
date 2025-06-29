@@ -1,0 +1,17 @@
+name: telegram-openai-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - openai
+  - python-dotenv
+  - tenacity
+  - regex
+  - tiktoken
+  - pip
+  - pip:
+      - telethon
+      - parsivar
